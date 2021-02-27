@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Econ Mentoring LATAM"
+title:		           "EMLA"
 description:	       "a diverse community to enhance the vulnerable communities form LATAM"
 author:              "Econ Mentoring Group"
 
