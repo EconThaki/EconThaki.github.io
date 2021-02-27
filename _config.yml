@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "EMLA"
-description:	       "a diverse community to enhance the vulnerable communities form LATAM"
+description:	       "a diverse community to enhance the vulnerable communities from LATAM"
 author:              "Econ Mentoring Group"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
