@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to EMLA!"
-author: "Econ Mentoring LA"
+author: "Econ Mentoring group"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg

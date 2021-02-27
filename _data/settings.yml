@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Home', folder: 'pages', file: 'home.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Inicio', folder: 'pages', file: 'home.html'}
+- {name: 'Recursos', folder: 'pages', file: 'resources.html'}
+- {name: 'Talleres', folder: 'pages', file: 'workshops.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
@@ -28,8 +28,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Comparte con el mundo!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'También podría interesarte...'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito en'
