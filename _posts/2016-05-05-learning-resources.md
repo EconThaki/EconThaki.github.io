@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Paul Le"
+author: "Econ Mentoring Group"
 categories: resources
 tags: [documentation,sample]
 image: arctic-4.jpg
