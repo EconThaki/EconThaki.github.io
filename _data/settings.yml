@@ -7,7 +7,7 @@ disqus:
 google-ID: 'G-2BG8KTZQ3G'
 
 menu:
-- {name: 'Inicio', folder: 'pages', file: 'home.html'}
+- {name: 'Inicio', folder: 'pages', file: 'inicio.html'}
 - {name: 'Recursos', folder: 'pages', file: 'resources.html'}
 - {name: 'Talleres', folder: 'pages', file: 'talleres.html'}
 - {name: 'Voces', folder: 'pages', file: 'voces.html'}
