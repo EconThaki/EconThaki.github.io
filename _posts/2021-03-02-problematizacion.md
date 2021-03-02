@@ -2,10 +2,10 @@
 layout: post
 title: "Problematización"
 author: "Econ Mentoring group"
-categories: home
+categories: inicio
 
 <!-- tags indicates in which page is going to appear this document -->
-tags: [documentation,sample,home]
+tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
