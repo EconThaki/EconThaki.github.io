@@ -9,7 +9,7 @@ google-ID: 'G-2BG8KTZQ3G'
 menu:
 - {name: 'Inicio', folder: 'pages', file: 'home.html'}
 - {name: 'Recursos', folder: 'pages', file: 'resources.html'}
-- {name: 'Talleres', folder: 'pages', file: 'workshops.html'}
+- {name: 'Talleres', folder: 'pages', file: 'talleres.html'}
 - {name: 'Voces', folder: 'pages', file: 'voces.html'}
 - {name: 'Contacto', folder: 'pages', file: 'contact.html'}
 
