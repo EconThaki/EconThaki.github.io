@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to EconThaki!"
-author: "Econ Mentoring group"
+author: "EconThaki"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
