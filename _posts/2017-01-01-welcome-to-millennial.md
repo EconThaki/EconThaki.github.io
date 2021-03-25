@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to EMLA!"
-author: "Econ Mentoring group"
+title: "Welcome to EconThaki!"
+author: "EconThaki"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg

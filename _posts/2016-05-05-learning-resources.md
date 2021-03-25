@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Econ Mentoring Group"
+author: "EconThaki"
 categories: oldresources
 tags: [documentation,sample]
 image: arctic-4.jpg

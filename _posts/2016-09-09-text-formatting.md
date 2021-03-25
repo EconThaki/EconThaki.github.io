@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text Formatting"
-author: "Econ Mentoring Group"
+author: "EconThaki"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg

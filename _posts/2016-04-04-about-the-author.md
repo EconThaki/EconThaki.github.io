@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About Econ Mentoring LA"
-author: "Econ Mentoring Group"
+author: "EconThaki"
 categories: facts
 tags: [sample]
 image: firstmeeting.png

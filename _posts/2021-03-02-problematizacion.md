@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Problematización"
-author: "Econ Mentoring group"
-categories: inicio
+author: "EconThaki"
+categories: problem
 tags: [sample]
 image: cuba-1.jpg
 ---
