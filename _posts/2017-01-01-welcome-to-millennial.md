@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to EMLA!"
+title: "Welcome to EconThaki!"
 author: "Econ Mentoring group"
 categories: documentation
 tags: [documentation,sample]
