@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "EMLA"
+title:		           "EconThaki"
 description:	       "Una comunidad diversa que promueve el acceso equitativo a la academia"
 author:              "Econ Mentoring Group"
 
