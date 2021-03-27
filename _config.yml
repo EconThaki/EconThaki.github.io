@@ -7,8 +7,10 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
+
 email: 'econ.mentoringp@gmail.com'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-2BG8KTZQ3G'
+
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
@@ -18,10 +20,12 @@ authors:
     name: EconThaki
     display_name: EconThaki
     gravatar: 
+
     email: econ.mentoringp@gmail.com
     web: https://econmentoringla.github.io
     twitter: 
     description: "EconThaki por una academia diversa"
+
 
 # Plugins
 plugins: 
