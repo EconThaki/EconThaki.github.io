@@ -4,7 +4,6 @@ title:  "Encuestas"
 author: EconThaki
 categories: [ Encuestas, Datos ]
 image: assets/images/firstmeeting.png
-featured: true
 ---
 
 **Encuestas**
