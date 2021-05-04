@@ -3,7 +3,7 @@ layout: post
 title:  "El Problema Identificado"
 author: EconThaki
 categories: [ Problematica, Academia ]
-image: assets/images/5.jpg
+image: assets/images/firstmeeting.png
 ---
 
 **El problema: Una academia pequeña y poco diversa en LAC.**
