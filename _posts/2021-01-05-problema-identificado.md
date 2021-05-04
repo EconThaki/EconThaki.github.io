@@ -2,7 +2,7 @@
 layout: post
 title:  "El Problema Identificado"
 author: EconThaki
-categories: [ Jekyll, tutorial ]
+categories: [ Problemática, Academia ]
 image: assets/images/5.jpg
 ---
 
