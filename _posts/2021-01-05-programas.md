@@ -4,6 +4,7 @@ title: Programas
 comments: true
 author: EconThaki
 categories: [Programas]
+image: assets/images/firstmeeting.png
 ---
 
 **Programas**
