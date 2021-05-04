@@ -26,4 +26,5 @@ Una academia en economía más grande, diversa y rigurosa.
 
 **El equipo**
 
+(Imágenes de los 5 en caricatura y nombres. Links a sus páginas si quieren)
 

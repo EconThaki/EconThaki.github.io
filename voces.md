@@ -4,17 +4,12 @@ title: Voces
 comments: true
 ---
 
+**Voces**
 
-## Nuestres Aliades
-
-### Investadores estrellas haciendo el PHD
-
-### Investigadores estrellas en la academia
-
-### Instituciones hermanas 
+En esta sección, entrevistamos y resaltamos el trabajo de estudiantes de la comunidad latina estudiando el Doctorado o recién egresados de él.
 
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+![voces]({{site.baseurl}}/assets/images/voces.jpg)
 
 
 
