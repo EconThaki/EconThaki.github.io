@@ -3,7 +3,7 @@ layout: post
 title:  "El Problema Identificado"
 author: EconThaki
 categories: [ Problematica, Academia ]
-image: assets/images/firstmeeting.png
+image: assets/images/head.jpg
 featured: true
 ---
 
