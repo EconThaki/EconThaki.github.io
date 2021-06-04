@@ -16,15 +16,49 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  sal:
+  econthaki:
     name: EconThaki
     display_name: EconThaki
-    gravatar: 
-
     email: econ.mentoringp@gmail.com
     web: https://econthaki.github.io
     twitter: 
     description: "EconThaki por una academia diversa"
+  selene:
+    name: Selene
+    display_name: Selene
+    email: scueva@povertyactionlab.org
+    twitter: https://twitter.com/selenedelpi
+    description: "Selene es investigadora en JPAL"
+  brian:
+    name: Brian
+    display_name: Brian
+    email: dazavbn@gmail.com
+    twitter: https://twitter.com/bdazav
+    description: "Brian es alumno de PhD en la Universidad de Michigan"
+  paola:
+    name: Paola
+    display_name: Paola
+    email: 
+    twitter: 
+    description: ""
+  gabriela: 
+    name: Gabriela
+    display_name: Gabriela
+    email: 
+    twitter: 
+    description: ""
+  marcy: 
+    name: Marcy
+    display_name: Marcy
+    email: 
+    twitter: 
+    description: ""    
+  jostin:  
+    name: Jostin
+    display_name: Jostin
+    email: 
+    twitter: 
+    description: ""    
 
 
 # Plugins
