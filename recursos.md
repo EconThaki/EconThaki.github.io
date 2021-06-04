@@ -2,7 +2,7 @@
 layout: page
 title: Recursos
 comments: true
-image: assets/images/firstmeeting.png
+image: assets/images/shutterstock_731263783.jpg
 ---
 
 
