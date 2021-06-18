@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El Problema Identificado"
-author: EconThaki
+author: econthaki
 categories: [ Problematica, Academia ]
 image: assets/images/head.jpg
 featured: true
