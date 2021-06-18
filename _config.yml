@@ -28,37 +28,37 @@ authors:
     display_name: Selene
     email: scueva@povertyactionlab.org
     twitter: https://twitter.com/selenedelpi
-    description: "Selene es investigadora en JPAL"
+    description: "Selene es Investigadora Asociada en JPAL"
   brian:
     name: Brian
     display_name: Brian
     email: dazavbn@gmail.com
     twitter: https://twitter.com/bdazav
-    description: "Brian es alumno de PhD en la Universidad de Michigan"
+    description: "Brian es Poeta, catador de caldo de pollo y PhD student en UMICH"
   paola:
     name: Paola
     display_name: Paola
-    email: 
-    twitter: 
-    description: ""
+    email: paola.villapar@gmail.com
+    twitter: https://twitter.com/paola_villaparo
+    description: "Paola es Pre-doctoral fellow en Princeton"
   gabriela: 
     name: Gabriela
     display_name: Gabriela
-    email: 
-    twitter: 
-    description: ""
+    email:  gaby.lecaro@gmail.com
+    twitter: https://twitter.com/GabLecaro
+    description: "Investigadora Asociada en IPA"
   marcy: 
     name: Marcy
     display_name: Marcy
-    email: 
-    twitter: 
-    description: ""    
+    email: mgcastro@pucp.pe
+    twitter: https://twitter.com/mgcastrolivano
+    description: "Marcy es asistente de investigación en el BID"    
   jostin:  
     name: Jostin
     display_name: Jostin
-    email: 
-    twitter: 
-    description: ""    
+    email: jostin.kitmang@gmail.com
+    twitter: https://twitter.com/JKitmang
+    description: "Jostin es Investigador Asociado en JPAL"    
 
 
 # Plugins

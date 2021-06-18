@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Encuestas"
-author: EconThaki
+author: econthaki
 categories: [ Encuestas, Datos ]
 image: assets/images/shutterstock_731263783.jpg
 ---
