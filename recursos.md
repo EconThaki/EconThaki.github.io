@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Recursos
-comments: true
 image: assets/images/shutterstock_1783073450.jpg
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Acerca de
-comments: true
 ---
 
 **Acerca de nosotros**
