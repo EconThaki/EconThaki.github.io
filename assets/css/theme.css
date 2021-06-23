@@ -341,7 +341,7 @@ span.post-name a,span.post-read-more a:hover {
     border-radius: 3px;
     font-weight: 500;
     padding: 15px 40px;
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 6px 10px 0 rgba(176,74,215,1);
     text-transform: uppercase;
     font-size: 13px;
     letter-spacing: 1px;
@@ -357,6 +357,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .wrapintro {
     background: #fff;
+    box-shadow: 0 6px 10px 0 rgba( 159 74 221);
     width: 700px;
     padding: 3rem;
     max-width: 90%;

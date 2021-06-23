@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: ¿Quiénes Somos?
 ---
 
 **Acerca de nosotros**
