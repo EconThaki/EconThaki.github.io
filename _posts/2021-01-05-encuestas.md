@@ -3,7 +3,7 @@ layout: post
 title:  "Encuestas"
 author: econthaki
 categories: [ Encuestas, Datos ]
-image: assets/images/shutterstock_731263783.jpg
+image: assets/images/shutterstock_731263783_filtro_v.jpg
 ---
 
 **Encuestas**

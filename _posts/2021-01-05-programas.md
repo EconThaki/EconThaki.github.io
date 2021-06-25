@@ -3,7 +3,7 @@ layout: post
 title:  "Programas"
 author: econthaki
 categories: [ Talleres, Programas ]
-image: assets/images/shutterstock_731263783.jpg
+image: assets/images/shutterstock_731263783_filtro_v.jpg
 featured: false
 ---
 
