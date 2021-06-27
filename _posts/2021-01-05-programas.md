@@ -4,7 +4,6 @@ title:  "Programas"
 author: econthaki
 categories: [ Talleres, Programas ]
 image: assets/images/shutterstock_731263783_filtro_v.png
-featured: false
 ---
 
 
