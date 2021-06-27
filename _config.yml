@@ -3,7 +3,7 @@ name: "EconThaki"
 title: "EconThaki"
 description: "EconThaki por una academia diversa"
 meta_description: "EconThaki por una academia diversa"
-logo: 'assets/images/logo.jpg'
+logo: 'assets/images/'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
