@@ -25,4 +25,7 @@ Fase 3: Mentorías o Matching de RAs
 
 Los egresados de la fase 2 del programa podrán participar de la fase 3 que consistirá en mentorías entre la población objetivo y estudiantes del doctorado o recién egresados del doctorado de universidades extranjeras. Estamos en proceso de diseño de este componente. Pero pronto actualizaremos novedades de cómo lo llevaremos a cabo.
 
-Link a preguntas frecuentes
+Link a  [Preguntas Frecuentes][pregfreq-link]
+
+[pregfreq-link]:   https://econthaki.github.io/recursos/2021/01/06/pregfreq.html
+
