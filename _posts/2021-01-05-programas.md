@@ -6,6 +6,8 @@ categories: [Programas]
 image: assets/images/shutterstock_731263783_filtro_v.png
 ---
 
+Los programas que estamos desarrollando para incrementar la diversidad en la academia en economía
+
 
 **Programas**
 
@@ -21,7 +23,7 @@ Fase 2: Capacitación en herramientas de investigación y análisis de datos
 
 Luego de la fase 1, gente interesada y seleccionada podrá participar de nuestros talleres sobre herramientas para la investigación y análisis de datos. Estamos en proceso de diseño de este componente. Pero pronto actualizaremos novedades de cómo lo llevaremos a cabo.
 
-Fase 3: Mentorías o Matching de RAs
+Fase 3: Mentorías
 
 Los egresados de la fase 2 del programa podrán participar de la fase 3 que consistirá en mentorías entre la población objetivo y estudiantes del doctorado o recién egresados del doctorado de universidades extranjeras. Estamos en proceso de diseño de este componente. Pero pronto actualizaremos novedades de cómo lo llevaremos a cabo.
 

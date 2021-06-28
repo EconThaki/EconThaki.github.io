@@ -6,6 +6,7 @@ categories: [ Problematica, Academia ]
 image: assets/images/head.jpg
 featured: true
 ---
+Una academia pequeña y poco diversa en LAC.
 
 **El problema: Una academia pequeña y poco diversa en LAC.**
 
