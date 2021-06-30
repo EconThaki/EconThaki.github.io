@@ -24,14 +24,6 @@ En esta primera edición de *Voces*, estamos entusiasmados de presentar a Fabiol
   <img src="{{ site.baseurl }}/assets/images/Fabiola-Alba.jpg"  alt="1" width = 360px height = 640px >
 </p>
 
-<br>
-<div style="text-align: center"> 
-```{r, echo = FALSE, out.width="95%"}
-Fabifoto <- c("Fabiola Alba.jpg")
-include_graphics(Fabifoto)
-```
-</div>
-<br>
 
 <div class = "blue">
 **Háblanos un poco de tu trayectoria previo a entrar a Columbia University (ej. pregrado, experiencia laboral)**
@@ -185,19 +177,17 @@ Hoy en día hay mucha información para aprender cosas por tu cuenta: yo aprend�
 </font>
 </div>
 <br>
---
+
+## Agradecimiento
 
 <div class = "blue">
 Le agradecemos mucho a Fabiola por esta entrevista para la primera edición de *Voces*. Si te sentiste identificadx con la experiencia de Fabiola o deseas contactarla, puedes hacerlo a través de:
 
 Twitter: ['@fabalbav'](https://twitter.com/fabalbav)
 
-Website: https://falbav.github.io/
+Website: [https://falbav.github.io/ ] (https://falbav.github.io/)
 
-Linkedin: https://linkedin.com/in/falbav
+Linkedin: [https://linkedin.com/in/falbav ](https://linkedin.com/in/falbav)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
 </div>
-[EconThaki] Voces - Fabiola Alba.md
-
-Mostrando [EconThaki] Voces - Fabiola Alba.md
