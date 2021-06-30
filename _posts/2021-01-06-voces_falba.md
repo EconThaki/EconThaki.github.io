@@ -4,16 +4,13 @@ title: Voces - Fabiola Alba
 date: "Junio 2021"
 author: econthaki
 categories: [voces]
+image: assets/images/Fabiola-Alba.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
     highlight: github
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library('knitr')
-library("prettydoc")
-```
+
 
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
@@ -24,7 +21,7 @@ En esta primera edición de *Voces*, estamos entusiasmados de presentar a Fabiol
 </div>
 
 <p style="text-align:center;">
-  <img src="{{ site.baseurl }}/assets/images/Fabiola Alba.jpg"  alt="1" width = 360px height = 640px >
+  <img src="{{ site.baseurl }}/assets/images/Fabiola-Alba.jpg"  alt="1" width = 360px height = 640px >
 </p>
 
 <br>
