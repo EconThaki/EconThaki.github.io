@@ -6,6 +6,9 @@ author: econthaki
 categories: [voces]
 image: assets/images/Fabiola-Alba.jpg
 output:
+  html_document:
+    keep_md: yes
+  pdf_document: default  
   prettydoc::html_pretty:
     theme: hpstr
     highlight: github
@@ -180,14 +183,12 @@ Hoy en día hay mucha información para aprender cosas por tu cuenta: yo aprend�
 
 ## Agradecimiento
 
-<div class = "blue">
 Le agradecemos mucho a Fabiola por esta entrevista para la primera edición de *Voces*. Si te sentiste identificadx con la experiencia de Fabiola o deseas contactarla, puedes hacerlo a través de:
 
-Twitter: ['@fabalbav'](https://twitter.com/fabalbav)
+- Twitter: ['@fabalbav'](https://twitter.com/fabalbav)
 
-Website: [https://falbav.github.io/ ] (https://falbav.github.io/)
+- Website: [https://falbav.github.io/ ] (https://falbav.github.io/)
 
-Linkedin: [https://linkedin.com/in/falbav ](https://linkedin.com/in/falbav)
+- Linkedin: [https://linkedin.com/in/falbav ](https://linkedin.com/in/falbav)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
-</div>
