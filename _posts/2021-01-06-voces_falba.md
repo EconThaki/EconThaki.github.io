@@ -31,7 +31,7 @@ Nací en Lima y viví toda mi vida en Independencia. Entré a la Pontificia Univ
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Decidí estudiar Economía porque siempre me interesó estudiar la pobreza >>*
+<< Decidí estudiar Economía porque siempre me interesó estudiar la pobreza >>
 </font>
 </div>
 
@@ -46,7 +46,7 @@ Creo que mis amigos de la PUCP, los que me conocen desde el inicio del pregrado,
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Aún recuerdo aquel profesor que me dijo que nunca iba a conseguir entrar a un PhD (...), así que ganas no me faltaron de probar lo contrario. >>*
+<< Aún recuerdo aquel profesor que me dijo que nunca iba a conseguir entrar a un PhD (...), así que ganas no me faltaron de probar lo contrario. >>
 </font>
 </div>
 
@@ -74,7 +74,7 @@ Creo que hay cosas que me hubiera gustado saber y hacer desde el pregrado:  toma
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Hay que normalizar que no todos tenemos que hacer lo mismo para llegar a una meta. >>*
+<< Hay que normalizar que no todos tenemos que hacer lo mismo para llegar a una meta. >>
 </font>
 </div>
 
@@ -90,7 +90,7 @@ Hace unas semanas, presenté uno de mis proyectos frente a todos mis compañeros
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Un doctorado (...) es un viaje muy personal y depende mucho de la fuerza emocional >>*
+<< Un doctorado (...) es un viaje muy personal y depende mucho de la fuerza emocional >>
 </font>
 </div>
 
@@ -135,7 +135,7 @@ Es un mundo bastante competitivo y por eso mismo, a veces bastante cruel. **Creo
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Hay un problema fuerte de inclusión de mujeres y de minorías: se asume que si no han llegado a ser parte de la comunidad es porque no estaban preparados, en lugar de aceptar que hay racismo y clasismo en el sistema. >>*
+<< Hay un problema fuerte de inclusión de mujeres y de minorías: se asume que si no han llegado a ser parte de la comunidad es porque no estaban preparados, en lugar de aceptar que hay racismo y clasismo en el sistema. >>
 </font>
 </div>
 <br>
@@ -151,7 +151,7 @@ Si pudieras implementar un cambio en la academia latinoamericana, ¿cual seria y
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Me gustaría que aquellos que tienen posiciones de poder puedan discutir esto e incorporar maneras de democratizar el acceso a la academia.>>*
+<< Me gustaría que aquellos que tienen posiciones de poder puedan discutir esto e incorporar maneras de democratizar el acceso a la academia.>>
 </font>
 </div>
 
@@ -171,7 +171,7 @@ Hoy en día hay mucha información para aprender cosas por tu cuenta: yo aprend�
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Lamentablemente, la academia es un círculo pequeño donde los contactos y las redes tienen mucho peso, pero hay quienes estamos dispuestos a abrirla y hacerla inclusiva. >>*
+<< Lamentablemente, la academia es un círculo pequeño donde los contactos y las redes tienen mucho peso, pero hay quienes estamos dispuestos a abrirla y hacerla inclusiva. >>
 </font>
 </div>
 <br>
