@@ -6,11 +6,12 @@ author: econthaki
 categories: [voces]
 image: assets/images/Fabiola-Alba.jpg
 output:
+  html_document:
+    keep_md: yes
+  pdf_document: default  
   prettydoc::html_pretty:
     theme: hpstr
     highlight: github
-    keep_md: true
-    
 ---
 
 
@@ -21,12 +22,11 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 <div class = "blue">
 En esta primera edición de *Voces*, estamos entusiasmados de presentar a Fabiola Alba y un poco de su historia. Fabiola es una candidata doctoral en el programa de Economía de la Educación, en Columbia University, Estados Unidos. Nació y creció en Perú, su agenda de investigación se centra en la intersección entre políticas de educación y trabajo con temas de género, normas sociales y reputación. Esperamos que esta entrevista los inspire tanto a como nosotros!
 </div>
-<br>
 
 <p style="text-align:center;">
   <img src="{{ site.baseurl }}/assets/images/Fabiola-Alba.jpg"  alt="1" width = 360px height = 640px >
 </p>
-<br>
+
 
 <div class = "blue">
 **Háblanos un poco de tu trayectoria previo a entrar a Columbia University (ej. pregrado, experiencia laboral)**
@@ -180,16 +180,15 @@ Hoy en día hay mucha información para aprender cosas por tu cuenta: yo aprend�
 </font>
 </div>
 <br>
---
 
-<div class = "blue">
+## Agradecimiento
+
 Le agradecemos mucho a Fabiola por esta entrevista para la primera edición de *Voces*. Si te sentiste identificadx con la experiencia de Fabiola o deseas contactarla, puedes hacerlo a través de:
 
-Twitter: [@fabalbav](https://twitter.com/fabalbav)
+- Twitter: [@fabalbav](https://twitter.com/fabalbav)
 
-Website: https://falbav.github.io/
+- Website: [https://falbav.github.io/](https://falbav.github.io/)
 
-Linkedin: https://linkedin.com/in/falbav
+- Linkedin: [https://linkedin.com/in/falbav](https://linkedin.com/in/falbav)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
-</div>
