@@ -1,6 +1,10 @@
 ---
+layout: post
 title: Voces - Fabiola Alba
 date: "Junio 2021"
+author: econthaki
+categories: [voces]
+image: assets/images/Fabiola-Alba.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -19,9 +23,9 @@ En esta primera edición de *Voces*, estamos entusiasmados de presentar a Fabiol
 </div>
 <br>
 
-<div style="text-align: center"> 
-<img src="Fabiola Alba.jpg" width="95%" />
-</div>
+<p style="text-align:center;">
+  <img src="{{ site.baseurl }}/assets/images/Fabiola-Alba.jpg"  alt="1" width = 360px height = 640px >
+</p>
 <br>
 
 <div class = "blue">
@@ -181,7 +185,7 @@ Hoy en día hay mucha información para aprender cosas por tu cuenta: yo aprend�
 <div class = "blue">
 Le agradecemos mucho a Fabiola por esta entrevista para la primera edición de *Voces*. Si te sentiste identificadx con la experiencia de Fabiola o deseas contactarla, puedes hacerlo a través de:
 
-Twitter: ['@fabalbav'](https://twitter.com/fabalbav)
+Twitter: [@fabalbav](https://twitter.com/fabalbav)
 
 Website: https://falbav.github.io/
 
