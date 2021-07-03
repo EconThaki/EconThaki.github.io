@@ -7,7 +7,8 @@ logo: 'assets/images/'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-
+twitter: https://twitter.com/EconThaki
+github: https://github.com/EconThaki
 email: 'econ.mentoringp@gmail.com'
 google_analytics: 'G-2BG8KTZQ3G'
 
