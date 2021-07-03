@@ -3,6 +3,7 @@ name: "EconThaki"
 title: "EconThaki"
 description: "EconThaki por una academia diversa"
 meta_description: "EconThaki por una academia diversa"
+author: EconThaki
 logo: 'assets/images/logo_noletters.jpg'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -69,7 +70,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-        
+
+social:
+  instagram: 
+  github: https://github.com/EconThaki
+  twitter: https://twitter.com/bstartercomhttps://twitter.com/EconThaki
 # Archives
 jekyll-archives:
   enabled:
