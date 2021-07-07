@@ -72,7 +72,8 @@ plugins:
   - jekyll-archives
 
 social:
-  instagram: 
+  instagram: https://www.instagram.com/econthaki/
+  facebook: https://www.facebook.com/econthaki/
   github: https://github.com/EconThaki
   twitter: https://twitter.com/EconThaki
 # Archives
