@@ -4,7 +4,7 @@ title: Voces - Fabiola Alba
 date: "Junio 2021"
 author: econthaki
 categories: [voces]
-image: assets/images/Fabiola-Alba.jpg
+image: assets/images/Fabiola-Alba_filtro_v.png
 output:
   prettydoc::html_pretty:
     theme: hpstr
