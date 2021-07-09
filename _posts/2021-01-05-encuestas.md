@@ -8,7 +8,7 @@ image: assets/images/shutterstock_731263783.jpg
 
 Para entender mejor la situación de la academia en economía en LAC
 
-##Encuestas
+## Encuestas
 
 Con el objetivo de comprender con mayor profundidad la situación de la academia en economía, realizaremos encuestas virtuales a distintas poblaciones objetivo en LAC. De momento, estamos preparando el levantamiento de información de nuestra primera encuesta: **sobre la situación de los asistentes de investigación de economía en Latinoamérica**
 
