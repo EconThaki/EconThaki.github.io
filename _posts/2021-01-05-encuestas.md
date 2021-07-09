@@ -3,7 +3,7 @@ layout: post
 title:  "Encuestas"
 author: econthaki
 categories: [ Encuestas, Datos ]
-image: assets/images/shutterstock_731263783_filtro_v.png
+image: assets/images/shutterstock_731263783.jpg
 ---
 
 Para entender mejor la situación de la academia en economía en LAC

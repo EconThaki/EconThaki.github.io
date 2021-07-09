@@ -3,7 +3,7 @@ layout: post
 title:  "Programas"
 author: econthaki
 categories: [Programas]
-image: assets/images/shutterstock_731263783_filtro_v.png
+image: assets/images/shutterstock_1720826170.jpg
 ---
 
 Los programas que estamos desarrollando para incrementar la diversidad en la academia en economía
