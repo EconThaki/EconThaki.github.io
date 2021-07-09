@@ -16,7 +16,7 @@ output:
 Entrevista a Fabiola Alba, candidata PhD en Columbia University
 
 <style>
-div.teal { background-color:##93d9d8; border-radius: 5px; padding: 20px;}
+div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 
 </style>
 
