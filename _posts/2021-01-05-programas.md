@@ -25,6 +25,7 @@ Luego de la fase 1, gente interesada y seleccionada podrá participar de nuestro
 Los egresados de la fase 2 del programa podrán participar de la fase 3 que consistirá en mentorías entre la población objetivo y estudiantes del doctorado o recién egresados del doctorado de universidades extranjeras. Estamos en proceso de diseño de este componente. Pero pronto actualizaremos novedades de cómo lo llevaremos a cabo.
 
 **Ciclo**
+
 Las tres fases componen un ciclo de 1 año. La fase 1 va de setiembre a octubre. La convocatoria para la fase 2 va de noviembre a diciembre. La fase 2 va de enero a febrero y la fase 3, de marzo a agosto.
 
 Link a  [Preguntas Frecuentes][pregfreq-link]
