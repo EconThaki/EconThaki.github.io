@@ -10,7 +10,7 @@ Los programas que estamos desarrollando para incrementar la diversidad en la aca
 
 **Población objetivo**
 
-Estudiantes de economía y afines con recursos insuficientes para acceder a estudios de postgrado y poca exposición a la academia en Perú. Sobre todo, población subrepresentada en la academia actual: estudiantes de universidades públicas, mujeres, de regiones, población indígena y afro, LGTBIQ, personas con discapacidad y víctimas de conflicto armado interno. Los programas estarán dirigidos a estudiantes de pregrado a quienes les falte hasta un año para egresar o que ya hubieran egresado dentro de los últimos dos años.
+Estudiantes de economía y afines con recursos insuficientes para acceder a estudios de postgrado y poca exposición a la academia en Perú. Sobre todo, población subrepresentada en la academia actual: estudiantes de universidades públicas, mujeres, de regiones, población indígena y afrolatina, LGTBIQ, personas con discapacidad y víctimas de conflicto armado interno. Los programas estarán dirigidos a estudiantes de pregrado a quienes les falte hasta un año para egresar o que ya hubieran egresado dentro de los últimos dos años.
 
 **Fase 1: Talleres sobre la academia**
 
