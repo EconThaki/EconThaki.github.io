@@ -48,7 +48,7 @@ Ha sido un proceso muy largo. La pasión por la economía y el deseo de profundi
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< La idea de dedicarme a la investigación es algo que comencé a considerar poco a poco. >>*
+<< La idea de dedicarme a la investigación es algo que comencé a considerar poco a poco. >>
 </font>
 </div>
 
@@ -63,7 +63,7 @@ Una vez que decidí hacer el doctorado tomé una actitud muy adversa al riesgo y
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Una vez que decidí hacer el doctorado tomé una actitud muy adversa al riesgo y postulé a quince programas doctorales. >>*
+<< Una vez que decidí hacer el doctorado tomé una actitud muy adversa al riesgo y postulé a quince programas doctorales. >>
 </font>
 </div>
 
@@ -78,7 +78,7 @@ Dado que mi camino hasta la postulación al Ph.D. fue largo, al momento de aplic
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Los estudiantes de universidades nacionales raramente contamos con profesores con Ph.D. y/o dedicados a la investigación [por lo que] el camino resulta un poco más dificil. >>*
+<< Los estudiantes de universidades nacionales raramente contamos con profesores con Ph.D. y/o dedicados a la investigación [por lo que] el camino resulta un poco más dificil. >>
 </font>
 </div>
 
@@ -92,7 +92,7 @@ Una vez recorrido el camino resulta difícil no apreciar lo que he aprendido en 
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Para los interesados en hacer un Ph.D. recomiendo que se contacten y hablen con personas con intereses similares (...) que estén en el camino o ya hayan terminado un doctorado. >>*
+<< Para los interesados en hacer un Ph.D. recomiendo que se contacten y hablen con personas con intereses similares (...) que estén en el camino o ya hayan terminado un doctorado. >>
 </font>
 </div>
 
@@ -142,7 +142,7 @@ Adicionalmente, creo que es sintomático que, por lo menos en Perú, *los estudi
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Hay mucha desigualdad en el acceso a la información y oportunidades de los estudiantes [fuera de un grupo reducido de universidades] >>*
+<< Hay mucha desigualdad en el acceso a la información y oportunidades de los estudiantes [fuera de un grupo reducido de universidades] >>
 </font>
 </div>
 
@@ -158,7 +158,7 @@ En particular, en Perú creo que hay universidades con ese potencial de contrata
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Me gustaría ver universidades más activas en el mercado de egresados de postgrado y con un proceso de contratación democrático. >>*
+<< Me gustaría ver universidades más activas en el mercado de egresados de postgrado y con un proceso de contratación democrático. >>
 </font>
 </div>
 
@@ -180,7 +180,7 @@ He intentado ser lo más honesto en esta entrevista y pueden notar que mi experi
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Cuando nuestras metas están alineadas con nuestras pasiones, todo resulta un poco más fácil. >>*
+<< Cuando nuestras metas están alineadas con nuestras pasiones, todo resulta un poco más fácil. >>
 </font>
 </div>
 
@@ -188,7 +188,7 @@ Para los que sienten que la tienen más difícil por falta de recursos lo siguie
 
 <div style="text-align: right"> 
 <font size = '6'>
-*<< Consigan mucha información que contribuya a conseguir sus metas. (...) No esperen a que las oportunidades lleguen solas, tienen que buscarlas. >>*
+<< Consigan mucha información que contribuya a conseguir sus metas. (...) No esperen a que las oportunidades lleguen solas, tienen que buscarlas. >>
 </font>
 </div>
 
