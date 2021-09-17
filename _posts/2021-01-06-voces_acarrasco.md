@@ -24,7 +24,6 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 <div class = "teal">
 En esta edición de *Voces*, estamos entusiasmados de presentar a Alex Carrasco y un poco de su historia. Alex es un estudiante del programa doctoral en Economía en el Massachusetts Institute of Technology (MIT) enfocado en macroeconomía y teoría económica. Esperamos que esta entrevista les guste tanto a como nosotros!
 </div>
-<br>
 
 <br>
 
