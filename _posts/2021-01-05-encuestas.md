@@ -14,5 +14,8 @@ Con el objetivo de comprender con mayor profundidad la situación de la academia
 
 **Encuesta de Asistentes de Investigación en Economía en LAC (EAIE 2021)**
 
-Si te identificas como latinx y eres asistente de investigación actualmente o lo has sido en los últimos 3 años, puedes ayudarnos completando esta encuesta. También puedes ayudarnos, compartiendo el link de la encuesta (cuando esté público). Estaremos levantando datos durante todo agosto. Los resultados del estudio se publicarán en esta página web de forma pública a finales de setiembre.
+Si te identificas como latinx y eres asistente de investigación actualmente o lo has sido en los últimos 3 años, puedes ayudarnos completando esta encuesta. También puedes ayudarnos, compartiendo el link de la encuesta . Estaremos levantando datos durante todo Septiembre/Octubre. Los resultados del estudio se publicarán en esta página web de forma pública a finales de Octubre.
 
+- Link a la [Encuesta de Asistentes de Investigación en Economía][EAIE]
+
+[EAIE]:   https://econthaki.surveycto.com/collect/eaie_2021?caseid=
