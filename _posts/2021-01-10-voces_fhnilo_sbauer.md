@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voces - Alex Carrasco
+title: Voces - Florencia Hnilo y Sebastian Bauer
 date: "Octubre 2021"
 author: econthaki
 categories: [voces]
