@@ -22,187 +22,186 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de *Voces*, estamos entusiasmados de presentar a Alex Carrasco y un poco de su historia. Alex es un estudiante del programa doctoral en Economía en el Massachusetts Institute of Technology (MIT) enfocado en macroeconomía y teoría económica. Esperamos que esta entrevista les guste tanto a como nosotros!
+En esta edición de *Voces*, estamos entusiasmados de presentar a Florencia Hnilo y a Sebastian Bauer quienes nos contarán sobre su camino hacia el PhD. Florencia es estudiante del doctorado en economía en la Universidad de Stanford , y Sebastian pertenece al doctorado de economía en Stanford, GBS. 
 </div>
 
 <br>
 
 <div class = "teal">
 <strong>  
-Háblanos un poco de tu trayectoria previo a entrar a MIT (ej. pregrado, experiencia laboral)
+¡Hola! Nos podrían contar un poco sobre su trayectoria previa a entrar al doctorado (ej. pregrado, experiencia laboral)
 </strong>
 </div>
 
-Elegí estudiar Economía con poca certeza de lo que es y sin ninguna expectativa de lo que haría al egresar. Honestamente, fue una decisión casi aleatoria, reflejando mi entonces desgano por estudiar. Ingresé a la Universidad Nacional Federico Villarreal (UNFV) y en una primera etapa de la carrera continué con aquel desgano. No fue hasta el final del segundo año de la carrera que sentí fuerte atracción por la rigurosidad y elegancia lógica de los modelos económicos. Fue allí donde decidí ponerme al día y mi pasión por la economía se fue alimentando, pero aún con mucha incertidumbre de lo que haría terminando la carrera.
+Florencia H. : Estudié Economía en la Universidad de Buenos Aires (UBA), donde en los últimos años de la carrera me desempeñé como TA y gané una beca estímulo para trabajar como RA en el Instituto Interdisciplinario de Economía Política de Buenos Aires con el profesor Daniel Heymann. Una vez terminada la carrera, empecé la Maestría en Economía en la Universidad de San Andrés, donde también trabajé como RA del profesor Walter Sosa Escudero, además de dar clases como TA en múltiples materias (Historia Económica, Econometría, Big Data, Macroeconomía...). Paralelamente, fui RA del profesor Alberto Cavallo (Harvard Business School) con quien me puse en contacto cuando hice mi tesis de grado en la UBA.
 
-Afortunadamente, me enteré de los cursos de extensión universitaria (CEU) y de la oportunidad laboral que ofrecían. Entré al CEU del Banco Central de Reserva del Perú (BCRP), me ofrecieron trabajo, y fue allí donde conocí lo que es y hace un Ph.D. en Economía, lo cual me llamó mucho la atención. Después de un año y medio, decidí hacer una maestría en Economía en la Pontificia Universidad Católica de Rio de Janeiro (PUC-Rio) para tener una idea más clara de lo que era hacer un Ph.D. y saber si realmente lo quería hacer, y porque aquel programa suele abrir puertas al Ph.D. y yo buscaba contar con esa posibilidad. Pese a conseguir esa posibilidad, decidí volver al BCRP por motivos familiares. Aquel año y medio adicional en el BCRP, donde trabajé en proyectos más cercanos a la investigación económica, terminó de fortalecer mi convicción por hacer el Ph.D.
+Sebastian B.: Antes del doctorado cursé la Licenciatura en Economía de la Universidad de Buenos Aires (UBA) y la Maestría en Economía de la Universidad Torcuato Di Tella (UTDT). En ambas universidades me desempeñé como asistente de investigación y auxiliar docente. Además, también fui profesor invitado de la Licenciatura en Economía de UTDT y de la Maestría en Economía Aplicada de la Universidad Austral, en Rosario. 
 <br>
 
 <div class = "teal">
   <strong>  
-¿Cómo y cuándo te diste cuenta de que querías hacer investigación en economía?
+¿Cómo y cuándo se dieron cuenta que querían hacer investigación?
 </strong>  
 </div>
 
-Ha sido un proceso muy largo. La pasión por la economía y el deseo de profundizar más en mis conocimientos han sido una constante desde el pregrado. Sin embargo, la idea de dedicarme a la investigación es algo que comencé a considerar poco a poco. Creo que hay dos puntos de inflexión para considerar esa idea seriamente. El primero es el CEU del BCRP en donde tuve la oportunidad de interactuar con profesores de grandes universidades, del país y el extranjero, y con estudiantes de intereses similares que disfrutaban del intercambio de ideas de forma académica. El segundo es la maestría en PUC-Rio en donde, de forma similar al CEU, estuve en un ambiente lleno de intercambio de ideas. Adicionalmente, por primera vez experimenté el proceso de elaboración de tesis que fue muy enriquecedor. Además, en ambas oportunidades conocí grandes mentores que confiaron en mí y ello me hizo creer que era capaz.
+Florencia H. : Desde chica supe que quería hacer investigación por influencia de mi papá, que es Doctor en Física y trabaja como investigador en un laboratorio. Cuando empecé la carrera de Economía no sabía que existía la posibilidad de hacer un doctorado, pero apenas me enteré (gracias al profesor Paulo Pascuini), empecé a asistir a distintos seminarios y escuelas de verano para entender cómo era la investigación en Economía. Me encantó, y desde entonces (tenía 19 años) dirigí mi carrera a la academia.
+
+Sebastian B.: Hubo dos puntos clave en mi decisión de dedicarme a la investigación. El primero fue mi primera ayudantía docente en 2014, Microeconomía I en la UBA, en el curso a cargo de Ignacio Apella. En este curso aprendí cómo dar clases y descubrí lo mucho que me gustaba enseñar. Además, con Ignacio también tuve mi primera oportunidad de participar de un proyecto de investigación, en el cual estimamos la demanda de medios de transporte de la Ciudad de Buenos Aires utilizando datos de la ENMODO, una encuesta sobre uso de medios de transporte en la ciudad publicada en 2010. El segundo punto clave fue mi paso por el Instituto Interdisciplinario de Economía Política de Buenos Aires, donde trabajé como becario de investigación de Daniel Heymann. Allí me di cuenta que la vida diaria de un investigador se componía de tareas muy interesantes, lo cual terminó de confirmar mi decisión de dedicarme a la academia.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< La idea de dedicarme a la investigación es algo que comencé a considerar poco a poco. >>
+<< d >>
 </font>
 </div>
 
 <div class = "teal">
   <strong>  
-¿Cómo fue el proceso de decidir aplicar a tu programa doctoral?
+¿Cómo fue el proceso de decidir aplicar a su programa doctoral?
 </strong>  
 </div>
 
-Una vez que decidí hacer el doctorado tomé una actitud muy adversa al riesgo y postulé a quince programas doctorales. Todos los programas eran doctorados en Economía en USA con un departamento fuerte en macroeconomía, y evidentemente el programa de MIT era uno de ellos. Es importante mencionar que los programas eran variados en ranking de universidades. Tras haberme ido bien en la maestría y haber trabajado como asistente de investigación, yo sabía que contaba con buenas cartas de recomendación, pero en el proceso de aplicación hay muchos factores que se consideran y, por tanto, no quise confiarme.
+Florencia H. : Apliqué siempre a programas que tuvieran oferta de Historia Económica como field. Más allá de eso, dadas mis notas previas y mi experiencia, intenté aplicar a las mejores universidades que pudiera (top 30), postulándome a 16 programas en total.
+
+
+Sebastian B.: Me guié principalmente por los consejos de los profesores Leandro Arozamena y Federico Weinschelbaum, quienes me escribieron cartas de recomendación. Fueron ellos los que me hicieron saber lo bueno que era el programa de GSB para hacer teoría microeconómica. 
+
 <br>
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Una vez que decidí hacer el doctorado tomé una actitud muy adversa al riesgo y postulé a quince programas doctorales. >>
+<< de >>
 </font>
 </div>
 
 <div class = "teal">
   <strong>  
-¿Cuáles fueron los principales retos de tu postulación?
+¿Cuáles fueron los principales retos en su proceso de postulacion?
 </strong>  
 </div>
 
-Dado que mi camino hasta la postulación al Ph.D. fue largo, al momento de aplicar mi mayor reto fue el inglés, particularmente el examen TOEFL. Creo que muchos estudiantes, sobre todo de universidades nacionales, nos descuidamos en nuestra preparación de inglés y ello no está bien pues el inglés juega un papel importante en la postulación. Asimismo, en el camino, creo que otro de los retos fue encontrar las oportunidades para mostrar mi potencial y conseguir las cartas de recomendación necesarias. Esta falta de oportunidad es una constante en estudiantes de universidades nacionales, dado que en estas universidades raramente contamos con profesores con Ph.D. y/o dedicados a la investigación y así el camino resulta un poco más difícil. Afortunadamente, hay formas de conseguir esas oportunidades y plataformas como esta sirven para difundir experiencias lo cual ayudan mucho.
+Florencia H. : En una de las materias de la maestría tengo una muy mala calificación. A pesar de que no forma parte ni siquiera remotamente de mi field, tenía mucho miedo de que me jugara en contra. Esa fue la razón de dedicarle tanto tiempo al SoP: tenía que lograr convencer de que realmente mis intereses de investigación no estaban relacionados a esa materia.
+
+Sebastian B.: El principal reto sin lugar a dudas fue la maestría, que fue la que me abrió las puertas al doctorado. El GRE también fue un desafío debido a que si uno quiere aplicar con tranquilidad hay poco margen de error.
+
 <br>
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Los estudiantes de universidades nacionales raramente contamos con profesores con Ph.D. y/o dedicados a la investigación [por lo que] el camino resulta un poco más dificil. >>
+<< de >>
 </font>
 </div>
 
 <div class = "teal">
   <strong>  
-¿Harías algo diferente si pudieras? ¿Qué consejo le darías a los que quieren seguir un camino similar?
+¿Harían algo diferente si pudieran? ¿Qué consejo le darían a quienes quieran seguir un camino similar?
 </strong>  
 </div>
 
-Una vez recorrido el camino resulta difícil no apreciar lo que he aprendido en cada paso, por ello creo que en general no haría nada distinto. Si hubiese optado por el Ph.D. más joven quizá no hubiese podido lidiar con la carga emocional y el estrés que conlleva la intensidad del programa. Además, pienso que mi camino me ha hecho disfrutar mucho del primer año del programa. Sin embargo, sí me hubiera gustado tener más información desde mi etapa universitaria. Para quienes tengan interés en hacer un Ph.D. les recomiendo que se contacten y hablen con 	personas con interés similares y personas que estén en el camino o ya hayan terminado un doctorado. Muchos de los estudiantes de doctorado tienen muy buena disposición a compartir sus experiencias. Asimismo, recomendaría mucha paciencia y siempre evaluar distintas formas para conseguir sus metas, hay muchas alternativas para conseguir entrar a un programa de doctorado y/o hacer investigación.
+Florencia H. : No, estoy muy conforme con las decisiones que tomé durante mi carrera. Mi consejo es buscar cursar siempre con las/los mejores profesoras/es si existe la posibilidad de elegir (en la UBA es así), pues no solo aprenden de la materia, sino que aprenden cómo ser buenos profesionales. Vayan a todos los seminarios/escuelas de verano que les interesen para tener exposición al trabajo académico, no tengan miedo en escribirles a profesoras/es pidiendo consejo para alguna idea de investigación que tengan, y nunca se desanimen con una mala calificación en una materia que no les interesa en particular.
+
+Sebastian B.: Al principio de mi carrera no me enfoqué mucho en mis estudios y mis notas sufrieron por ello, además de que me demoré un poco más en recibirme de lo que dicta el programa de grado de la UBA. ,Antes de empezar a trabajar como ayudante en la UBA, trabajé en un call center y en una librería; hice estos trabajos porque quería tener mis propios ingresos a pesar de que mi familia podía mantenerme mientras estudiaba. Obviamente no todo el mundo puede elegir no trabajar durante su carrera, pero creo que es bueno enfocarse plenamente en los estudios en la medida de lo posible. En las universidades siempre hay oportunidades para trabajar en investigación con profesores o en institutos, por lo cual creo que si uno siente curiosidad por la vida académica, es una buena idea intentar participar en este tipo de iniciativas.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Para los interesados en hacer un Ph.D. recomiendo que se contacten y hablen con personas con intereses similares (...) que estén en el camino o ya hayan terminado un doctorado. >>
+<< des >>
 </font>
 </div>
 
 <div class = "teal">
   <strong>  
-Como estudiante doctoral, ¿qué es lo más difícil o complejo que has experimentado hasta ahora?
+¿Como estudiantes del doctorado, qué es lo mas díficil o complejo que han experimentado hasta ahora?
 </strong>  
 </div>
 
-Tristemente perdimos a mi suegro unas semanas antes de acabar el primer semestre por lo cual tuve que frenar totalmente el ritmo al que venía trabajando para dar apoyo total a mi familia. Aquellas semanas fueron muy duras en casa y decidí conversar con mis profesores dada las ausencias en clase y el retraso de mis tareas. Obviamente ellos fueron muy compresivos y me apoyaron mucho en esos momentos difíciles. Me parece que en momentos así lo mejor es conversar y pedir apoyo antes de hacernos los "fuertes", que era lo que yo solía hacer.
+Florencia H. : Los primeros dos meses, el idioma. Me costó mucho entenderles a algunos profesores, pero eventualmente me acostumbré. También me costó aprender de golpe MATLAB, programa que casi no había usado previamente. 
+
+Sebastian B.: El doctorado tiene una gran cantidad de trabajo, lo cual puede de a ratos resultar abrumador. Además estar rodeado de gente muy capaz, si bien es una experiencia muy gratificante y estimulante, a veces genera dudas sobre la capacidad propia. 
 
 <div class = "teal">
   <strong>  
-¿Una ventaja y una desventaja de tu programa doctoral?
-</strong>  
+¿Qué creen que ha cambiado en ustedes desde que entraron al programa hasta ahora?
+  </strong>  
 </div>
 
-Una ventaja de mi programa doctoral es que los profesores están muy pendientes del estudiante. Esto viene porque el programa de pregrado del departamento de economía suele contar con pocos estudiantes, lo que reduce mucho la carga de dictado de clases, a diferencia de otros programas.
+Florencia H. : Estoy mucho más segura de mí misma. Antes de venir tenía miedo de no poder lidiar con el programa y con vivir sola por primera vez (hasta ahora había vivido con mis padres), pero sinceramente no tuve ningún problema. 
 
-No he encontrado muchas desventajas del programa más allá de haber tenido clases remotas el primer año, pero ello es algo trasversal a casi todos los programas en las actuales circunstancias sanitarias. Quizás una desventaja natural de estar en estos programas altamente selectivos es tener que lidiar con el síndrome del impostor y la presión impuesta por uno mismo para conseguir sobresalir.
+Sebastian B.: Me organizo mejor que cuando empecé. También creo que la gran cantidad de papers que tuve que leer para las distintas materias me hizo entender un poco mejor qué elementos debe contener un trabajo bien escrito.
+
 
 <div class = "teal">
   <strong>  
-¿Qué ha cambiado en ti desde que entraste al programa hasta ahora?
+¿Nos pueden comentar más de sus intereses de investigación y alguna investigación en la cual estén participando hoy?
 </strong>  
 </div>
 
-Curiosamente siento que el primer año del programa me ha vuelto más disciplinado, paciente, y con más confianza. Además, estoy mucho más motivado y con esa sana preocupación acerca de las ideas para la tesis doctoral. Pienso que estoy en un momento interesante del doctorado en donde tengo la libertad para pensar en distintos temas de investigación y de equivocarme muchas veces sin preocuparme demasiado.
+Florencia H. : Mi campo de investigación es Historia Económica, aunque también me interesa mucho Desarrollo y Economía del Comportamiento/Experimental. En este momento estamos trabajando con Sebastián en un proyecto de Historia Económica relacionado a las consecuencias de la Segunda Guerra Mundial en el comportamiento de los afectados.
+
+Sebastian B.: Mis intereses de investigación se centran principalmente en el Diseño de Mercados y la Economía Política. Además del proyecto que mencionó Florencia, junto con otros dos compañeros del Departamento de Economía estamos estudiando los efectos del proceso electoral en la composición del gasto público municipal. 
+
 
 <div class = "teal">
   <strong>  
-¿Nos puedes comentar más de tu campo de investigación?
+Aparte de la academia, ¿en que otra ocupacion les gustaría trabajar o incursionar?
 </strong>  
 </div>
 
-Principalmente me gusta la macroeconomía y la teoría económica, entonces mi campo estaría dentro de la teoría macroeconómica. Pienso que los modelos son herramientas que nos permiten comunicar y discutir teorías/ideas de una forma clara y objetiva, y su implementación a la macroeconomía, que en mi opinión aborda las preguntas más interesantes y difíciles, me resulta fascinante. En particular, comienza a interesarme la interacción entre el equilibrio macroeconómico y la desigualdad económica, y también el análisis de políticas óptimas a nivel fiscal y monetario. Sin embargo, aún estoy muy abierto a seguir explorando otras literaturas.
+Florencia H. : Me gusta mucho escribir ficción, pero no lo tomaría nunca como una ocupación formal. Lo haría (como lo hago ahora) en forma de hobby.
 
-<div class = "teal">
-  <strong>  
-¿Qué opinas del mercado laboral y la comunidad de economistas en general?
-</strong>  
-</div>
+Sebastian B.: Me gusta mucho investigar y dar clases, motivo por el cual no me imagino haciendo otra cosa ahora mismo. Dicho esto, sí podría resultarme interesante hacer trabajos de consultoría con algún organismo multilateral, especialmente si de ese modo puedo aplicar mis conocimientos a un problema concreto de la vida real.
 
-En general, dado que la economía es un tema muy político, me parece que la comunidad de economistas termina ideologizándose mucho, cuando, por el contrario, lo ideal para avanzar como ciencia social es que podamos encontrar cada vez más certezas y consensos. Confío que estamos en camino, pero aún muy lejos de ello.
-
-Adicionalmente, creo que es sintomático que, por lo menos en Perú, *los estudiantes de postgrado en el exterior actualmente provengan en su mayoría de muy pocas universidades de la capital*. Esto no significa que ellos tengan mayor capacidad o mayor deseo de hacer un postgrado, sino que hay mucha desigualdad en el acceso a la información y oportunidades de los estudiantes. De esa forma *se pueden estar perdiendo grandes ganancias en capital humano*, implicando una asignación ineficiente de recursos. Pienso que el mercado laboral tiene problemas muy similares.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Hay mucha desigualdad en el acceso a la información y oportunidades de los estudiantes [fuera de un grupo reducido de universidades] >>
+<< de >>
 </font>
 </div>
 
 <div class = "teal">
   <strong>  
-Si pudieras implementar un cambio en la academia latinoamericana, cual seria y ¿por qué?
-</strong>  
+Ustedes lanzaron la iniciativa "Aplicar a un PhD en Economía desde Argentina". Nos podrían comentar la historia detrás del proyecto, ¿cómo nació la idea y que aprendizajes les ha traído?
+  </strong>  
 </div>
 
-Me gustaría ver universidades más activas en el mercado de egresados de postgrado y con un proceso de contratación democrático. Es cierto que ya hay universidades con mayor actividad en dicho mercado (por ejemplo, la PUC-Rio suele contratar a brasileños saliendo de excelentes programas doctorales), pienso que ello viene produciéndose de una manera muy desigual. 
+Florencia H. y Sebastian B.: Creemos que a la hora de aplicar, tanto desde Argentina como desde otras partes del mundo, existe un "currículo oculto"; es decir, una serie de pasos que ayudan significativamente a la hora de maximizar las chances de entrar a un doctorado en el exterior. Como el acceso a esa información puede depender mucho del lugar donde uno estudió, creamos el blog con el objetivo de ayudar a paliar esta asimetría informativa.  Como aprendizaje personal, al ver las iniciativas similares que nacieron en México y en Perú, nos dio esperanzas de que la profesión se está volviendo más cooperativa, algo que intentamos marcar como deseable en nuestro blog.
 
-En particular, en Perú creo que hay universidades con ese potencial de contratación que poco a poco vienen y/o van a venir adoptando esa mayor actividad. Sin embargo, hay una excesiva pasividad de otras universidades, sobre todo las nacionales. Es ineficiente que no se aproveche la disposición de muchas personas con postgrado en el exterior para apoyar de cierta forma a su alma mater. Se podría hacer algún seguimiento a algunos de sus egresados para difundir conocimiento y experiencias. Obviamente que entiendo las restricciones que pueden tener estas universidades, pero pienso que algo más se podría hacer, sobre todo con una posible normalización de la comunicación remota.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Me gustaría ver universidades más activas en el mercado de egresados de postgrado y con un proceso de contratación democrático. >>
+<< des >>
 </font>
 </div>
 
 <div class = "teal">
   <strong>  
-Aparte de la academia, ¿en qué otra ocupación te gustaría trabajar?
+Si pudieran implementar un cambio en la academia latinoamericana, ¿cuál sería y porqué?
 </strong>  
 </div>
 
-En la actualidad, la vida académica es una de las opciones después del doctorado, pero no la única. Yo particularmente aspiro a la vida académica, pero cuento con bastante disposición a considerar otras opciones como, por ejemplo, ser economista en alguna multinacional o en algún banco de inversión no necesariamente en USA. Por otro lado, quizá vale la pena mencionar que saliendo del colegio yo deseaba estudiar música y, pese a dejar mucho de lado la práctica musical, por momentos pienso mucho en hacer algo respecto.
+
+Florencia H.: No conozco en detalle cómo funciona la academia en otros países que no sea Argentina. Pero al menos dentro de mi país, me gustaría que los alumnos que buscan aplicar a doctorados reciban un salario que les permita mantenerse cuando trabajan como RAs-TAs. El nivel de salarios para RAs-TAs muchas veces (no en todos los casos) es o inexistente o muy bajo: si tus padres o pareja no pueden mantenerte económicamente en el mientras tanto, solo por razones económicas muchas personas no pueden aplicar a un doctorado.
+
+Sebastian B.: Al menos en Argentina, el financiamiento académico es un tema delicado. Si bien es cierto que en general la remuneración a los investigadores no es tan buena como en otros lugares, también es cierto que no es tan sencillo aumentar el gasto en investigación cuando un conjunto importante de la población tiene necesidades básicas insatisfechas.
 
 <div class = "teal">
   <strong>  
-¿Qué consejo le darías a las chicas y chicos sin recursos o mentores que quieren hacer investigación?
+¿Que consejo le darían a las chicas y chicos con recursos limitados que quieren hacer investigación en Argentina y Latinoamérica en general?
 </strong>  
 </div>
 
-He intentado ser lo más honesto en esta entrevista y pueden notar que mi experiencia se caracteriza por ser un camino largo, lleno de dudas e incertidumbre, y por buscar las oportunidades adecuadas, teniendo siempre como constante la pasión por el conocimiento y la economía. Por tanto, independientemente de los recursos, información o mentores, aconsejaría siempre fijarse metas. Cuando nuestras metas están alineadas con nuestras pasiones, todo resulta un poco más fácil.
+Florencia H. y Sebastian B.: Al no haber sufrido esta limitación, nuestra opinión quizás no sea la más útil. Dicho esto, recomendamos aprovechar las muy buenas universidades gratuitas que hay en Argentina para tener una buena base, intentando maximizar lo aprendido y, si se puede, las notas. Con eso buscaría aplicar a un pre-doc en el exterior, que les permitirá mantenerse mientras consiguen el conocimiento y prácticas necesarias para aplicar a un PhD. Al momento de aplicar, pediría las becas que muchas universidades ofrecen para no tener que pagar el fee de aplicación. 
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Cuando nuestras metas están alineadas con nuestras pasiones, todo resulta un poco más fácil. >>
+<< des >>
 </font>
 </div>
 
-Para los que sienten que la tienen más difícil por falta de recursos lo siguiente. Consigan mucha información que contribuya a conseguir sus metas. Hay muchas becas para financiar sus estudios y a veces las mismas universidades te financian, yo estudié becado en PUC-Rio y vengo siéndolo en el MIT. No esperen a que las oportunidades lleguen solas, tienen que buscarlas. Si algún tema de investigación te gusta no esperes a llevar un curso para aprenderlo, hay mucha información disponible en la web que te puede ser útil y estudiar así es una forma de comenzar a investigar. Pregunten mucho a los que ya están investigando o están comenzando a hacerlo, siempre hay personas dispuestas a apoyar el talento. Por último, sean muy pacientes, el camino puede ser largo y frustrante, pero encontrarán una luz al final del túnel.
-
-<div style="text-align: right"> 
-<font size = '6'>
-<< Consigan mucha información que contribuya a conseguir sus metas. (...) No esperen a que las oportunidades lleguen solas, tienen que buscarlas. >>
-</font>
-</div>
 
 --
 
 <div class = "teal">
-Le agradecemos mucho a Alex esta entrevista para la segunfa edición de *Voces*. Si te sentiste identificadx con la experiencia de Alex o deseas contactarlo, puedes hacerlo a través de:
+Agradecemos mucho a Florencia Hnilo y Sebastian Bauer por esta entrevista para la tercera edición de *Voces*.
 </div>
-
-- Twitter: [@alexcarrascom](https://twitter.com/alexcarrascom)
-
-- Linkedin: [Alex Carrasco Martinez](https://www.linkedin.com/in/alex-carrasco-mart%C3%ADnez-5b754685/)
-
-- Email: [alexcm@mit.edu](alexcm@mit.edu)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
 
