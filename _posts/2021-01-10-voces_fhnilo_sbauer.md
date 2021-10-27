@@ -89,13 +89,15 @@ Sebastian: El principal reto sin lugar a dudas fue la maestría, que fue la que 
 
 Florencia: No, estoy muy conforme con las decisiones que tomé durante mi carrera. Mi consejo es buscar cursar siempre con las/los mejores profesoras/es si existe la posibilidad de elegir (en la UBA es así), pues no solo aprenden de la materia, sino que aprenden cómo ser buenos profesionales. Vayan a todos los seminarios/escuelas de verano que les interesen para tener exposición al trabajo académico, no tengan miedo en escribirles a profesoras/es pidiendo consejo para alguna idea de investigación que tengan, y nunca se desanimen con una mala calificación en una materia que no les interesa en particular.
 
-Sebastian: Al principio de mi carrera no me enfoqué mucho en mis estudios y mis notas sufrieron por ello, además de que me demoré un poco más en recibirme de lo que dicta el programa de grado de la UBA. Antes de empezar a trabajar como ayudante en la UBA, trabajé en un call center y en una librería; hice estos trabajos porque quería tener mis propios ingresos a pesar de que mi familia podía mantenerme mientras estudiaba. Obviamente no todo el mundo puede elegir no trabajar durante su carrera, pero creo que es bueno enfocarse plenamente en los estudios en la medida de lo posible. En las universidades siempre hay oportunidades para trabajar en investigación con profesores o en institutos, por lo cual creo que si uno siente curiosidad por la vida académica, es una buena idea intentar participar en este tipo de iniciativas.
-
 <div style="text-align: right"> 
 <font size = '6'>
 << Mi consejo es buscar cursar siempre con las/los mejores profesoras/es si existe la posibilidad de elegir (…), pues no solo aprenden de la materia, sino que aprenden cómo ser buenos profesionales. >> -F
 </font>
 </div>
+
+Sebastian: Al principio de mi carrera no me enfoqué mucho en mis estudios y mis notas sufrieron por ello, además de que me demoré un poco más en recibirme de lo que dicta el programa de grado de la UBA. Antes de empezar a trabajar como ayudante en la UBA, trabajé en un call center y en una librería; hice estos trabajos porque quería tener mis propios ingresos a pesar de que mi familia podía mantenerme mientras estudiaba. Obviamente no todo el mundo puede elegir no trabajar durante su carrera, pero creo que es bueno enfocarse plenamente en los estudios en la medida de lo posible. En las universidades siempre hay oportunidades para trabajar en investigación con profesores o en institutos, por lo cual creo que si uno siente curiosidad por la vida académica, es una buena idea intentar participar en este tipo de iniciativas.
+
+
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -147,26 +149,21 @@ Florencia: Me gusta mucho escribir ficción, pero no lo tomaría nunca como una 
 Sebastian: Me gusta mucho investigar y dar clases, motivo por el cual no me imagino haciendo otra cosa ahora mismo. Dicho esto, sí podría resultarme interesante hacer trabajos de consultoría con algún organismo multilateral, especialmente si de ese modo puedo aplicar mis conocimientos a un problema concreto de la vida real.
 
 
-<div style="text-align: right"> 
-<font size = '6'>
-<< de >>
-</font>
-</div>
-
 <div class = "teal">
   <strong>  
 Ustedes lanzaron la iniciativa "Aplicar a un PhD en Economía desde Argentina" . Nos podrían comentar la historia detrás del proyecto, ¿cómo nació la idea y que aprendizajes les ha traído?
   </strong>  
 </div>
 
-Florenciay Sebastian: Creemos que a la hora de aplicar, tanto desde Argentina como desde otras partes del mundo, existe un "currículo oculto"; es decir, una serie de pasos que ayudan significativamente a la hora de maximizar las chances de entrar a un doctorado en el exterior. Como el acceso a esa información puede depender mucho del lugar donde uno estudió, creamos el blog con el objetivo de ayudar a paliar esta asimetría informativa.  Como aprendizaje personal, al ver las iniciativas similares que nacieron en México y en Perú, nos dio esperanzas de que la profesión se está volviendo más cooperativa, algo que intentamos marcar como deseable en nuestro blog.
-
+Florenciay Sebastian: Creemos que a la hora de aplicar, tanto desde Argentina como desde otras partes del mundo, existe un "currículo oculto"; es decir, una serie de pasos que ayudan significativamente a la hora de maximizar las chances de entrar a un doctorado en el exterior. Como el acceso a esa información puede depender mucho del lugar donde uno estudió, creamos el blog con el objetivo de ayudar a paliar esta asimetría informativa. 
 
 <div style="text-align: right"> 
 <font size = '6'>
 << Creemos que a la hora de aplicar, tanto desde Argentina como desde otras partes del mundo, existe un “currículo oculto”; es decir, una serie de pasos que ayudan significativamente a la hora de maximizar las chances de entrar a un doctorado en el exterior >> -F&S
 </font>
 </div>
+
+Como aprendizaje personal, al ver las iniciativas similares que nacieron en México y en Perú, nos dio esperanzas de que la profesión se está volviendo más cooperativa, algo que intentamos marcar como deseable en nuestro blog.
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -193,11 +190,6 @@ Sebastian: Al menos en Argentina, el financiamiento académico es un tema delica
 
 Florenciay Sebastian: Al no haber sufrido esta limitación, nuestra opinión quizás no sea la más útil. Dicho esto, recomendamos aprovechar las muy buenas universidades gratuitas que hay en Argentina para tener una buena base, intentando maximizar lo aprendido y, si se puede, las notas. Con eso buscaría aplicar a un pre-doc en el exterior, que les permitirá mantenerse mientras consiguen el conocimiento y prácticas necesarias para aplicar a un PhD. Al momento de aplicar, pediría las becas que muchas universidades ofrecen para no tener que pagar el fee de aplicación. 
 
-<div style="text-align: right"> 
-<font size = '6'>
-<< des >>
-</font>
-</div>
 
 
 --
