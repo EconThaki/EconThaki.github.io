@@ -13,7 +13,7 @@ output:
     
 ---
 
-En esta oportunidad entrevistaremos a Florencia Hnilo (Stanford Econ) y Sebastian Bauer (Stanford GBS), ambos de Argentina
+En esta oportunidad entrevistaremos a Florencia Hnilo (Stanford Econ) y Sebastian Bauer (Stanford GSB), ambos de Argentina
 
 
 <style>
@@ -22,7 +22,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de *Voces*, estamos entusiasmados de presentar a Florencia Hnilo y a Sebastian Bauer quienes nos contarán sobre su camino hacia el PhD. Florencia es estudiante del doctorado en economía en la Universidad de Stanford , y Sebastian pertenece al doctorado de economía en Stanford, GBS. 
+En esta edición de *Voces*, estamos entusiasmados de presentar a Florencia Hnilo y a Sebastian Bauer quienes nos contarán sobre su camino hacia el PhD. Florencia es estudiante del doctorado en economía en la Universidad de Stanford , y Sebastian pertenece al doctorado de economía en Stanford, GSB. 
 </div>
 
 <br>
