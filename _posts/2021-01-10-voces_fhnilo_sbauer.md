@@ -50,7 +50,7 @@ Sebastian: Hubo dos puntos clave en mi decisión de dedicarme a la investigació
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< d >>
+<< Me di cuenta que la vida diaria de un investigador se componía de tareas muy interesantes, lo cual terminó de confirmar mi decisión de dedicarme a la academia >> -S
 </font>
 </div>
 
@@ -67,11 +67,6 @@ Sebastian: Me guié principalmente por los consejos de los profesores Leandro Ar
 
 <br>
 
-<div style="text-align: right"> 
-<font size = '6'>
-<< de >>
-</font>
-</div>
 
 <div class = "teal">
   <strong>  
@@ -85,11 +80,6 @@ Sebastian: El principal reto sin lugar a dudas fue la maestría, que fue la que 
 
 <br>
 
-<div style="text-align: right"> 
-<font size = '6'>
-<< de >>
-</font>
-</div>
 
 <div class = "teal">
   <strong>  
@@ -99,13 +89,20 @@ Sebastian: El principal reto sin lugar a dudas fue la maestría, que fue la que 
 
 Florencia: No, estoy muy conforme con las decisiones que tomé durante mi carrera. Mi consejo es buscar cursar siempre con las/los mejores profesoras/es si existe la posibilidad de elegir (en la UBA es así), pues no solo aprenden de la materia, sino que aprenden cómo ser buenos profesionales. Vayan a todos los seminarios/escuelas de verano que les interesen para tener exposición al trabajo académico, no tengan miedo en escribirles a profesoras/es pidiendo consejo para alguna idea de investigación que tengan, y nunca se desanimen con una mala calificación en una materia que no les interesa en particular.
 
-Sebastian: Al principio de mi carrera no me enfoqué mucho en mis estudios y mis notas sufrieron por ello, además de que me demoré un poco más en recibirme de lo que dicta el programa de grado de la UBA. ,Antes de empezar a trabajar como ayudante en la UBA, trabajé en un call center y en una librería; hice estos trabajos porque quería tener mis propios ingresos a pesar de que mi familia podía mantenerme mientras estudiaba. Obviamente no todo el mundo puede elegir no trabajar durante su carrera, pero creo que es bueno enfocarse plenamente en los estudios en la medida de lo posible. En las universidades siempre hay oportunidades para trabajar en investigación con profesores o en institutos, por lo cual creo que si uno siente curiosidad por la vida académica, es una buena idea intentar participar en este tipo de iniciativas.
+Sebastian: Al principio de mi carrera no me enfoqué mucho en mis estudios y mis notas sufrieron por ello, además de que me demoré un poco más en recibirme de lo que dicta el programa de grado de la UBA. Antes de empezar a trabajar como ayudante en la UBA, trabajé en un call center y en una librería; hice estos trabajos porque quería tener mis propios ingresos a pesar de que mi familia podía mantenerme mientras estudiaba. Obviamente no todo el mundo puede elegir no trabajar durante su carrera, pero creo que es bueno enfocarse plenamente en los estudios en la medida de lo posible. En las universidades siempre hay oportunidades para trabajar en investigación con profesores o en institutos, por lo cual creo que si uno siente curiosidad por la vida académica, es una buena idea intentar participar en este tipo de iniciativas.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< des >>
+<< Mi consejo es buscar cursar siempre con las/los mejores profesoras/es si existe la posibilidad de elegir (…), pues no solo aprenden de la materia, sino que aprenden cómo ser buenos profesionales. >> -F
 </font>
 </div>
+
+<div style="text-align: right"> 
+<font size = '6'>
+<< Vayan a todos los seminarios/escuelas de verano que les interesen para tener exposición al trabajo académico, no tengan miedo en escribirles a profesoras/es pidiendo consejo para alguna idea de investigación que tengan, y nunca se desanimen con una mala calificación en una materia que no les interesa en particular. >> -F
+</font>
+</div>
+
 
 <div class = "teal">
   <strong>  
@@ -167,7 +164,13 @@ Florenciay Sebastian: Creemos que a la hora de aplicar, tanto desde Argentina co
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< des >>
+<< Creemos que a la hora de aplicar, tanto desde Argentina como desde otras partes del mundo, existe un “currículo oculto”; es decir, una serie de pasos que ayudan significativamente a la hora de maximizar las chances de entrar a un doctorado en el exterior >> -F&S
+</font>
+</div>
+
+<div style="text-align: right"> 
+<font size = '6'>
+<<  Como aprendizaje personal, al ver las iniciativas similares que nacieron en México y en Perú, nos dio esperanzas de que la profesión se está volviendo más cooperativa >> -F&S
 </font>
 </div>
 
