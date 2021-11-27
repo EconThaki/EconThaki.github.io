@@ -27,4 +27,4 @@ Atraer mayor diversidad al campo de la investigación en economía es importante
 
 **¿Qué sabemos de la academia en LAC?**
 
-De momento, no sabemos mucho porque no tenemos datos para comprender el problema en su totalidad. Por ello, una de nuestras primeras acciones es levantar encuestas al respecto.
+De momento, no sabemos mucho porque no tenemos datos para comprender el problema en su totalidad. Por ello, uno de nuestros objetivos incluye levantar datos al respecto de forma recurrente.
