@@ -14,7 +14,7 @@ Estudiantes de economía y afines con recursos insuficientes para acceder a estu
 
 **Fase 1: Talleres sobre "¿Qué es un PhD en Economía y cómo conseguirlo?**
 
-Los talleres sobre la academia en economía, los pasos para iniciarse en ella y aplicar al doctorado en el futuro son la fase 1 de nuestro programa. A través de estos, queremos disminuir la brecha de información respecto al inicio de la vida académica. Hemos comenzado operaciones desde noviembre 2021 en Perú, como país piloto, por facilidad de contactos. Esta fase se desarrollará de manera recurrente durante el 2021-2022 en función de la demanda y logística coordinada con cada universidad pública y de regiones (población objetivo). Si tienes interes en que demos una charla de este tipo en tu universidad, puedes contactarnos aquí [Contacto][contacto-link] o escribirnos un mail a "contacto@econthaki.org".
+Los talleres sobre la academia en economía, los pasos para iniciarse en ella y aplicar al doctorado en el futuro son la fase 1 de nuestro programa. A través de estos, queremos disminuir la brecha de información respecto al inicio de la vida académica. Hemos comenzado operaciones desde noviembre 2021 en Perú, como país piloto, por facilidad de contactos. Esta fase se desarrollará de manera recurrente durante el 2021-2022 en función de la demanda y logística coordinada con cada universidad pública y de regiones (población objetivo). Si tienes interes en que demos una charla de este tipo en tu universidad, puedes contactarnos [aquí][contacto-link] o escribirnos un mail a "contacto@econthaki.org".
 
 [contacto-link]:   https://econthaki.github.io/contact.html
 
