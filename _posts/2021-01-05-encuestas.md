@@ -21,7 +21,7 @@ Tener un puesto laboral en investigación es un requisito necesario para seguir 
 
 Puedes ayudarnos a completarla, si cumples estos 2 criterios: i) actualmente eres asistente de investigación en economía o alguna carrera afín o si lo has sido en los últimos 3 años, ii) cuenta con alguna nacionalidad de algún país de LAC o trabajas o has trabajado en alguna institución de investigación en LAC.  Para esta encuesta, se define como asistente de investigación a aquella persona (no estudiando un doctorado) que apoya al desarrollo de actividades de uno o más proyectos de investigación que tienen como objetivo final generar nuevo conocimiento que será divulgado a través de revistas académicas. Los asistentes de proyectos de economía pueden haber estudiado economía o carreras afines. Algunos ejemplos de estas carreras son: políticas públicas, matemática, estadística, ingeniería económica, ciencias de la computación, ciencias del comportamiento, otras ingenierías, entre otras.
 
-Estaremos levantando datos de forma recurrente durante el 2021 y 2022. Actualmente contamos con datos solo sobre Perú, así que esperamos poder recolectar información sobre otros países en los siguientes meses. Los resultados del estudio se publicarán en el primer trimestre del 2022.
+Estaremos levantando datos de forma recurrente durante el 2021 y el primer trimestre del 2022. Actualmente contamos con datos solo sobre Perú, así que esperamos poder recolectar información sobre otros países en los siguientes meses. Los resultados del estudio se publicarán en el segundo trimestre del 2022.
 
 - Link a la [Encuesta de Asistentes de Investigación en Economía][EAIE]
 
