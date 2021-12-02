@@ -18,7 +18,7 @@ Los talleres sobre la academia en economía, los pasos para iniciarse en ella y 
 
 [contacto-link]:   https://econthaki.github.io/contact.html
 
-**Fase 2: Eco-mienza: Capacitación en herramientas de investigación y análisis de datos**
+**Fase 2: [Eco-mienza: Capacitación en herramientas de investigación y análisis de datos](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html)**
 
 Las estudiantes y egresadas que entran dentro de nuestra población objetivo (ver requisitos) pueden postular y ser seleccionados en "Eco-mienza", programa de formación y capacitación en herramientas para realizar investigación en economía. La convocatoria para participar se desarrollará en diciembre de cada año y el programa irá de enero a marzo del siguiente año (3 horas semanales durante un periodo de 8 semanas).
 
