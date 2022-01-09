@@ -11,8 +11,7 @@ Estamos muy contentos de presentar la primera cohorte de **Eco-mienza**. Durante
 
 **Seleccionados en la Cohorte Inaugural 2022**
 
-
-| Nro. | Nombres y Apellidos (ordenanos por apellidos)                                                                     	     | Región                 |
+| Nro. | Nombres y Apellidos (ordenano por apellidos)                                                                     	     | Región                 |
 |--------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | 1      | Ilenyd Bravo Guzman                                                               | Ayacucho                                                              |
 | 2      | Denys Aldair Casiano Inga                                                  | Amazonas                  |
