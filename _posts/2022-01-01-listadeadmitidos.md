@@ -3,7 +3,7 @@ layout: post
 title:  "Eco-mienza: Edición Inaugural 2022"
 author: econthaki
 categories: [Programas]
-image: assets/images/ecomienza-primera.png.png
+image: assets/images/ecomienza-primera.png
 featured: true
 ---
 
