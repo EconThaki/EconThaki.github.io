@@ -7,12 +7,12 @@ image: assets/images/ecomienza-primera.png
 featured: true
 ---
 
-Estamos muy contentos de presentar la primera cohorte de Eco-mienza. Durante 8 sesiones teórico-prácticas, cada estudiante tendrá acceso a de herramientas básicas de investigación aplicada. 
+Estamos muy contentos de presentar la primera cohorte de **Eco-mienza**. Durante 8 sesiones teórico-prácticas, cada estudiante tendrá acceso a de herramientas básicas de investigación aplicada. 
 
 **Seleccionados en la Cohorte Inaugural 2022**
 
 
-| Nro. | Nombres y Apellidos (ordenanos alfabéticamente por apellidos)                                                                     	     | Región                 |
+| Nro. | Nombres y Apellidos (ordenanos por apellidos)                                                                     	     | Región                 |
 |--------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | 1      | Ilenyd Bravo Guzman                                                               | Ayacucho                                                              |
 | 2      | Denys Aldair Casiano Inga                                                  | Amazonas                  |
@@ -38,3 +38,6 @@ Estamos muy contentos de presentar la primera cohorte de Eco-mienza. Durante 8 s
 | 22      | Gut Javier Solis Cachuan                                 |                   Junin                                                     |
 | 23      | Yeni Violeta Vasquez Flores                                 |                     Cajamarca                                                   |
 | 24      | Elissa Corina Velasquez Valladares                                  |              La Libertad                                                          |
+
+
+¡Mucha suerte y éxitos!
