@@ -40,4 +40,6 @@ Estamos muy contentos de presentar la primera cohorte de **Eco-mienza**. Durante
 | 24      | Elissa Corina Velasquez Valladares                                  |              La Libertad                                                          |
 
 
+
+
 ¡Mucha suerte y éxitos!
