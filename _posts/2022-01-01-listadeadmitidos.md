@@ -7,7 +7,7 @@ image: assets/images/ecomienza-primera.png
 featured: true
 ---
 
-Estamos muy contentos de presentar la primera cohorte de **Eco-mienza**. Durante 8 sesiones teórico-prácticas, cada estudiante tendrá acceso a de herramientas básicas de investigación aplicada. 
+Estamos muy contentos de presentar la primera cohorte de **Eco-mienza**. Durante 8 sesiones teórico-prácticas, cada estudiante tendrá acceso a de herramientas básicas de investigación aplicada. Conozca mas sobre nuestra primera cohorte y cómo contribuye a la diversidad en economía haciendo clic en el siguiente link: Website: [Seleccionados al programa](https://github.com/EconThaki/Materiales-Eco-mienza/blob/main/seleccionados.pdf)
 
 **Seleccionados en la Cohorte Inaugural 2022**
 
