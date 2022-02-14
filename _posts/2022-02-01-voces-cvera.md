@@ -67,13 +67,13 @@ Posteriormente, planifiqué durante dos años el generar el presupuesto base par
 </strong>  
 </div>
 
-En primer lugar, es un proceso solitario. Si bien siempre encontramos algunas/os colegas con los que compartir el proceso; en general, muy pocas personas en el mundo llegan a aplicar a un doctorado (y menos ser admitido/a ~1% población mundial). En el caso de bolivianos/as, conozco a un número de colegas que experimentaron el mismo proceso muy limitado. Por otro lado, sin duda, es el gran presupuesto que un/a latinoamericana tiene que enfrentar para aplicar (3000~4000 dólares). Otro desafío, es que al ser un proceso de largo aliento, se requiere reforzar el sueño/motivación del porqué hacemos esto constantemente.
+En primer lugar, es un proceso solitario. Si bien siempre encontramos algunas/os colegas con los que compartir el proceso; en general, muy pocas personas en el mundo llegan a aplicar a un doctorado (y menos ser admitido/a, alrededor del 1% de la población mundial). En el caso de bolivianos/as, conozco a un número de colegas que experimentaron el mismo proceso muy limitado. Por otro lado, sin duda, es el gran presupuesto que un/a latinoamericana tiene que enfrentar para aplicar (3,000-4,000 dólares). Otro desafío, es que al ser un proceso de largo aliento, se requiere reforzar el sueño/motivación del porqué hacemos esto constantemente.
 
 <br>
 
 <div class = "teal">
   <strong>  
-¿Habrías hecho algo diferente si pudieras? Qué consejo le darias a los que quieren seguir un camino similar?
+¿Habrías hecho algo diferente si pudieras? ¿Qué consejo le darias a los que quieren seguir un camino similar?
 </strong>  
 </div>
 
@@ -94,7 +94,9 @@ Creo que un doctorado nos permite encontrarnos con un nivel muy profundo de igno
 </font>
 </div>
 
-Un proceso en el que puedo no entender algo por horas (o días), pero en algún momento llego a comprenderlo y es lo más satisfactorio. Citando a Martin A. Schwartz: "La estupidez productiva significa ser ignorante por elección propia. Centrarse en cuestiones importantes que nos sitúan en la posición incómoda de parecer ignorantes. Una de las cosas más hermosas de la ciencia es que nos permite tambalearnos, fallar una vez tras otra, y sentirnos perfectamente bien mientras aprendemos algo cada una de las veces." (https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
+Un proceso en el que puedo no entender algo por horas (o días), pero en algún momento llego a comprenderlo y es lo más satisfactorio. Citando a [Martin A. Schwartz (2008)][websi]: "La estupidez productiva significa ser ignorante por elección propia. Centrarse en cuestiones importantes que nos sitúan en la posición incómoda de parecer ignorantes. Una de las cosas más hermosas de la ciencia es que nos permite tambalearnos, fallar una vez tras otra, y sentirnos perfectamente bien mientras aprendemos algo cada una de las veces." 
+
+[websi]: https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research
 
 <br>
 
@@ -197,7 +199,7 @@ Por lo que siempre estoy dedicada a pensar en nuevos proyectos/equipos para trab
 
 <div class = "teal">
   <strong>  
-Qué consejo le darias a las chicas y chicos sin recursos o mentores que quieren hacer investigación?
+¿Qué consejo le darias a las chicas y chicos sin recursos o mentores que quieren hacer investigación?
 </strong>  
 </div>
 
