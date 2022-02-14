@@ -36,7 +36,7 @@ Soy una mujer boliviana. Estudié el pregrado en Economía en la Universidad Cat
 
 <div class = "teal">
   <strong>  
-¿Cómo y cuándo te diste cuenta que querias hacer investigacion en economia?
+¿Cómo y cuándo te diste cuenta que querias hacer investigación en economía?
 </strong>  
 </div>
 
@@ -54,7 +54,7 @@ Tuve la oportunidad de trabajar con grandes profesoras/es que me mostraron el ca
 
 <div class = "teal">
   <strong>  
-¿Cómo fue el proceso de decidir aplicar a tu programa doctoral?
+¿Cómo fue el proceso para decidir aplicar a tu programa doctoral?
 </strong>  
 </div>
 
@@ -63,7 +63,7 @@ Posteriormente, planifiqué durante dos años el generar el presupuesto base par
 
 <div class = "teal">
   <strong>  
-¿Cuáles fueron los principales retos en tu proceso de postulacion?
+¿Cuáles fueron los principales retos en tu proceso de postulación?
 </strong>  
 </div>
 
@@ -73,7 +73,7 @@ En primer lugar, es un proceso solitario. Si bien siempre encontramos algunas/os
 
 <div class = "teal">
   <strong>  
-¿Habrías hecho algo diferente si pudieras? ¿Qué consejo le darias a los que quieren seguir un camino similar?
+¿Habrías hecho algo diferente si pudieras? ¿Qué consejo le darías a los que quieren seguir un camino similar?
 </strong>  
 </div>
 
@@ -103,7 +103,7 @@ Un proceso en el que puedo no entender algo por horas (o días), pero en algún 
 
 <div class = "teal">
   <strong>  
-Nos podrias comentar cómo ha evolucionado tu percepción sobre la academia desde que empezaste el PhD.
+Nos podrias comentar sobre cómo ha evolucionado tu percepción sobre la academia desde que empezaste el PhD.
 </strong>  
 </div>
 
@@ -121,7 +121,7 @@ Por otro lado, la academia también me permitió conocer a colegas increíbles e
 
 <div class = "teal">
   <strong>  
-¿Qué proyecto de investigacion te ha entusiasmado más hasta el momento?
+¿Qué proyecto de investigación te ha entusiasmado más hasta el momento?
 </strong>  
 </div>
 
