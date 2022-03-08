@@ -17,7 +17,7 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 **Nuestros Profesores e Instituciones Aliadas**
 
 
-<table border="5" bordercolor="red" align="center">
+<table border="3" bordercolor="gray" align="center">
         <tr>
             <th colspan="3">Alvaro Contreras</th> 
         </tr>
@@ -26,13 +26,10 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
             <th>Contacto o redes</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="" border=3 height=100 width=100></img></td>
+            <td><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="acontreras" border=1 height=100 width=100></td>
             <td>Alvaro Contreras</td>
         </tr>
-        <tr>
-            <td>United States</td>
-            <td border=3 height=100 width=100>Photo1</td>
-        </tr>
+
 
 </table>
 
