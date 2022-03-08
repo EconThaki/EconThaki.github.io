@@ -27,6 +27,11 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
             <td>Alvaro Contreras 
               <a href="https://twitter.com/acontrerasmell">redes: @acontrerasmell</a> </td>
         </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" alt="dmurillo" border=1 height=100 width=100></td>
+            <td>Dafne Murillo 
+              <a href="https://twitter.com/dafmurillo">redes: @dafmurillo</a> </td>
+        </tr>
 
 
 </table>
