@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eco-mienza- Promoción 22'"
+title:  "Eco-mienza: Promoción 22'"
 author: econthaki
 categories: [Programas]
 image: assets/images/ecomienza-cuadrado.png
@@ -8,7 +8,7 @@ image: assets/images/ecomienza-cuadrado.png
 Nuestro agradecimiento a todos los aliados que permitieron que el primer programa de Ecomienza resultará exitosamente!
 
 
-**Eco-mienza**
+**Eco-mienza: Promoción 2022**
 
 Es un programa de formación que tiene como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o de regiones de Perú. Lo desarrolla EconThaki en esfuerzos conjuntos a IPA, JPAL LAC, y profesora/es invitada/os.
 
