@@ -37,14 +37,14 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 
 Otra version 
 
-<table cellpadding="0" cellspacing="0" width="100%">
+<table  border="3" bordercolor="gray" align="center" style="width:100%">
   <tr>
-    <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" /><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
-    <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" /><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
+    <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" border=1 height=100 width=100>><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
+    <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" border=1 height=100 width=100>><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
   </tr>
   <tr>
-    <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" /><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
-    <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" /><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
+    <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" border=1 height=100 width=100>><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
+    <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" border=1 height=100 width=100>><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
   </tr>
 </table>
 
