@@ -37,6 +37,19 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 </table>
 
 
+Otra version 
+
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" /><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
+    <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" /><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
+  </tr>
+  <tr>
+    <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" /><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
+    <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" /><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
+  </tr>
+</table>
+
 Link a  [Preguntas Frecuentes][pregfreq-link]
 
 [pregfreq-link]:   https://econthaki.github.io/recursos/2021/01/06/pregfreq.html
