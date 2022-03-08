@@ -17,10 +17,10 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 **Nuestros Profesores e Instituciones Aliadas**
 
 
-<table border="3" bordercolor="gray" align="center">
+<table border="3" bordercolor="gray" align="center" style="width:100%" >
         <tr>
             <th>Docente o Institución aliada</th>
-            <th>Contacto o redes</th>
+            <th style="width:70%">Contacto o redes</th>
         </tr>
         <tr>
             <td><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="acontreras" border=1 height=100 width=100></td>
