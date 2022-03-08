@@ -19,15 +19,12 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 
 <table border="3" bordercolor="gray" align="center">
         <tr>
-            <th colspan="3">Alvaro Contreras</th> 
-        </tr>
-        <tr>
             <th>Docente o Institución aliada</th>
             <th>Contacto o redes</th>
         </tr>
         <tr>
             <td><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="acontreras" border=1 height=100 width=100></td>
-            <td>Alvaro Contreras</td>
+            <td>Alvaro Contreras <a href="https://twitter.com/acontrerasmell">acontrerasmell</a> </td>
         </tr>
 
 
