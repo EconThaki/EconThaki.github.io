@@ -23,14 +23,12 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
             <th style="width:70%">Contacto o redes</th>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="acontreras" border=1 height=100 width=100></td>
-            <td>Alvaro Contreras 
-              <a href="https://twitter.com/acontrerasmell">redes: @acontrerasmell</a> </td>
+            <td>Alvaro Contreras  <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="acontreras" border=1 height=100 width=100><br/></td>
+            <td><a href="https://twitter.com/acontrerasmell">redes: @acontrerasmell</a> </td>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" alt="dmurillo" border=1 height=100 width=100></td>
-            <td>Dafne Murillo 
-              <a href="https://twitter.com/dafmurillo">redes: @dafmurillo</a> </td>
+            <td>Dafne Murillo  <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" alt="dmurillo" border=1 height=100 width=100><br/></td>
+            <td> <a href="https://twitter.com/dafmurillo">redes: @dafmurillo</a> </td>
         </tr>
 
 
