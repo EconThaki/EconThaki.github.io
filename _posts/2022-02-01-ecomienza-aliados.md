@@ -5,7 +5,7 @@ author: econthaki
 categories: [Programas]
 image: assets/images/ecomienza-cuadrado.png
 ---
-
+Nuestro agradecimiento a todos los aliados que permitieron que el primer programa de Ecomienza resultará exitosamente!
 
 
 **Eco-mienza**
