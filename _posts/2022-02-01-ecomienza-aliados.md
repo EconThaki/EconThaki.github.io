@@ -24,11 +24,11 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
         </tr>
         <tr>
             <td>Alvaro Contreras  <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" alt="acontreras" border=1 height=100 width=100><br/></td>
-            <td><a href="https://twitter.com/acontrerasmell">redes: @acontrerasmell</a> </td>
+            <td><a href="https://twitter.com/acontrerasmell">twitter: @acontrerasmell</a> </td>
         </tr>
         <tr>
             <td>Dafne Murillo  <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" alt="dmurillo" border=1 height=100 width=100><br/></td>
-            <td> <a href="https://twitter.com/dafmurillo">redes: @dafmurillo</a> </td>
+            <td> <a href="https://twitter.com/dafmurillo">twitter: @dafmurillo</a> </td>
         </tr>
 
 
