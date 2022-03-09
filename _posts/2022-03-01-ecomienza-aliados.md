@@ -54,7 +54,7 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
     <tr>
     <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" border=1 height=100 width=100><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
     <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
-    <td>Ana Paula <br /><img src="{{ site.baseurl }}/assets/images/eco22/avatarf.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/_apfranco">@_apfranco</a></td>
+    <td>Ana Paula <br /><img src="{{ site.baseurl }}/assets/images/eco22/afranco.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/_apfranco">@_apfranco</a></td>
   </tr>
 
 </table>
