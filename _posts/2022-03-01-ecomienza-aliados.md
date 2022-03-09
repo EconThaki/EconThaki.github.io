@@ -35,6 +35,8 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
   </tr>  
 </table>
 
+**Nuestros Mentores a lo largo del Programa**
+
 <table  border="3" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="3">Mentores</th> 
