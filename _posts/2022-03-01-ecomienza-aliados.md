@@ -3,7 +3,7 @@ layout: post
 title:  "Eco-mienza: Promoción 22'"
 author: econthaki
 categories: [Programas]
-image: assets/images/ecomienza-cuadrado.png
+image: assets/images/eco22/zoomclass.jpg
 ---
 Nuestro agradecimiento a todos los aliados que permitieron que el primer programa de Ecomienza resultará exitosamente!
 
