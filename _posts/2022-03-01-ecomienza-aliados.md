@@ -30,7 +30,7 @@ Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada
     <td>Marco Ortiz <br /><img src="{{ site.baseurl }}/assets/images/eco22/mortiz.png" border=1 height=100 width=100><br /><a href="https://twitter.com/Shin_Mkto">@Shin_Mkto</a></td>
   </tr>
   <tr>
-    <td>Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/eco22/sebast.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
+    <td>Sebastian Tello-Trillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/sebast.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
     <td>Giuliana Barnuevo <br /><img src="{{ site.baseurl }}/assets/images/eco22/gbarnuevo.jpg" border=1 height=100 width=100><br /> <a href="https://www.linkedin.com/in/giuliana-barnuevo-data-science">@giuliana-barnuevo</a></td>
   </tr>  
 </table>
@@ -45,7 +45,7 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
   </tr>  
   <tr>
     <td>Fabiola Alba <br /><img src="{{ site.baseurl }}/assets/images/eco22/falba.JPG" border=1 height=100 width=100><br /><a href="https://twitter.com/fabalbav"> @fabalbav</a> </td>
-    <td>María Alejandra <br /><img src="{{ site.baseurl }}/assets/images/eco22/malejandra.jpg" border=1 height=100 width=100><br /> </td>
+    <td>María Alejandra Rodríguez <br /><img src="{{ site.baseurl }}/assets/images/eco22/malejandra.jpg" border=1 height=100 width=100><br /> </td>
     <td>Brian Daza <br /><img src="{{ site.baseurl }}/assets/images/eco22/bdaza.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/bdazav">@bdazav</a></td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
     <tr>
     <td>Alvaro Contreras <br /><img src="{{ site.baseurl }}/assets/images/eco22/acontreras.png" border=1 height=100 width=100><br /><a href="https://twitter.com/acontrerasmell"> @acontrerasmell</a> </td>
     <td>Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/dmurillo.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dafmurillo">@dafmurillo</a></td>
-    <td>Ana Paula <br /><img src="{{ site.baseurl }}/assets/images/eco22/afranco.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/_apfranco">@_apfranco</a></td>
+    <td>Ana Paula Franco <br /><img src="{{ site.baseurl }}/assets/images/eco22/afranco.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/_apfranco">@_apfranco</a></td>
   </tr>
 
 </table>
