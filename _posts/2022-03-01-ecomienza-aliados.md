@@ -45,7 +45,7 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
   </tr>  
   <tr>
     <td>Fabiola Alba <br /><img src="{{ site.baseurl }}/assets/images/eco22/falba.JPG" border=1 height=100 width=100><br /><a href="https://twitter.com/fabalbav"> @fabalbav</a> </td>
-    <td>María Alejandra Rodríguez <br /><img src="{{ site.baseurl }}/assets/images/eco22/malejandra.jpg" border=1 height=100 width=100><br /> </td>
+    <td>M. Alejandra Rodríguez <br /><img src="{{ site.baseurl }}/assets/images/eco22/malejandra.jpg" border=1 height=100 width=100><br /> </td>
     <td>Brian Daza <br /><img src="{{ site.baseurl }}/assets/images/eco22/bdaza.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/bdazav">@bdazav</a></td>
   </tr>
   <tr>
