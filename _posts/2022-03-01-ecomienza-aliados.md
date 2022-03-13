@@ -13,7 +13,7 @@ Con esta página queremos agradecer a todas las instituciones y personas aliadas
 Es un programa de formación que tiene como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. La primera versión del programa se desarrolló en Perú entre enero a marzo del 2022 en esfuerzos conjuntos a IPA, JPAL LAC, y profesora/es y estudiantes invitada/os. 
 
 
-**Instituciones Aliadas y profesores**
+**Instituciones Aliadas y Profesores**
 
 Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada, análisis de datos y herramientas para la investigación. Las instituciones y personas listadas fueron las encargadas de impartir estas sesiones. Pueden conocerles más a través de sus cuentas institucionales y/o personales.
 
