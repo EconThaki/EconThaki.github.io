@@ -5,17 +5,17 @@ author: econthaki
 categories: [Programas]
 image: assets/images/eco22/lastmeet.jpeg
 ---
-Nuestro agradecimiento a todos los aliados que permitieron que el primer programa de Ecomienza resultará exitosamente!
+Con esta página queremos agradecer a todas las instituciones y personas aliadas que permitieron que el primer programa de Eco-mienza 2022 se desarrolle de forma exitosa.
 
 
-**Eco-mienza: Promoción 2022**
+**Eco-mienza**
 
-Es un programa de formación que tiene como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o de regiones de Perú. Lo desarrolla EconThaki en esfuerzos conjuntos a IPA, JPAL LAC, y profesora/es invitada/os.
+Es un programa de formación que tiene como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. La primera versión del programa se desarrolló en Perú entre enero a marzo del 2022 en esfuerzos conjuntos a IPA, JPAL LAC, y profesora/es y estudiantes invitada/os. 
 
 
+**Instituciones Aliadas y profesores**
 
-**Nuestros Profesores e Instituciones Aliadas**
-
+Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada, análisis de datos y herramientas para la investigación. Las instituciones y personas listadas fueron las encargadas de impartir estas sesiones. Pueden conocerles más a través de sus cuentas institucionales y/o personales.
 
 <table  border="3" bordercolor="gray" align="center" style="width:100%">
   <tr>
@@ -35,7 +35,9 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
   </tr>  
 </table>
 
-**Nuestros Mentores a lo largo del Programa**
+**Mentores a lo largo del programa**
+
+Los mentores fueron las personas encargadas de orientar a cada estudiante en el desarrollo de una propuesta de investigación a través de un sistema de "horas de oficina". Todos los mentores son actuales estudiantes de programas doctorales en economía o carreras relacionadas interesados en incrementar la diversidad en la academia.
 
 <table  border="3" bordercolor="gray" align="center" style="width:100%">
   <tr>
@@ -59,7 +61,7 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 
 </table>
 
-Link a  [Preguntas Frecuentes][pregfreq-link]
+**La cohorte 2022**
 
-[pregfreq-link]:   https://econthaki.github.io/recursos/2021/01/06/pregfreq.html
+Luego de culminar con las clases y recibir sus sesiones de mentoría, cada estudiante desarrolló una propuesta de investigación y la presentó al grupo. Aquí listaremos a la cohorte de la promoción graduada del programa (pronto).
 
