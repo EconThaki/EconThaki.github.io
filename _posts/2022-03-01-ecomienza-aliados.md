@@ -3,7 +3,7 @@ layout: post
 title:  "Eco-mienza: Promoción 22'"
 author: econthaki
 categories: [Programas]
-image: assets/images/eco22/zoomclass.jpg
+image: assets/images/eco22/lastmeet.jpeg
 ---
 Nuestro agradecimiento a todos los aliados que permitieron que el primer programa de Ecomienza resultará exitosamente!
 
@@ -31,7 +31,7 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
   </tr>
   <tr>
     <td>Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/eco22/sebast.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
-    <td>Giuliana Barnuevo <br /><img src="{{ site.baseurl }}/assets/images/eco22/avatarf.jpg" border=1 height=100 width=100><br /> </td>
+    <td>Giuliana Barnuevo <br /><img src="{{ site.baseurl }}/assets/images/eco22/gbarnuevo.jpg" border=1 height=100 width=100><br /> <a href="https://www.linkedin.com/in/giuliana-barnuevo-data-science">@giuliana-barnuevo</a></td>
   </tr>  
 </table>
 
