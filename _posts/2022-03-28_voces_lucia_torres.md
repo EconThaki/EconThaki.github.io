@@ -197,6 +197,6 @@ Le agradecemos mucho a Lucía por esta entrevista en ésta edición de *Voces*. 
 
 </div>
 
-- Linkedin: [https://www.linkedin.com/in/ltfrasele](https://linkedin.com/in/ltfrasele)
+- Correo electrónico: [ltorresf@syr.edu](ltorresf@syr.edu)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
