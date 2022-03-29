@@ -27,7 +27,7 @@ Contamos con Lucía Torres para esta edición de *Voces*. Nos estusiasma present
 
 <div class = "teal">
   <strong>  
-Háblanos un poco de tu trayectoria previo a entrar a Columbia University (ej. pregrado, experiencia laboral)
+Háblanos un poco de tu trayectoria previo a entrar a Syracuse University (ej. pregrado, experiencia laboral)
 </strong>  
 </div>
 
