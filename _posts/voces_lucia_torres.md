@@ -4,7 +4,7 @@ title: Voces - Lucía Torres
 date: "Marzo 2022"
 author: econthaki
 categories: [voces]
-image: assets/images/Fabiola-Alba.jpg
+image: assets/images/NONONO.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
