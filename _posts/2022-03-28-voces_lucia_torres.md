@@ -119,15 +119,6 @@ El ingreso de las mujeres en el campo laboral es un suceso relativamente recient
 
 <div class = "teal">
   <strong>  
-Una ventaja y una desventaja de tu programa doctoral.
-</strong>  
-</div>
-
-Estoy en un programa muy bueno para todos los que quieren hacer Economía y Educación en una ciudad increíble como Nueva York. Hay muchos latinos y desde el inicio tiene un asesor asignado que trabaja contigo. La ventaja y desventaja al mismo tiempo es que es especializado: tienes que venir sabiendo lo que quieres hacer y ya con ideas claras de lo será tu tesis. Estoy muy feliz de que este año vienen dos peruanas muy talentosas a hacer el PhD en mi programa: un signo de que las cosas van mejorando.
-<br>
-
-<div class = "teal">
-  <strong>  
 ¿Qué proyecto de investigación te ha entusiasmado más hasta el momento?
 </strong>  
 </div>
