@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eco-mienza: Promoción 22'"
+title:  "Eco-mienza: Graduados 22'"
 author: econthaki
 categories: [Programas]
 image: assets/images/eco22/lastmeet.jpeg
@@ -31,13 +31,12 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
     <td> Mariela Ladron de Guevara <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/MARIELA LADRON DE GUEVARA YEPEZ.jpg " border=1 height=100 width=100><br /> </td>
     <td> Miriam Puraca <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Miriam_Puraca.jfif " border=1 height=100 width=100><br /> </td>    
   </tr>
-    <tr>
+  <tr>
     <td> Sandra Nuñez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Nuñez Velarde Sandra - Fotografía.jpg " border=1 height=100 width=100><br /> </td>
     <td> Sofia Sanchez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Sofia Sanchez Cardenas.jpg " border=1 height=100 width=100><br /> </td>
     <td> Tania Lopez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/tania_lopez.jpg " border=1 height=100 width=100><br /> </td>
   </tr>
-  </tr>
-    <tr>
+  <tr>
     <td> Yeni Vasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/YeniVasquez_foto.jpeg " border=1 height=100 width=100><br /> </td>
     <td> Yoselin Juarez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Yoselin_Juarez.jpg " border=1 height=100 width=100><br /> </td>
     <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=100 width=100><br /> </td>
