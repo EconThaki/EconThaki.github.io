@@ -3,9 +3,9 @@ layout: post
 title:  "Eco-mienza: Graduados 22'"
 author: econthaki
 categories: [Programas]
-image: assets/images/eco22/lastmeet.jpeg
+image: assets/images/eco22/egresades/presentations.jpg
 ---
-Con esta página queremos agradecer a todas las instituciones y personas aliadas que permitieron que el primer programa de Eco-mienza 2022 se desarrolle de forma exitosa.
+En este post queremos felicitar a todos nuestros alumnos graduados que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
 
 
 **Eco-mienza**
