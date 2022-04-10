@@ -5,7 +5,7 @@ author: econthaki
 categories: [Programas]
 image: assets/images/eco22/egresades/presentations.jpg
 ---
-En este post queremos felicitar a todos nuestros alumnos graduados que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
+En este post queremos felicitar a todos nuestr@s alumn@s graduad@s que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
 
 
 **Eco-mienza**
@@ -16,12 +16,12 @@ La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes d
 
  <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=600 width=600><br /> 
 
-Una de nuestras metas es poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
+Una de nuestras metas fue poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
  <br /><img src="{{ site.baseurl }}/assets/images/eco22/primerageneracionadadmitidos.jpg " border=1 height=600 width=600><br /> 
 
 Conozca más sobre nuestra primera cohorte en el siguiente link: [Descripción de los admitidos](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
-**Graduados de la cohorte 2022**
+**Graduad@s de la cohorte 2022**
 
 Todos los admitidos al programa fueron beneficiarios de clases informativas y de capacitación asociadas a herramientas en la academia. Estas clases incluyeron clases de microeconomía y macroeconomía aplicadas, evaluación de impacto, programación en Stata, R, y Python. Además recibieron información sobre habilidades blandas y de networking necesarias en academia. 
 
@@ -30,7 +30,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 <table  border="3" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="3">Alumnos graduados</th> 
+        <th colspan="3">Alumn@s graduad@s</th> 
   </tr>  
   <tr>
     <td> Alex Evanan <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Alex Evanan.jpg " border=1 height=100 width=100><br /> </td>
