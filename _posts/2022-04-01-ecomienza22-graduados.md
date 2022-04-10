@@ -3,7 +3,7 @@ layout: post
 title:  "Eco-mienza: Graduados 22'"
 author: econthaki
 categories: [Programas]
-image: assets/images/eco22/egresades/presentations.jpg
+image: assets/images/eco22/egresades/egresadesall.jpg
 ---
 En este post queremos felicitar a todos nuestr@s alumn@s graduad@s que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
 
@@ -17,7 +17,7 @@ La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes d
  <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=600 width=600><br /> 
 
 Una de nuestras metas fue poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
- <br /><img src="{{ site.baseurl }}/assets/images/eco22/primerageneracionadadmitidos.jpg " border=1 height=600 width=600><br /> 
+ <br /><img src="{{ site.baseurl }}/assets/images/eco22/univadmitidos.jpg.jpg " border=1 height=600 width=600><br /> 
 
 Conozca más sobre nuestra primera cohorte en el siguiente link: [Descripción de los admitidos](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
