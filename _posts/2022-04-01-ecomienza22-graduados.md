@@ -12,15 +12,20 @@ En este post queremos felicitar a todos nuestros alumnos graduados que participa
 
 Es un programa de formación que tuvo como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. 
 
-La convocatoria fue exitosa y pudimos conectar con alumnos de distintas partes del Perú, auqnue esepramos que en una siguiente temporada este proceso sea más extensivo. 
+La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes del Perú, aunque esperamos que en una siguiente temporada este proceso sea más extensivo. 
 
- <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=100 width=100><br /> 
+ <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=600 width=600><br /> 
 
+Una de nuestras metas es poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
+ <br /><img src="{{ site.baseurl }}/assets/images/eco22/primerageneracionadadmitidos.jpg " border=1 height=600 width=600><br /> 
 
 Conozca más sobre nuestra primera cohorte en el siguiente link: [Seleccionados al programa](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
 **Graduados de la cohorte 2022**
 
+Todos los admitidos al programa fueron beneficiarios de clases informativas y de capacitación asociadas a herramientas en la academia. Estas clases incluyeron clases de microeconomía y macroeconomía aplicadas, evaluación de impacto, programación en Stata, R, y Python. Además recibieron información sobre habilidades blandas y de networking necesarias en academia. 
+
+Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron voluntarios de distintos programas de doctorados. Es así que pudieron ejecutar sus ideas en forma de propuestas de investigación que presentaron el último día de clases. 
 
 
 <table  border="3" bordercolor="gray" align="center" style="width:100%">
