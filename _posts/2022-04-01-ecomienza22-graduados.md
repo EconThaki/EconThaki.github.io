@@ -19,7 +19,7 @@ La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes d
 Una de nuestras metas es poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
  <br /><img src="{{ site.baseurl }}/assets/images/eco22/primerageneracionadadmitidos.jpg " border=1 height=600 width=600><br /> 
 
-Conozca más sobre nuestra primera cohorte en el siguiente link: [Seleccionados al programa](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
+Conozca más sobre nuestra primera cohorte en el siguiente link: [Descripción de los admitidos](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
 **Graduados de la cohorte 2022**
 
