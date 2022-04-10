@@ -10,8 +10,14 @@ En este post queremos felicitar a todos nuestros alumnos graduados que participa
 
 **Eco-mienza**
 
-Es un programa de formación que tiene como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. La primera versión del programa se desarrolló en Perú entre enero a marzo del 2022 en esfuerzos conjuntos a IPA, JPAL LAC, y profesora/es y estudiantes invitada/os. 
+Es un programa de formación que tuvo como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. 
 
+La convocatoria fue exitosa y pudimos conectar con alumnos de distintas partes del Perú, auqnue esepramos que en una siguiente temporada este proceso sea más extensivo. 
+
+ <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=100 width=100><br /> 
+
+
+Conozca más sobre nuestra primera cohorte en el siguiente link: [Seleccionados al programa](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
 **Graduados de la cohorte 2022**
 
