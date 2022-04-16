@@ -30,25 +30,30 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 <table  border="3" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="3">Alumn@s graduad@s</th> 
+        <th colspan="2">Alumn@s graduad@s<br /> Tema de Investigación <br /> Universidad </th> 
   </tr>  
   <tr>
-    <td> Alex Evanan <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Alex Evanan.jpg " border=1 height=100 width=100><br /> </td>
+    <td> Alex Evanan <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Alex Evanan.jpg " border=1 height=100 width=100><br /> Educación y Tecnología <br /> Universidad Nacional del Callao</td>
     <td> Brayan Condori <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Brayan_Condori.jpg " border=1 height=100 width=100><br /> </td>
-    <td> Harol Paucar  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/HAROL JHOSEP PAUCAR HUAYLLA.jpg " border=1 height=100 width=100><br /> </td>
+
   </tr>
   <tr>
+    <td> Harol Paucar  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/HAROL JHOSEP PAUCAR HUAYLLA.jpg " border=1 height=100 width=100><br /> </td>
     <td> Juan Luis Gutierrez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/JuanLuis_Gutierrez.jpg " border=1 height=100 width=100><br /> </td>
+  </tr>
+  <tr>  
     <td> Mariela Ladron de Guevara <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/MARIELA LADRON DE GUEVARA YEPEZ.jpg " border=1 height=100 width=100><br /> </td>
     <td> Miriam Puraca <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Miriam_Puraca.jfif " border=1 height=100 width=100><br /> </td>    
   </tr>
   <tr>
     <td> Sandra Nuñez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Nuñez Velarde Sandra - Fotografía.jpg " border=1 height=100 width=100><br /> </td>
     <td> Sofia Sanchez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Sofia Sanchez Cardenas.jpg " border=1 height=100 width=100><br /> </td>
-    <td> Tania Lopez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/tania_lopez.jpg " border=1 height=100 width=100><br /> </td>
   </tr>
   <tr>
+    <td> Tania Lopez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/tania_lopez.jpg " border=1 height=100 width=100><br /> </td>    
     <td> Yeni Vasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/YeniVasquez_foto.jpeg " border=1 height=100 width=100><br /> </td>
+  </tr>
+  <tr>    
     <td> Yoselin Juarez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Yoselin_Juarez.jpg " border=1 height=100 width=100><br /> </td>
     <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=100 width=100><br /> </td>
   </tr>
