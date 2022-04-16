@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eco-mienza: Promoción 22'"
+title:  "Eco-mienza: Aliados y Mentores"
 author: econthaki
 categories: [Programas]
 image: assets/images/eco22/lastmeet.jpeg
