@@ -33,33 +33,33 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
         <th colspan="2">Alumn@s graduad@s </th> 
   </tr>  
   <tr>
-    <td> Tania Lopez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/tania_lopez.jpg " border=1 height=150 width=150><br /> Exportación y Crecimiento <br /> Universidad Nacional de Frontera  </td>    
-    <td> Yeni Vasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/YeniVasquez_foto.jpeg " border=1 height=150 width=150><br /> Salud y Eficiencia <br /> Universidad Nacional Mayor de San Marcos  </td>
+    <td> Tania Lopez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/tania_lopez.jpg " border=1 height=180 width=180><br /> Exportación y Crecimiento <br /> Universidad Nacional de Frontera  </td>    
+    <td> Yeni Vasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/YeniVasquez_foto.jpeg " border=1 height=180 width=180><br /> Salud y Eficiencia <br /> Universidad Nacional Mayor de San Marcos  </td>
   </tr>  
   <tr>
-    <td> Mariela Ladron de Guevara <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/MARIELA LADRON DE GUEVARA YEPEZ.jpg " border=1 height=150 width=150><br /> Comercio y Desigualdad de Ingresos <br /> Universidad Nacional de San Antonio Abad del Cusco  </td>    
-    <td> Brayan Condori <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Brayan_Condori.jpg " border=1 height=150 width=150><br /> Trabajo y Género <br /> Universidad de Piura  </td>
+    <td> Mariela Ladron de Guevara <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/MARIELA LADRON DE GUEVARA YEPEZ.jpg " border=1 height=180 width=180><br /> Comercio y Desigualdad de Ingresos <br /> Universidad Nacional de San Antonio Abad del Cusco  </td>    
+    <td> Brayan Condori <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Brayan_Condori.jpg " border=1 height=180 width=180><br /> Trabajo y Género <br /> Universidad de Piura  </td>
 
   </tr>
   <tr>
-    <td> Sofia Sanchez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Sofia Sanchez Cardenas.jpg " border=1 height=150 width=150><br /> Educación y Trabajo <br />  Universidad Nacional Mayor de San Marcos </td>    
-    <td> Harol Paucar  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/HAROL JHOSEP PAUCAR HUAYLLA.jpg " border=1 height=150 width=150><br /> Economía Pública <br /> Universidad Nacional de San Agustin de Arequipa  </td>
+    <td> Sofia Sanchez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Sofia Sanchez Cardenas.jpg " border=1 height=180 width=180><br /> Educación y Trabajo <br />  Universidad Nacional Mayor de San Marcos </td>    
+    <td> Harol Paucar  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/HAROL JHOSEP PAUCAR HUAYLLA.jpg " border=1 height=180 width=180><br /> Economía Pública <br /> Universidad Nacional de San Agustin de Arequipa  </td>
   </tr>
   <tr>  
-    <td> Miriam Puraca <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Miriam_Puraca.jfif " border=1 height=150 width=150><br /> Corrupción y Gasto Público <br /> Universidad Nacional del Altiplano  </td>    
-    <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=150 width=150><br /> Educación <br /> Universidad Nacional de Trujillo  </td>    
+    <td> Miriam Puraca <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Miriam_Puraca.jfif " border=1 height=180 width=180><br /> Corrupción y Gasto Público <br /> Universidad Nacional del Altiplano  </td>    
+    <td> Romina Gavancho <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/rominagavancho.jpg " border=1 height=180 width=180><br /> Educación y Tecnología <br />  Universidad Nacional del Centro </td>  
   </tr>
   <tr>
-    <td> Sandra Nuñez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Nuñez Velarde Sandra - Fotografía.jpg " border=1 height=150 width=150><br /> Ahorro Previsional <br /> Universidad Nacional de San Cristóbal de Huamanga  </td>
-    <td> Juan Luis Gutierrez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/JuanLuis_Gutierrez.jpg " border=1 height=150 width=150><br /> Crecimiento <br /> Universidad Nacional de Trujillo  </td>    
+    <td> Sandra Nuñez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Nuñez Velarde Sandra - Fotografía.jpg " border=1 height=180 width=180><br /> Ahorro Previsional <br /> Universidad Nacional de San Cristóbal de Huamanga  </td>
+    <td> Juan Luis Gutierrez  <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/JuanLuis_Gutierrez.jpg " border=1 height=180 width=180><br /> Crecimiento <br /> Universidad Nacional de Trujillo  </td>    
   </tr>
 
   <tr>    
-    <td> Yoselin Juarez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Yoselin_Juarez.jpg " border=1 height=150 width=150><br /> Trabajo y Étnicidad <br /> Universidad Nacional de Frontera  </td>
-    <td> Alex Evanan <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Alex Evanan.jpg " border=1 height=150 width=150><br /> Educación y Tecnología <br /> Universidad Nacional del Callao</td>    
+    <td> Yoselin Juarez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Yoselin_Juarez.jpg " border=1 height=180 width=180><br /> Trabajo y Étnicidad <br /> Universidad Nacional de Frontera  </td>
+    <td> Alex Evanan <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Alex Evanan.jpg " border=1 height=180 width=180><br /> Educación y Tecnología <br /> Universidad Nacional del Callao</td>    
   </tr>
     <tr>
-    <td> Romina Gavancho <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/rominagavancho.jpg " border=1 height=150 width=150><br /> Educación y Tecnología <br />  Universidad Nacional del Centro </td>
+    <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=180 width=180><br /> Educación <br /> Universidad Nacional de Trujillo  </td>        
   </tr>
 </table>
 
