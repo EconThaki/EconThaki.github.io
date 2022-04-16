@@ -13,7 +13,7 @@ output:
     
 ---
 
-Entrevista a Lucía Torres Frasele, Economics PhD Student en Syracuse University
+Entrevista a Lucía Torres Frasele, estudiante del doctorado en economía en Syracuse University
 
 <style>
 div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}

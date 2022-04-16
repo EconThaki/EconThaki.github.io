@@ -22,6 +22,13 @@ Los talleres sobre la academia en economía, los pasos para iniciarse en ella y 
 
 Las estudiantes y egresadas que entran dentro de nuestra población objetivo (ver requisitos) pueden postular y ser seleccionados en "Eco-mienza", programa de formación y capacitación en herramientas para realizar investigación en economía. La convocatoria para participar se desarrollará en diciembre de cada año y el programa irá de enero a marzo del siguiente año (3 horas semanales durante un periodo de 8 semanas).
 
+***Desarrollo del programa***
+
+- [Sesión Inaugural y admitidos](https://econthaki.github.io/programas/2022/01/01/listadeadmitidos.html)
+- [Aliados y mentores del Programa](https://econthaki.github.io/programas/2022/03/01/ecomienza-aliados.html)
+- [Clausura y graduados](https://econthaki.github.io/programas/2022/04/01/ecomienza22-graduados.html)
+
+
 **Fase 3: Mentorías**
 
 La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y estudiantes de doctorado -de últimos años- o académicos que ya cuenten con el grado de Doctor en economía. 

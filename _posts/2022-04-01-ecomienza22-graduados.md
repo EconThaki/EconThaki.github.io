@@ -52,5 +52,8 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     <td> Yoselin Juarez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Yoselin_Juarez.jpg " border=1 height=100 width=100><br /> </td>
     <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=100 width=100><br /> </td>
   </tr>
+    <tr>
+    <td> Romina Gavancho <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/rominagavancho.jpg " border=1 height=100 width=100><br /> </td>
+  </tr>
 </table>
 
