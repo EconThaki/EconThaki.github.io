@@ -28,7 +28,7 @@ Todos los admitidos al programa fueron beneficiarios de clases informativas y de
 Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron voluntarios de distintos programas de doctorados. Es así que pudieron ejecutar sus ideas en forma de propuestas de investigación que presentaron el último día de clases. 
 
 
-<table  border="3" bordercolor="gray" align="center" style="width:100%">
+<table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="2">Alumn@s graduad@s </th> 
   </tr>  
