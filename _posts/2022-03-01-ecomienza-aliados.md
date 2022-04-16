@@ -3,7 +3,7 @@ layout: post
 title:  "Eco-mienza: Aliados y Mentores"
 author: econthaki
 categories: [Programas]
-image: assets/images/eco22/lastmeet.jpeg
+image: assets/images/eco22/aliados_eco22.jpg
 ---
 Con esta página queremos agradecer a todas las instituciones y personas aliadas que permitieron que el primer programa de Eco-mienza 2022 se desarrolle de forma exitosa.
 
@@ -61,7 +61,4 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
 
 </table>
 
-**La cohorte 2022**
-
-Luego de culminar con las clases y recibir sus sesiones de mentoría, cada estudiante desarrolló una propuesta de investigación y la presentó al grupo. Aquí listaremos a la cohorte de la promoción graduada del programa (pronto).
 
