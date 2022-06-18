@@ -206,6 +206,8 @@ El mejor consejo que puedo dar es ser proactivo en buscar oportunidades para tra
 <div class = "teal">
 Le agradecemos mucho a José por esta entrevista. Si te sentiste identificadx con la experiencia o quieres seguir al Prof. Vasquez, puedes hacerlo a través de sus redes y contacto:
 
+</div>
+
 Twitter: [@jpvasq](https://twitter.com/jpvasq)
 
 Website: [https://jpvasquez-econ.github.io/](https://jpvasquez-econ.github.io/)
