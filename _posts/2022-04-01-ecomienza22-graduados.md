@@ -59,7 +59,20 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     <td> Alex Evanan <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/Alex Evanan.jpg " border=1 height=180 width=180><br /> Educación y Tecnología <br /> Universidad Nacional del Callao</td>    
   </tr>
     <tr>
-    <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=180 width=180><br /> Educación <br /> Universidad Nacional de Trujillo  </td>        
+    <td> Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/avatarf.jpg " border=1 height=180 width=180><br /> Educación <br /> Universidad Nacional de Trujillo  </td>    
+    <td> Max Pinedo <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/MaxPinedo.jpeg " border=1 height=180 width=180><br /> Políticas Públicas <br /> Universidad Nacional Toribio Rodríguez de Mendoza</td>      
   </tr>
+
+  <tr>    
+    <td> Jaime Justo <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/JaimeJusto.JPG  " border=1 height=180 width=180><br />  Desarrollo Económico y Sostenible  <br /> Universidad Nacional Agraria La Molina </td>
+    <td> Ilenyd Bravo <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/IlenydBravo.jpeg " border=1 height=180 width=180><br />  Educación y Género  <br /> Universidad Continental </td>    
+  </tr>
+  <tr>
+    <td> Bruno Rosas<br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/BrunoRosas.jpg " border=1 height=180 width=180><br />   Educación, Género y Desarrollo <br /> Universidad de Piura </td>    
+    <td> Javier Solis <br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/JavierSolis.jpeg " border=1 height=180 width=180><br />  Políticas Públicas, Pobreza y Educación<br /> Universidad Nacional Mayor de San Marcos  </td>      
+  </tr> 
+   <tr>
+    <td> Carlos Peña<br /><img src="{{ site.baseurl }}/assets/images/eco22/egresades/CarlosPeña.jpg " border=1 height=180 width=180><br />  Desarrollo y Desigualdad <br /> Universidad Nacional de Piura </td>    
+  </tr>   
 </table>
 
