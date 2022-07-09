@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ecomienza-22 - Yeni Vasquez
+title: Difundiendo Talento - Yeni Vasquez
 date: "Julio 2022"
 author: econthaki
 categories: [Programas]
@@ -128,6 +128,6 @@ Le agradecemos mucho a Yeni por esta entrevista en ésta edición especial de gr
 
 </div>
 
-- Correo electrónico: [miriampuraca@gmail.com](miriampuraca@gmail.com)
+- Correo electrónico: [yeni.vasquez1@unmsm.edu.pe](yeni.vasquez1@unmsm.edu.pe)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
