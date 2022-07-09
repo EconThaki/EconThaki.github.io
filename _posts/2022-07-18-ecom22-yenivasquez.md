@@ -21,17 +21,17 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-Contamos con Yeni Vasquez becada por Pronabec en la Universidad Mayor de San Marcos, nueva asistente de investigación en GRADE, y por su puesto una de nuestras graduadas del programa de EcoMienza 2022. ¡Esperamos que esta entrevista los inspire tanto a como nosotros!
+Te invitamos a conocer la experiencia de Yeni Vasquez, becaria de Pronabec en la Universidad Mayor de San Marcos, y graduada de nuestra primera cohorte del programa EcoMienza 2022.Actualmente, Yeni de desempeña como asistente de  investigación en GRADE, ¡Esperamos que esta entrevista los inspire tanto a como nosotros!
 </div>
 <br>
 
 <div class = "teal">
   <strong>  
-1. Háblanos de tu trayectoria previo a tu trabajo de asistente de investigación en GRADE (e.g. lo que implicó estudiar economía en la UNMSM)
+1. Cuéntanos de tu trayectoria previa a tu actual trabajo como asistente de investigación en GRADE (e.g. lo que implicó estudiar economía en la UNMSM)
 </strong>  
 </div>
 
-Nací y crecí en un lejano y pequeño pueblo llamado El Cumbe ubicado en la región Cajamarca. Recuerdo con mucho cariño a un profesor de colegio quien nos motivó no solo a terminar la secundaria, sino también a seguir una profesión, fue cuando por primera vez escuché sobre la UNMSM, era un mundo nuevo para mí, me nacieron muchas ganas de dar el primer paso y romper la cadena de la imposibilidad, ya que en mi comunidad solo un porcentaje mínimo estudia en una universidad. Decidí tomar este largo camino para que también nuevos jóvenes se sientan inspirados a perseguir sus anhelos universitarios. Esa decisión me condujo a soportar circunstancias muy difíciles desde que llegué a Lima, sobre todo la escasez de recursos económicos de mi familia para cubrir los gastos preuniversitarios. Pasé todos esos años tratando de ahorrar para pagar una academia, viviendo en un asentamiento humano y contando solo con un empleo informal. Experimenté la pobreza, la enfermedad, la falta de acceso a servicios básicos y de oportunidades con la que viven muchas personas, personas quienes no se permiten soñar en grande porque apenas les alcanza para comer.
+Nací y crecí en un lejano y pequeño pueblo llamado El Cumbe ubicado en la región Cajamarca. Recuerdo con mucho cariño a un profesor de colegio quien nos motivó no solo a terminar la secundaria, sino también a seguir una profesión. Fue entonces cuando por primera vez escuché sobre la UNMSM, era un mundo nuevo para mí, me nacieron muchas ganas de dar el primer paso y romper la cadena de la imposibilidad, ya que en mi comunidad solo un porcentaje mínimo estudia en una universidad. Decidí tomar este largo camino para que también nuevos jóvenes se sientan inspirados a perseguir sus anhelos universitarios. Esa decisión me condujo a soportar circunstancias muy difíciles desde que llegué a Lima, sobre todo la escasez de recursos económicos de mi familia para cubrir los gastos preuniversitarios. Pasé todos esos años tratando de ahorrar para pagar una academia, viviendo en un asentamiento humano y contando solo con un empleo informal. Experimenté la pobreza, la enfermedad, la falta de acceso a servicios básicos y de oportunidades con la que viven muchas personas, personas quienes no se permiten soñar en grande porque apenas les alcanza para comer.
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -39,7 +39,7 @@ Nací y crecí en un lejano y pequeño pueblo llamado El Cumbe ubicado en la reg
 </font>
 </div>
 
-Sin embargo, luego de mucho sacrificio y dedicación, finalmente logré ingresar a la UNMSM. Me aferré a ese sueño de adolescente, mi sueño se convirtió en el sueño de toda mi familia. Cuando ya me encontraba estudiando en la universidad, las condiciones de vida fueron mejorando poco a poco. Logré ganar una de las becas universitaria de Pronabec, y así, pude dedicarme más a mis estudios, al mismo tiempo que me preparaba para el campo laboral. Finalmente, para el orgullo de toda mi familia pude culminar mis estudios en la Facultad de Economía e hice realidad el sueño de ser profesional.
+Sin embargo, luego de mucho sacrificio y dedicación, finalmente logré ingresar a la UNMSM. Me aferré a ese sueño de adolescente. Mi sueño se convirtió en el sueño de toda mi familia. Cuando ya me encontraba estudiando en la universidad, las condiciones de vida fueron mejorando poco a poco. Logré ganar una de las becas universitaria de Pronabec, y así, pude dedicarme más a mis estudios, al mismo tiempo que me preparaba para el campo laboral. Finalmente, para el orgullo de toda mi familia pude culminar mis estudios en la Facultad de Economía e hice realidad el sueño de ser profesional.
 <br>
 
 <div class = "teal">
@@ -48,7 +48,7 @@ Sin embargo, luego de mucho sacrificio y dedicación, finalmente logré ingresar
 </strong>  
 </div>
 
-El haber experimentado en carne propia las grandes brechas de acceso a una educación de calidad, salud y saneamiento, empleo, etc. en mi comunidad y en Lima. El largo proceso que significó ingresar a la universidad acentuó mi curiosidad por entender estas amplias diferencias sociales que nos toca vivir a las personas que venimos de familias con bajos recursos económicos. Es por ello que, desde los primeros ciclos de la carrera sentí la inclinación por ahondar más sobre estos temas y el cómo abordarlos desde la rigurosidad científica de las ciencias sociales.
+El haber experimentado en carne propia las grandes brechas de acceso a una educación de calidad, salud y saneamiento, empleo, etc. en mi comunidad y en Lima. El largo proceso que significó ingresar a la universidad acentuó mi curiosidad por entender estas amplias diferencias sociales que nos toca vivir a las personas que venimos de familias con bajos recursos económicos. Es por ello que desde los primeros ciclos de la carrera sentí la inclinación por ahondar más sobre estos temas y el cómo abordarlos desde la rigurosidad científica de las ciencias sociales.
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -77,7 +77,7 @@ En el transcurso, hice mis prácticas pre profesionales en una ONG (FOROMING), h
 </strong>  
 </div>
 
-Durante mi vida universitaria aprendí a elaborar un CV adecuado en contenido y forma (overleaf es súper amigable para ello). Además, indagué sobre los requisitos que normalmente piden en las convocatorias y comencé con mi preparación. Así, participé en talleres de habilidades blandas, estudié cursos de inglés, y herramientas informáticas como Stata, R, Excel, etc.; la Beca de PRONABEC fue clave para financiar estos cursos y mis gastos personales.  También le di mayor énfasis a los trabajos de la universidad en los temas de mi interés (empleo, informalidad, salud). 
+Durante mi vida universitaria aprendí a elaborar un CV adecuado en contenido y forma (overleaf es súper amigable para ello). Además, indagué sobre los requisitos que normalmente piden en las convocatorias y comencé con mi preparación. Participé en talleres de habilidades blandas, estudié cursos de inglés, y herramientas informáticas como Stata, R, Excel, etc..La Beca de PRONABEC fue clave para financiar estos cursos y mis gastos personales. También le di mayor énfasis a los trabajos de la universidad en los temas de mi interés (empleo, informalidad, salud).
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -124,7 +124,7 @@ El programa me brindó la oportunidad de conocer a mi mentor, quien me brindó c
 --
 
 <div class = "teal">
-Le agradecemos mucho a Yeni por esta entrevista en ésta edición especial de graduad@s de EcoMienza 2022. Si te sentiste identificadx con la experiencia de Yeni o deseas contactarla, puedes hacerlo a través de:
+Le agradecemos mucho a Yeni por esta entrevista en esta edición especial de graduad@s de EcoMienza 2022. Si te sentiste identificadx con la experiencia de Yeni o deseas contactarla, puedes hacerlo a través de:
 
 </div>
 
