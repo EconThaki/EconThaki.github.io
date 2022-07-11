@@ -6,7 +6,7 @@ categories: [ Encuestas, Datos ]
 image: assets/images/shutterstock_731263783.jpg
 ---
 
-Para entender mejor la situación de la academia en economía en LAC
+Para entender mejor la situación de la academia en economía en LAC.
 
 ## Encuestas
 
