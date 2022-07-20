@@ -31,11 +31,13 @@ Las estudiantes y egresadas que entran dentro de nuestra población objetivo (ve
 
 **Fase 3: Mentorías**
 
-La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y estudiantes de doctorado -de últimos años- o académicos que ya cuenten con el grado de Doctor en economía. 
+La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y mentoras junior (asistente de investigación senior/pre-doc/magister/estudiante de doctorado con experiencia en el desarrollo  de investigaciones en economía y afines) y senior (académicas que ya cuenten con el grado de PhD en economía).
+
 
 **Ciclo**
 
-Las tres fases componen un ciclo de 1 año. La fase 1 se realiza de forma recurrente y continua en función a la demanda de los talleres por parte de las universidades que forman parte de la población objetivo. La convocatoria para la fase 2 se realiza en diciembre y va de enero a marzo. La fase 3 va de abril a agosto.
+Las tres fases componen un ciclo de 1 año. La fase 1 se realiza de forma recurrente y continua en función a la demanda de los talleres por parte de las universidades que forman parte de la población objetivo. La convocatoria para la fase 2 se realiza en diciembre y va de enero a marzo. La fase 3 va de agosto a diciembre.
+
 
 Link a  [Preguntas Frecuentes][pregfreq-link]
 
