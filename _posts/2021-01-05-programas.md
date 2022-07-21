@@ -31,7 +31,8 @@ Las estudiantes y egresadas que entran dentro de nuestra población objetivo (ve
 
 **Fase 3: Mentorías**
 
-La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y mentoras junior (asistente de investigación senior/pre-doc/magister/estudiante de doctorado con experiencia en el desarrollo  de investigaciones en economía y afines) y senior (académicas que ya cuenten con el grado de PhD en economía).
+La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y mentor@s junior (asistente de investigación senior/pre-doc/magister/estudiante de doctorado con experiencia en el desarrollo  de investigaciones en economía y afines) y senior (académicas que ya cuenten con el grado de PhD en economía).
+
 
 
 **Ciclo**
