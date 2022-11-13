@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición, entrevistamos a la economista brasileña Mayara Felix quien hizo su doctorado en el Instituto Tecnológico de Massachusetts (MIT). La trayectoria académica de Mayara es fascinante, actualmente se desempeña como Posdoctoral Fellow en la International Economics Section (EIS) de la Universidad de Princeton luego de un posdoctorado en Evidence for Policy Design (EPoD) de la Universidad de Harvard. Mayara se unirá a la Universidad de Yale, primero con un posdoctorado (en el año 2023) y luego como Profesora Asistente (en el año 2024). Sus intereses de investigación se centran en desarrollo, comercio internacional, y mercados laborales. 
+En esta edición, entrevistamos a la economista brasileña Mayara Felix, actual asociada posdoctoral en la International Economics Section (EIS) de la Universidad de Princeton luego de un posdoctorado en Evidence for Policy Design (EPoD) de la Universidad de Harvard. Ella obtuvo su pregrado en Matemática y Economía en Mount Holyoke College y su doctorado en Economía en el Massachusetts Institute of Technology (MIT). Mayara se unirá a la Universidad de Yale, primero con un posdoctorado (en el año 2023) y luego como Profesora Asistente (en el año 2024). Sus intereses de investigación se centran en desarrollo, comercio internacional, mercados laborales y regulación. 
 
 Esperamos esta edición sea de tu interés y te inspire con la historia de esta gran investigadora en economía.
 </div>
