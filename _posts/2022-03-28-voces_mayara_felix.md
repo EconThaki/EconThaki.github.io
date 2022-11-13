@@ -20,9 +20,9 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición, entrevistamos a la economista brasileña Mayara Felix quien actualmente como Posdoctoral Fellow en la International Economics Section en la Universidad de Princeton. Mayara se unirá a la Universidad de Yale primero con un pos doctorado y luego como Profesora Asistente. Sus intereses de investigación se centran en desarrollo, comercio internacional, mercados laborales y regulación. 
+En esta edición, entrevistamos a la economista brasileña Mayara Felix quien actualmente se desempeña como Posdoctoral Fellow en la International Economics Section en la Universidad de Princeton. Mayara se unirá a la Universidad de Yale, primero con un pos doctorado (en el año 2023) y luego como Profesora Asistente (en el año 2024). Sus intereses de investigación se centran en desarrollo, comercio internacional, mercados laborales y regulación. 
 
-Esperamos esta edición sea de su interés y se inspiren con la historia de este gran investigador en economía.
+Esperamos esta edición sea de tu interés y te inspire con la historia de esta gran investigadora en economía.
 </div>
 
 <br>
@@ -32,7 +32,7 @@ Esperamos esta edición sea de su interés y se inspiren con la historia de este
   </strong>  
 </div>
 
-Crecí en una comunidad pobre en Olinda, noreste de Brasil, nací de padres jóvenes. Mi padre murió cuando yo tenía nueve años y, después de eso, mi madre nos crió sola a mí ya mi hermana. Creo que la muerte de mi padre hizo que me obsesionara aún más con que me fuera bien en la escuela, probablemente como un mecanismo de supervivencia. Estudiar mucho para clasificarme entre los mejores estudiantes de mi clase y visitar la casa de mis abuelos (donde también vivían mis primos) los fines de semana eran mis escapadas favoritas de la realidad en ese momento.
+Crecí en una comunidad pobre en Olinda, noreste de Brasil, nací de padres jóvenes. Mi padre murió cuando yo tenía nueve años y, después de eso, mi madre nos crió sola a mí y a mi hermana. Creo que la muerte de mi padre hizo que me obsesionara aún más con que me fuera bien en la escuela, probablemente como un mecanismo de supervivencia. Estudiar mucho para clasificarme entre los mejores estudiantes de mi clase y visitar la casa de mis abuelos (donde también vivían mis primos) los fines de semana eran mis escapadas favoritas de la realidad en ese momento.
 
 De ahí a cómo terminé en los EE. UU. es una larga historia, pero, en resumen: vine a los EE. UU. por primera vez cuando estaba en la escuela secundaria, como parte de un programa de la Embajada de los EE. UU. en Brasil llamado Embajadores de la Juventud, que selecciona a estudiantes de alto rendimiento niños de comunidades pobres para venir a los EE.UU. para dos semanas de intercambio cultural. Fue durante uno de los eventos del programa Jóvenes Embajadores que conocí a alguien de EducationUSA que insistió en que aplicara OpportunityGrants, un programa del Departamento de Estado de EE. UU. que ayuda a niños como yo a ingresar a la universidad en EE. UU. Entonces, apliqué. Pagaron mis SAT, tarifas de solicitud, etc., y me guiaron a través del proceso de solicitud. Apliqué a cinco universidades, entré en tres, y una de ellas, Mount Holyoke College, me dio una beca casi completa, así que ahí fue donde fui.
 
