@@ -33,26 +33,41 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
         <th colspan="2">Mentees </th> 
   </tr>  
   <tr>
-    <td> Abner Casallo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180><br /> asesor y <br /> Universidadddddd  </td>    
-    <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /> </td>
-  </tr>  
+    <td> Abner Casallo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180><br /> asesor y <br /> Universidad Nacional Mayor de San Marcos  </td>    
+    <td> Alex Evanan  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br />   <br /> </td>
+  Universidad Nacional del Callao </tr>  
   <tr>
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /></td> 
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br/></td>
+     <td> Yeni Vasquez <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180><br />   <br />Universidad Nacional Mayor de San Marcos </td> 
+     <td> Alexis Minaya   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180><br />   <br/>Universidad Nacional Mayor de San Marcos </td>
   </tr>
   <tr>
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /></td> 
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br/></td>
+     <td>  Cesar Paz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Cesar_Paz.jpg" border=1 height=180 width=180><br />   <br /> Universidad de Piura </td> 
+     <td> Miriam Puraca  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Miriam_Puraca.jfif" border=1 height=180 width=180><br />   <br/>Universidad Nacional del Altiplano </td>
   </tr>
   <tr>
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /></td> 
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br/></td>
+     <td> Deybie Gaspar Montes  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/foto Deybie Gaspar Montes.jpg" border=1 height=180 width=180><br />   <br /> Universidad Continental </td> 
+     <td>  Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180><br />   <br/> Universidad Nacional de Trujillo </td>
   </tr>
-
- 
-
+   <tr>
+    <td> Joel Vicencio <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Joel_Vicencio.png" border=1 height=180 width=180><br />  Desarrollo y Desigualdad <br /> Universidad Nacional Agraria La Molina </td>    
 </table>
 
+**Mentor@s Senior de la cohorte 2022**
+
+<table  border="1" bordercolor="gray" align="center" style="width:100%">
+  <tr>
+        <th colspan="2">Mentores </th> 
+  </tr>  
+  <tr>
+ 	<td> Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/S_Tello.png " border=1 height=180 width=180><br /> asesoradooo x <br /> insittucion aifliada  </td>    
+    <td> Chris Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180><br />   <br /> </td>
+  </tr>  
+  <tr>
+     <td> Alan Sanchez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Sanchez.png " border=1 height=180 width=180><br />   <br /></td> 
+     <td> Marco Ortiz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Ortiz.png " border=1 height=180 width=180><br />   <br/></td>
+ </table>
+
+**Mentor@s junior de la cohorte 2022**
 
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
@@ -60,20 +75,23 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>  
   <tr>
  	<td> Bruno Escobar <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/B_Escobar.png " border=1 height=180 width=180><br /> asesoradooo x <br /> insittucion aifliada  </td>    
-    <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /> </td>
+    <td> Alexandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180><br />   <br /> </td>
   </tr>  
   <tr>
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /></td> 
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br/></td>
+     <td> Cesar urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180><br />   <br /></td> 
+     <td> Carlos Burga  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Burga.png " border=1 height=180 width=180><br />   <br/></td>
   </tr>
   <tr>
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /></td> 
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br/></td>
+     <td> Carla Srebot  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Sebrot.png " border=1 height=180 width=180><br />   <br /></td> 
+     <td> Daniel Velasquez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br />   <br/></td>
   </tr>
   <tr>
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br /></td> 
-     <td>   <br /><img src="  " border=1 height=180 width=180><br />   <br/></td>
+     <td> Ana Paula Franco  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Franco.png " border=1 height=180 width=180><br />   <br /></td> 
+     <td> Franco Maldonado  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br />   <br/></td>
   </tr>
-
+    <tr>
+    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180><br />  Desarrollo y Desigualdad <br /> Universidad Nacional de Piura </td>    
+</td> 
+     <td> Minoru Higa  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Higa.png " border=1 height=180 width=180><br />   <br/></td>
 
 </table>
