@@ -30,68 +30,63 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="2">Mentees </th> 
+        <th colspan="2"> Mentees </th> 
   </tr>  
   <tr>
-    <td> Abner Casallo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180><br /> asesor y <br /> Universidad Nacional Mayor de San Marcos  </td>    
-    <td> Alex Evanan  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br />   <br /> </td>
-  Universidad Nacional del Callao </tr>  
+    <td> Abner F. Casallo Trauco <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180><br /> Asesor(a): Marco Ortiz & Franco Maldonado  <br /> Universidad Nacional Mayor de San Marcos  </td>    
+    <td> Mayovar Alex Evanan Allccahuaman <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br />  Asesor(a): Alan Sánchez & Minoru Higa <br /> Universidad Nacional del Callao </td>   
   <tr>
-     <td> Yeni Vasquez <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180><br />   <br />Universidad Nacional Mayor de San Marcos </td> 
-     <td> Alexis Minaya   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180><br />   <br/>Universidad Nacional Mayor de San Marcos </td>
+ <tr>
+     <td> Yeni V. Vasquez Flores <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180><br />  Asesor(a): Sebastian Tello & Bruno Escobar <br />Universidad Nacional Mayor de San Marcos </td> 
+     <td> Alexis R. Minaya Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180><br /> Asesor(a): Chris M. Boyd &  Ana Paula Franco <br/>Universidad Nacional Mayor de San Marcos </td>
   </tr>
   <tr>
-     <td>  Cesar Paz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Cesar_Paz.jpg" border=1 height=180 width=180><br />   <br /> Universidad de Piura </td> 
-     <td> Miriam Puraca  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Miriam_Puraca.jfif" border=1 height=180 width=180><br />   <br/>Universidad Nacional del Altiplano </td>
+     <td>  Cesar A. Paz Crisanto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Cesar_Paz.jpg" border=1 height=180 width=180><br /> Asesor(a): Alan Sánchez & Carla Srebot   <br /> Universidad de Piura </td> 
+     <td> Miriam A. Puraca Ccari <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Miriam_Puraca.jfif" border=1 height=180 width=180><br /> Asesor(a): Cesar Urquizo <br/>Universidad Nacional del Altiplano </td>
   </tr>
   <tr>
-     <td> Deybie Gaspar Montes  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/foto Deybie Gaspar Montes.jpg" border=1 height=180 width=180><br />   <br /> Universidad Continental </td> 
-     <td>  Corina Velasquez <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180><br />   <br/> Universidad Nacional de Trujillo </td>
-  </tr>
-   <tr>
-    <td> Joel Vicencio <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Joel_Vicencio.png" border=1 height=180 width=180><br />  Desarrollo y Desigualdad <br /> Universidad Nacional Agraria La Molina </td>    
+     <td> Deybie B. Gaspar Montes  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/foto Deybie Gaspar Montes.jpg" border=1 height=180 width=180><br /> Asesor(a): Chris M. Boyd & Cesar Huaroto <br /> Universidad Continental </td> 
+     <td>  Elissa C. Velásquez Valladares <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180><br /> Asesor(a): Alan Sánchez  & Alexandra Hidalgo <br/> Universidad Nacional de Trujillo </td> 
+     </tr>
+  <tr>
+    <td> Joel N. Vicencio Damian <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Joel_Vicencio.png" border=1 height=180 width=180><br />  Asesor(a): Sebastian Tello & Daniel Velasquez <br /> Universidad Nacional Agraria La Molina </td>  
 </table>
 
-**Mentor@s Senior de la cohorte 2022**
-
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="2">Mentores </th> 
+        <th colspan="2"> Mentores Senior  </th> 
   </tr>  
   <tr>
- 	<td> Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/S_Tello.png " border=1 height=180 width=180><br /> asesoradooo x <br /> insittucion aifliada  </td>    
-    <td> Chris Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180><br />   <br /> </td>
+ 	<td> Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/S_Tello.png " border=1 height=180 width=180><br /> Asesorados(as):   Joel N. Vicencio Damian & Yeni V. Vasquez Flores <br /> University of Virginia  </td>    
+    <td> Chris M. Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180><br />  Asesorados(as):  Alexis R. Minaya Rodriguez & Deybie B. Gaspar Montes <br /> Towson University </td>
   </tr>  
   <tr>
-     <td> Alan Sanchez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Sanchez.png " border=1 height=180 width=180><br />   <br /></td> 
-     <td> Marco Ortiz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Ortiz.png " border=1 height=180 width=180><br />   <br/></td>
+     <td> Alan Sánchez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Sanchez.png " border=1 height=180 width=180><br /> Asesorados(as): Cesar A. Paz Crisanto & Elissa C. Velásquez Valladares & Mayovar Alex Evanan Allccahuaman <br /> GRADE </td> 
+     <td> Marco Ortiz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Ortiz.png " border=1 height=180 width=180><br /> Asesorado(a): Abner F. Casallo Trauco <br/> Universidad del Pacífico </td>
  </table>
 
-**Mentor@s junior de la cohorte 2022**
 
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="2">Mentores </th> 
+        <th colspan="2"> Mentores Junior </th> 
   </tr>  
   <tr>
- 	<td> Bruno Escobar <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/B_Escobar.png " border=1 height=180 width=180><br /> asesoradooo x <br /> insittucion aifliada  </td>    
-    <td> Alexandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180><br />   <br /> </td>
-  </tr>  
-  <tr>
-     <td> Cesar urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180><br />   <br /></td> 
-     <td> Carlos Burga  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Burga.png " border=1 height=180 width=180><br />   <br/></td>
+ 	<td> Bruno M. Escobar <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/B_Escobar.png " border=1 height=180 width=180><br /> Asesorado (a):   Yeni V. Vasquez Flores <br /> Boston University  </td>    
+    <td> Alexandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180><br /> Asesorado(a): Elissa C. Velásquez Valladares  <br /> Lancaster University </td>
   </tr>
   <tr>
-     <td> Carla Srebot  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Sebrot.png " border=1 height=180 width=180><br />   <br /></td> 
-     <td> Daniel Velasquez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br />   <br/></td>
+     <td> Carla Srebot  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Sebrot.png " border=1 height=180 width=180><br /> Asesorado(a): Cesar A. Paz Crisanto <br /> University of British Columbia </td> 
+     <td> Daniel Velasquez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br /> Asesorado(a): Joel N. Vicencio Damian <br/> University of Michigan </td>
   </tr>
   <tr>
-     <td> Ana Paula Franco  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Franco.png " border=1 height=180 width=180><br />   <br /></td> 
-     <td> Franco Maldonado  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br />   <br/></td>
+     <td> Ana Paula Franco  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Franco.png " border=1 height=180 width=180><br /> Asesorado(a): Alexis R. Minaya Rodriguez  <br />University of Michigan </td> 
+     <td> Franco Maldonado  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br /> Asesorado(a): Abner F. Casallo Trauco  <br/> Franco Maldonado </td>
   </tr>
     <tr>
-    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180><br />  Desarrollo y Desigualdad <br /> Universidad Nacional de Piura </td>    
+    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180><br /> Asesorado(a): Deybie B. Gaspar Montes <br /> Pontificia Universidad Católica de Chile </td>    
 </td> 
-     <td> Minoru Higa  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Higa.png " border=1 height=180 width=180><br />   <br/></td>
-
+     <td> Minoru Higa  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Higa.png " border=1 height=180 width=180><br /> Asesorado(a): Mayovar Alex Evanan Allccahuaman  <br/> Simon Fraser University </td>
+  </tr>  
+  <tr>
+     <td> Cesar Urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180><br /> Asesorado(A):  Miriam A. Puraca Ccari <br /> University of Pennsylvania </td> 
 </table>
