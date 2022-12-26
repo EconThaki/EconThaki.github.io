@@ -50,43 +50,44 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
      </tr>
   <tr>
     <td> Joel N. Vicencio Damian <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Joel_Vicencio.png" border=1 height=180 width=180><br />  Asesor(a): Sebastian Tello & Daniel Velasquez <br /> Universidad Nacional Agraria La Molina </td>  
-</table>
+
+   
 
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="2"> Mentores Senior  </th> 
   </tr>  
   <tr>
- 	<td> Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/S_Tello.png " border=1 height=180 width=180><br /> Asesorados(as):   Joel N. Vicencio Damian & Yeni V. Vasquez Flores <br /> University of Virginia  </td>    
-    <td> Chris M. Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180><br />  Asesorados(as):  Alexis R. Minaya Rodriguez & Deybie B. Gaspar Montes <br /> Towson University </td>
+ 	<td> Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/S_Tello.png " border=1 height=180 width=180> <br /> University of Virginia <br /> Asesorados(as):   Joel N. Vicencio Damian & Yeni V. Vasquez Flores </td>    
+    <td> Chris M. Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180>  <br /> Towson University <br />  Asesorados(as):  Alexis R. Minaya Rodriguez & Deybie B. Gaspar Montes</td>
   </tr>  
   <tr>
-     <td> Alan Sánchez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Sanchez.png " border=1 height=180 width=180><br /> Asesorados(as): Cesar A. Paz Crisanto & Elissa C. Velásquez Valladares & Mayovar Alex Evanan Allccahuaman <br /> GRADE </td> 
-     <td> Marco Ortiz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Ortiz.png " border=1 height=180 width=180><br /> Asesorado(a): Abner F. Casallo Trauco <br/> Universidad del Pacífico </td>
- </table>
+     <td> Alan Sánchez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Sanchez.png " border=1 height=180 width=180>  <br /> GRADE <br /> Asesorados(as): Cesar A. Paz Crisanto & Elissa C. Velásquez Valladares & Mayovar Alex Evanan Allccahuaman </td> 
+     <td> Marco Ortiz <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Ortiz.png " border=1 height=180 width=180> <br/> Universidad del Pacífico <br /> Asesorado(a): Abner F. Casallo Trauco </td>
 
-
+   
+   
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="2"> Mentores Junior </th> 
   </tr>  
   <tr>
- 	<td> Bruno M. Escobar <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/B_Escobar.png " border=1 height=180 width=180><br /> Asesorado (a):   Yeni V. Vasquez Flores <br /> Boston University  </td>    
-    <td> Alexandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180><br /> Asesorado(a): Elissa C. Velásquez Valladares  <br /> Lancaster University </td>
+ 	<td> Bruno M. Escobar <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/B_Escobar.png " border=1 height=180 width=180>  <br /> Boston University <br /> Asesorado (a):   Yeni V. Vasquez Flores  </td>    
+    <td> Alexandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180> <br /> Lancaster University  <br /> Asesorado(a): Elissa C. Velásquez Valladares </td>
   </tr>
   <tr>
-     <td> Carla Srebot  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Sebrot.png " border=1 height=180 width=180><br /> Asesorado(a): Cesar A. Paz Crisanto <br /> University of British Columbia </td> 
-     <td> Daniel Velasquez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br /> Asesorado(a): Joel N. Vicencio Damian <br/> University of Michigan </td>
+     <td> Carla Srebot  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Sebrot.png " border=1 height=180 width=180> <br /> University of British Columbia <br /> Asesorado(a): Cesar A. Paz Crisanto </td> 
+     <td> Daniel Velasquez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180> <br/> University of Michigan <br /> Asesorado(a): Joel N. Vicencio Damian </td>
   </tr>
   <tr>
-     <td> Ana Paula Franco  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Franco.png " border=1 height=180 width=180><br /> Asesorado(a): Alexis R. Minaya Rodriguez  <br />University of Michigan </td> 
-     <td> Franco Maldonado  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180><br /> Asesorado(a): Abner F. Casallo Trauco  <br/> Franco Maldonado </td>
+     <td> Ana Paula Franco  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Franco.png " border=1 height=180 width=180>  <br />University of Michigan <br /> Asesorado(a): Alexis R. Minaya Rodriguez  </td> 
+     <td> Franco Maldonado  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/D_Velasquez.png " border=1 height=180 width=180> <br/>Boston University <br /> Asesorado(a): Abner F. Casallo Trauco  </td>
   </tr>
     <tr>
-    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180><br /> Asesorado(a): Deybie B. Gaspar Montes <br /> Pontificia Universidad Católica de Chile </td>    
+    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180>  <br /> Pontificia Universidad Católica de Chile <br /> Asesorado(a): Deybie B. Gaspar Montes </td>    
 </td> 
-     <td> Minoru Higa  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Higa.png " border=1 height=180 width=180><br /> Asesorado(a): Mayovar Alex Evanan Allccahuaman  <br/> Simon Fraser University </td>
+     <td> Minoru Higa  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Higa.png " border=1 height=180 width=180>  <br/> Simon Fraser University  <br /> Asesorado(a): Mayovar Alex Evanan Allccahuaman </td>
   </tr>  
   <tr>
-     <td> Cesar Urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180><br /> Asesorado(A):  Miriam A. Puraca Ccari <br /> University of Pennsylvania </td> 
+     <td> Cesar Urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180>  <br /> University of Pennsylvania <br /> Asesorado(A):  Miriam A. Puraca Ccari </td> 
 </table>
