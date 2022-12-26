@@ -34,10 +34,10 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>  
   <tr>
     <td> Abner F. Casallo Trauco <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180>  <br /> Universidad Nacional Mayor de San Marcos  <br /> Asesores(as): Marco Ortiz & Franco Maldonado  </td>    
-    <td> Mayovar Alex Evanan Allccahuaman <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br />  Asesores(as): Alan Sánchez & Minoru Higa  </td>   
+    <td> Mayovar Alex Evanan Allccahuaman <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br /> Universidad Nacional del Callao <br />  Asesores(as): Alan Sánchez & Minoru Higa  </td>   
   <tr>
  <tr>
-     <td> Yeni V. Vasquez Flores <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180> <br /> Universidad Nacional del Callao <br />  Asesores(as): Sebastian Tello & Bruno Escobar <br />Universidad Nacional Mayor de San Marcos </td> 
+     <td> Yeni V. Vasquez Flores <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180>  <br />Universidad Nacional Mayor de San Marcos <br />  Asesores(as): Sebastian Tello & Bruno Escobar </td> 
      <td> Alexis R. Minaya Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180> <br/>Universidad Nacional Mayor de San Marcos <br /> Asesores(as): Chris M. Boyd &  Ana Paula Franco  </td>
   </tr>
   <tr>
