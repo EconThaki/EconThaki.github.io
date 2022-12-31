@@ -81,5 +81,5 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>  
   <tr>
      <td> Cesar Urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180>  <br /> University of Pennsylvania <br /> Asesorado(a):  Miriam A. Puraca Ccari </td>
-        <td> Carlos Burga  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Burga.png " border=1 height=180 width=180>  <br /> University of Pennsylvania <br /> Asesorado(a):  Yudmili Y. Laruta Arenas </td>
+        <td> Carlos Burga  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Burga.png " border=1 height=180 width=180>  <br /> Pontificia Universidad Católica de Chile <br /> Asesorado(a):  Yudmili Y. Laruta Arenas </td>
 
