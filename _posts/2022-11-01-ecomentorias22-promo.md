@@ -3,23 +3,15 @@ layout: post
 title:  "Mentorias- promoción 22' "
 author: econthaki
 categories: [Programas]
-image: assets/images/mentorias/logo-ecomentorias.jpeg
+image: assets/images/mentorias/mentorias_logo.png
 ---
 En este post queremos felicitar a todos nuestr@s alumn@s que participaron activamente en el programa de Mentorias y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
-
 
 **Mentorias**
 
 Es un programa de formación que tuvo como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. 
 
 La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes del Perú, aunque esperamos que en una siguiente temporada este proceso sea más extensivo. 
-
- <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=600 width=600><br /> 
-
-Una de nuestras metas fue poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
- <br /><img src="{{ site.baseurl }}/assets/images/eco22/univadmitidos.jpg " border=1 height=600 width=600><br /> 
-
-Conozca más sobre nuestra primera cohorte en el siguiente link: [Descripción de los admitidos](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
 **Graduad@s de la cohorte 2022**
 
@@ -38,7 +30,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   <tr>
  <tr>
      <td> Yeni V. Vasquez Flores <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180>  <br />Universidad Nacional Mayor de San Marcos <br />  Asesores(as): Sebastian Tello & Bruno Escobar </td> 
-     <td> Alexis R. Minaya Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180> <br/>Universidad Nacional Mayor de San Marcos <br /> Asesores(as): Chris M. Boyd &  Ana Paula Franco  </td>
+     <td> Alexis R. Minaya Aguirre  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180> <br/>Universidad Nacional Mayor de San Marcos <br /> Asesores(as): Chris M. Boyd &  Ana Paula Franco  </td>
   </tr>
   <tr>
      <td>  Cesar A. Paz Crisanto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Cesar_Paz.jpg" border=1 height=180 width=180>  <br /> Universidad de Piura <br /> Asesores(as): Alan Sánchez & Carla Srebot   </td> 
@@ -49,7 +41,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
      <td>  Elissa C. Velásquez Valladares <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180>  <br/> Universidad Nacional de Trujillo <br /> Asesores(as): Alan Sánchez  & Alexandra Hidalgo </td> 
      </tr>
   <tr>
-    <td> Joel N. Vicencio Damian <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Joel_Vicencio.png" border=1 height=180 width=180> <br /> Universidad Nacional Agraria La Molina <br />  Asesores(as): Sebastian Tello & Daniel Velasquez  </td>  
+    <td> Yudmili Y. Laruta Arenas <br /> <br /> Universidad Nacional del Altiplano <br />  Asesores(as): Chris M. Boyd & Carlos Burga  </td>  
 
    
 
@@ -59,7 +51,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>  
   <tr>
  	<td> Sebastian Tello <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/S_Tello.png " border=1 height=180 width=180> <br /> University of Virginia <br /> Asesorados(as):   Joel N. Vicencio Damian & Yeni V. Vasquez Flores </td>    
-    <td> Chris M. Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180>  <br /> Towson University <br />  Asesorados(as):  Alexis R. Minaya Rodriguez & Deybie B. Gaspar Montes</td>
+    <td> Chris M. Boyd <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Boyd.jpg " border=1 height=180 width=180>  <br /> Towson University <br />  Asesorados(as):  Alexis R. Minaya Rodriguez & Deybie B. Gaspar Montes & Yudmili Y. Laruta Arenas </td>
   </tr>  
   <tr>
      <td> Alan Sánchez  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Sanchez.png " border=1 height=180 width=180>  <br /> GRADE <br /> Asesorados(as): Cesar A. Paz Crisanto & Elissa C. Velásquez Valladares & Mayovar Alex Evanan Allccahuaman </td> 
@@ -84,10 +76,10 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
      <td> Franco Maldonado  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/F_Maldonado.png " border=1 height=180 width=180> <br/>Boston University <br /> Asesorado(a): Abner F. Casallo Trauco  </td>
   </tr>
     <tr>
-    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180>  <br /> Pontificia Universidad Católica de Chile <br /> Asesorado(a): Deybie B. Gaspar Montes </td>    
-</td> 
+    <td> Cesar Huaroto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Huaroto.png" border=1 height=180 width=180>  <br /> Pontificia Universidad Católica de Chile <br /> Asesorado(a): Deybie B. Gaspar Montes </td>     
      <td> Minoru Higa  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/M_Higa.png " border=1 height=180 width=180>  <br/> Simon Fraser University  <br /> Asesorado(a): Mayovar Alex Evanan Allccahuaman </td>
   </tr>  
   <tr>
-     <td> Cesar Urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180>  <br /> University of Pennsylvania <br /> Asesorado(a):  Miriam A. Puraca Ccari </td> 
+     <td> Cesar Urquizo  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Urquizo.png " border=1 height=180 width=180>  <br /> University of Pennsylvania <br /> Asesorado(a):  Miriam A. Puraca Ccari </td>
+        <td> Carlos Burga  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Burga.png " border=1 height=180 width=180>  <br /> University of Pennsylvania <br /> Asesorado(a):  Yudmili Y. Laruta Arenas </td>
 
