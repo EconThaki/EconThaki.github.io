@@ -22,29 +22,31 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="2"> Mentees </th> 
+        <th colspan="2"> Mentees graduados </th> 
   </tr>  
   <tr>
-    <td> Abner F. Casallo Trauco <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180>  <br /> Universidad Nacional Mayor de San Marcos  <br /> Asesores(as): Marco Ortiz & Franco Maldonado  </td>    
-    <td> Mayovar Alex Evanan Allccahuaman <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br /> Universidad Nacional del Callao <br />  Asesores(as): Alan Sánchez & Minoru Higa  </td>   
-  <tr>
+    <td> Abner F. Casallo Trauco <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Abner_Casallo.png " border=1 height=180 width=180><br /> Tema: Impacto de una política fiscal basada en el impuesto a la renta dentro de una economía con un sector formal y un sector formal <br /> Universidad Nacional Mayor de San Marcos <br /> Asesores(as): Marco Ortiz & Franco Maldonado </td>    
+    <td> Mayovar Alex Evanan Allccahuaman <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alex Evanan.jpg" border=1 height=180 width=180><br /> Tema: Cambios en la composición del mercado laboral: Efectos de la pandemia en la empleabilidad de los recién egresados <br /> Universidad Nacional del Callao <br />  Asesores(as): Alan Sánchez & Minoru Higa  </td>   
+  </tr>
  <tr>
-     <td> Yeni V. Vasquez Flores <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180>  <br />Universidad Nacional Mayor de San Marcos <br />  Asesores(as): Sebastian Tello & Bruno Escobar </td> 
-     <td> Alexis R. Minaya Aguirre  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180> <br/>Universidad Nacional Mayor de San Marcos <br /> Asesores(as): Chris M. Boyd &  Ana Paula Franco  </td>
+     <td> Alexis R. Minaya Aguirre  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Alexis_Minaya.png" border=1 height=180 width=180><br /> Tema: Impacto del Programa Juntos en la Pobreza Multidimensional de la región Junín, 2007-2017 <br /> Universidad Nacional Mayor de San Marcos <br />  Asesores(as): hris M. Boyd &  Ana Paula Franco </td> 
+     <td> Cesar A. Paz Crisanto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Cesar_Paz.jpg" border=1 height=180 width=180><br /> Tema: Salud Mental y Desarrollo Humano: Evidencia de los Centros de Salud Mental Comunitarios en Perú <br/> Universidad de Piura <br /> Asesores(as): Alan Sánchez & Carla Srebot </td>
   </tr>
   <tr>
-     <td>  Cesar A. Paz Crisanto <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Cesar_Paz.jpg" border=1 height=180 width=180>  <br /> Universidad de Piura <br /> Asesores(as): Alan Sánchez & Carla Srebot   </td> 
-     <td> Miriam A. Puraca Ccari <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Miriam_Puraca.jfif" border=1 height=180 width=180>  <br/>Universidad Nacional del Altiplano <br /> Asesores(as): Cesar Urquizo </td>
-  </tr>
+     <td> Miriam A. Puraca Ccari <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Miriam_Puraca.jfif" border=1 height=180 width=180> <br /> Tema: Corrupción y Ejecución del Gasto en Gobiernos Locales de la Región Puno <br/> Universidad Nacional del Altiplano <br /> Asesores(as): Cesar Urquizo </td>
+     <td> Yeni V. Vasquez Flores <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/YeniVasquez_foto.jpeg" border=1 height=180 width=180><br /> Tema: Eficiencia Relativa de la Producción de Salud en el Perú por Departamento, 2014 -2019 <br /> Universidad Nacional Mayor de San Marcos <br />  Asesores(as): Sebastian Tello & Bruno Escobar </td> 
+ 
+<table  border="1" bordercolor="gray" align="center" style="width:100%">
+   <tr>
+        <th colspan="2"> Mentees participantes </th> 
+  </tr>    
   <tr>
      <td> Deybie B. Gaspar Montes  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/foto Deybie Gaspar Montes.jpg" border=1 height=180 width=180> <br /> Universidad Continental <br /> Asesores(as): Chris M. Boyd & Cesar Huaroto  </td> 
      <td>  Elissa C. Velásquez Valladares <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180>  <br/> Universidad Nacional de Trujillo <br /> Asesores(as): Alan Sánchez  & Alexandra Hidalgo </td> 
-     </tr>
+  </tr>
   <tr>
     <td> Yudmili Y. Laruta Arenas <br /> <br /> Universidad Nacional del Altiplano <br />  Asesores(as): Chris M. Boyd & Carlos Burga  </td>  
-
-   
-
+    
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="2"> Mentores Senior  </th> 
