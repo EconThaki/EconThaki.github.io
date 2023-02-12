@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Eco-mienza: Edición Inaugural 2022"
+title:  "Ecomienza: Edición Inaugural 2022"
 author: econthaki
 categories: [Programas]
 image: assets/images/ecomienza-primera.png
 ---
 
-Estamos muy contentos de presentar la primera cohorte de [**Eco-mienza**](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html). Durante 8 sesiones teórico-prácticas, cada estudiante tendrá acceso a de herramientas básicas de investigación aplicada desde el 11 de enero al 8 de marzo del 2022. Conozca más sobre nuestra primera cohorte y cómo contribuye a la diversidad en economía haciendo clic en el siguiente link: [Seleccionados al programa](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
+Estamos muy contentos de presentar la primera cohorte de [**Ecomienza**](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html). Durante 8 sesiones teórico-prácticas, cada estudiante tendrá acceso a de herramientas básicas de investigación aplicada desde el 11 de enero al 8 de marzo del 2022. Conozca más sobre nuestra primera cohorte y cómo contribuye a la diversidad en economía haciendo clic en el siguiente link: [Seleccionados al programa](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
 **Seleccionados en la Cohorte Inaugural 2022**
 
