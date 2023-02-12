@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eco-mienza: Graduados 22'"
+title:  "Ecomienza: Graduados 22'"
 author: econthaki
 categories: [Programas]
 image: assets/images/eco22/egresades/egresadesall.jpg
@@ -8,7 +8,7 @@ image: assets/images/eco22/egresades/egresadesall.jpg
 En este post queremos felicitar a todos nuestr@s alumn@s graduad@s que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
 
 
-**Eco-mienza**
+**Ecomienza**
 
 Es un programa de formación que tuvo como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. 
 
