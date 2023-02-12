@@ -41,13 +41,16 @@ L@s estudiantes y egresad@s que entran dentro de nuestra población objetivo (ve
 
 **3: Mentorías**
 
-La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y mentor@s junior (asistente de investigación senior/pre-doc/magister/estudiante de doctorado con experiencia en el desarrollo  de investigaciones en economía y afines) y senior (académicas que ya cuenten con el grado de PhD en economía).
+La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y mentor@s junior (asistente de investigación senior/pre-doc/magister/estudiante de doctorado con experiencia en el desarrollo de investigaciones en economía y afines) y senior (académicas que ya cuenten con el grado de PhD en economía).
 
+- [Link a la página de Mentorías](https://econthaki.github.io/programas/2022/01/07/mentorias22.html)
+
+- [Cohorte y Mentores](https://econthaki.github.io/programas/2022/11/01/ecomentorias22-promo.html)
 
 
 **Ciclo**
 
-Las tres fases componen un ciclo de 1 año. La fase 1 se realiza de forma recurrente y continua en función a la demanda de los talleres por parte de las universidades que forman parte de la población objetivo. La convocatoria para la fase 2 se realiza en diciembre y va de enero a marzo. La fase 3 va de agosto a diciembre.
+Las tres fases componen un ciclo de 1 año. La fase 1 se realiza de forma recurrente y continua en función a la demanda de los talleres por parte de las universidades que forman parte de la población objetivo. La convocatoria para la fase 2 se realiza a inicios de año y va de marzo a junio. La fase 3 va de agosto a diciembre.
 
 
 Link a  [Preguntas Frecuentes][pregfreq-link]
