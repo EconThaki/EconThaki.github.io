@@ -6,10 +6,10 @@ categories: [Programas]
 image: assets/images/shutterstock_1720826170.jpg
 ---
 
-Los programas que estamos desarrollando para incrementar la diversidad en la academia en economía.
+Contamos con programas para incrementar la diversidad en la academia en economía.
 
-- Durante el 2022 los programas se desarrollaron en Perú, como país piloto de la organización. 
-- Durante 2023, los programas se enfocarán en Bolivia, Ecuador, y Perú.
+- Durante el año 2022, los programas se desarrollaron en Perú, como país piloto de la organización. 
+- Durante el año 2023, los programas se enfocarán en Bolivia, Ecuador, y Perú.
 
 
 **Población objetivo**
@@ -19,27 +19,27 @@ Estudiantes y recién egresadas de economía y afines con recursos insuficientes
 Estos son los tres tipos de programa que desarrollamos desde EconThaki para promover la diversidad en la academia en economía y políticas públicas.
 
 
-**1: Talleres sobre "¿Qué es un PhD en Economía y cómo conseguirlo?**
+**1. Talleres sobre "¿Qué es un PhD en Economía y cómo conseguirlo?**
 
-Los talleres sobre la academia en economía, los pasos para iniciarse en ella y aplicar al doctorado en el futuro son la fase 1 de nuestro programa. A través de estos, queremos disminuir la brecha de información respecto al inicio de la vida académica. Hemos comenzado operaciones desde noviembre 2021 en Perú, como país piloto, por facilidad de contactos. Esta fase se desarrollará de manera recurrente durante el 2021-2022 en función de la demanda y logística coordinada con cada universidad pública y de regiones (población objetivo). Si tienes interés en que demos una charla de este tipo en tu universidad, puedes contactarnos [aquí][contacto-link] o escribirnos un mail a "contacto@econthaki.org".
+Los talleres sobre la academia en economía, los pasos para iniciarse en ella y aplicar al doctorado en el futuro son la primera fase de nuestro programa. A través de estos, queremos disminuir la brecha de información respecto al inicio de la vida académica. Hemos comenzado operaciones desde noviembre 2021 en Perú, como país piloto, por facilidad de contactos. Esta fase se desarrollará de manera recurrente durante el 2021-2022 en función de la demanda y logística coordinada con cada universidad pública y de regiones (población objetivo). Si tienes interés en que demos una charla de este tipo en tu universidad, puedes contactarnos [aquí][contacto-link] o escribirnos un mail a "contacto@econthaki.org".
 
 [contacto-link]:   https://econthaki.github.io/contact.html
 
-**2: [Ecomienza: Capacitación en herramientas de investigación en economía aplicada y análisis de datos](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html)**
+**2. [Ecomienza: Capacitación en herramientas de investigación en economía aplicada y análisis de datos](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html)**
 
-L@s estudiantes y egresad@s que entran dentro de nuestra población objetivo (ver requisitos en la sección específica del programa) pueden postular y ser seleccionadas en “Ecomienza”, programa de formación y capacitación en herramientas para realizar investigación en economía aplicada. La convocatoria para participar se desarrollará a inicios de cada año y el programa tendrá una duración de 3 meses (3 horas semanales). En el 2023, el programa iniciará a fines de marzo.
+L@s estudiantes y egresad@s que entran dentro de nuestra población objetivo (ver requisitos en la sección específica del programa) pueden postular y ser seleccionadas en “Ecomienza”, programa de formación y capacitación en herramientas para realizar investigación en economía aplicada. La convocatoria para participar se desarrollará a inicios de cada año y el programa tendrá una duración de 3 meses (3 horas semanales). En el año 2023, el programa iniciará a fines de marzo.
 
 
 ***Desarrollo del programa 2022***
 
-- [Link a la versión del 2022](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html)
+- [Link a la Versión del 2022](https://econthaki.github.io/programas/2021/01/12/ecomienza22.html)
 
 
 ***Desarrollo del programa 2023***
 
-- [Link a la convocatoria del 2023](https://econthaki.github.io/programas/2023/01/12/ecomienza23.html)
+- [Link a la Convocatoria del 2023](https://econthaki.github.io/programas/2023/01/12/ecomienza23.html)
 
-**3: Mentorías**
+**3. Mentorías**
 
 La tercera fase del programa consistirá en mentorías entre nuestra población objetivo y mentor@s junior (asistente de investigación senior/pre-doc/magister/estudiante de doctorado con experiencia en el desarrollo de investigaciones en economía y afines) y senior (académicas que ya cuenten con el grado de PhD en economía).
 
