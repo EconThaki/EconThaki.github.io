@@ -42,7 +42,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>    
   <tr>
      <td> Deybie B. Gaspar Montes  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/foto Deybie Gaspar Montes.jpg" border=1 height=180 width=180> <br /> Universidad Continental <br /> Asesores(as): Chris M. Boyd & Cesar Huaroto  </td> 
-     <td>  Elissa C. Velásquez Valladares <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180>  <br/> Universidad Nacional de Trujillo <br /> Asesores(as): Alan Sánchez  & Alexandra Hidalgo </td> 
+     <td>  Elissa C. Velásquez Valladares <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Corina_Velasquez.jpg" border=1 height=180 width=180>  <br/> Universidad Nacional de Trujillo <br /> Asesores(as): Alan Sánchez  & Alessandra Hidalgo </td> 
   </tr>
   <tr>
          <td> Joel N. Vicencio Damian  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentees/Joel_Vicencio.png" border=1 height=180 width=180> <br /> Universidad Nacional Agraria La Molina <br /> Asesores(as): Sebastian Tello & Daniel Velasquez </td> 
@@ -68,7 +68,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>  
   <tr>
  	<td> Bruno M. Escobar <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/B_Escobar.png " border=1 height=180 width=180>  <br /> Boston University <br /> Asesorado (a):   Yeni V. Vasquez Flores  </td>    
-    <td> Alexandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180> <br /> Lancaster University  <br /> Asesorado(a): Elissa C. Velásquez Valladares </td>
+    <td> Alessandra Hidalgo   <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/A_Hidalgo.png " border=1 height=180 width=180> <br /> Lancaster University  <br /> Asesorado(a): Elissa C. Velásquez Valladares </td>
   </tr>
   <tr>
      <td> Carla Srebot  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos22/mentores/C_Sebrot.png " border=1 height=180 width=180> <br /> University of British Columbia <br /> Asesorado(a): Cesar A. Paz Crisanto </td> 
