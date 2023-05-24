@@ -96,7 +96,6 @@ Perseverancia, resilencia, curiosidad y ganas de aprender siempre. La investigac
 </div>
 En los últimos años he colaborado con varios colegas en estudios de intervenciones en materia de salud, educación y género. A mí, siempre me ha apasionado los temas de equidad en educación, salud, y reducir las brechas de género. La mayoría de mis estudios se centran en Perú, pero ahora soy más flexible. Asimismo, en el futuro quisiera profundizar en la economía experimental, usando experimentos en el laboratorio y evaluaciones de impacto para analizar y proponer intervenciones que sean informativas para la toma de decisiones. Uno de mis estudios evalúa el impacto de breve interacciones con mujeres modelo en preferencias por carreras de ingeniería, usando un experimento controlado aleatorio. Me apasiona este tema porque va muy ligado al acceso en oportunidades para las mujeres en la sociedad.
 
-
 <br>
 
 <div class = "teal">
@@ -107,16 +106,13 @@ En los últimos años he colaborado con varios colegas en estudios de intervenci
 Pienso que el diseño de políticas públicas debe ser en base a evidencia. La teoría económica junto con los datos nos permite llegar a conclusiones sobre qué políticas serán más efectivas para obtener un resultado.
 
 Siempre debe existir estudios descriptivos o cuantitativos que nos den una idea de que la política propuesta será beneficioso para una población.
-
 <br>
-
 
 <div style="text-align: right"> 
 <font size = '6'>
 << La teoría económica junto con los datos nos permite llegar a conclusiones sobre qué políticas serán más efectivas para obtener un resultado. >>
 </font>
 </div>
-
 
 <div class = "teal">
   <strong>
@@ -186,13 +182,12 @@ Desde ya estos son problemas muy latentes en la sociedad. Las causas estructural
 
 <br>
 
-
 <div class = "teal">
-  <strong>
+  <strong> 
 12. ¿Tienes algún consejo para estudiantes de Latinoamérica que quieran seguir una vida académica, pero carecen de recursos?  </strong>
 </div>
 
- Si tienes las habilidades para hacer investigación, que no todos lo tienen, y te esfuerzas y dedicas tiempo a lo que te apasiona, las oportunidades se darán. Yo aconsejaría hacerse notar, porque de nada sirve tener manuscritos en tu computadora si nadie los lee o no salen en alguna red social. Compartir tu portafolio de investigación o ideas con otros profesionales dará oportunidades para seguir una vida académica. Ahora está de moda seguir estudios de maestría y luego estudios de doctorado, pero no necesariamente tiene que ser así. Sugiero ganar experiencia como asistente de investigación con algunos profesores reconocidos en el rubro de investigación de tu interés. Preguntar, escribir emails, buscar información, interactuar con profesores y alumnos en programas de doctorado, para que cuenten su experiencia. No quedarse sentado llenando una aplicación de financiamiento frente a un computador.
+Si tienes las habilidades para hacer investigación, que no todos lo tienen, y te esfuerzas y dedicas tiempo a lo que te apasiona, las oportunidades se darán. Yo aconsejaría hacerse notar, porque de nada sirve tener manuscritos en tu computadora si nadie los lee o no salen en alguna red social. Compartir tu portafolio de investigación o ideas con otros profesionales dará oportunidades para seguir una vida académica. Ahora está de moda seguir estudios de maestría y luego estudios de doctorado, pero no necesariamente tiene que ser así. Sugiero ganar experiencia como asistente de investigación con algunos profesores reconocidos en el rubro de investigación de tu interés. Preguntar, escribir emails, buscar información, interactuar con profesores y alumnos en programas de doctorado, para que cuenten su experiencia. No quedarse sentado llenando una aplicación de financiamiento frente a un computador.
  
  <div style="text-align: right"> 
 <font size = '6'>
