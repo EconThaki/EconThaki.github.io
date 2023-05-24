@@ -54,10 +54,8 @@ En mi opinión se necesita tiempo para tomar una decisión sobre tu futuro profe
 </font>
 </div>
 
-
 <div class = "teal">
   <strong>
- 
 3.  ¿Cómo fue el proceso para decidir aplicar a tu programa doctoral? Coméntanos tu experiencia en la maestría en Warwick.
   </strong> 
 </div>
@@ -91,9 +89,9 @@ Perseverancia, resilencia, curiosidad y ganas de aprender siempre. La investigac
 <div class = "teal">
   <strong>
 5.  ¿En qué temas de investigación trabajas? Nos podrías comentar sobre las investigaciones en las que estás trabajando recientemente y qué es lo que te apasiona del tema
-
   </strong>
 </div>
+
 En los últimos años he colaborado con varios colegas en estudios de intervenciones en materia de salud, educación y género. A mí, siempre me ha apasionado los temas de equidad en educación, salud, y reducir las brechas de género. La mayoría de mis estudios se centran en Perú, pero ahora soy más flexible. Asimismo, en el futuro quisiera profundizar en la economía experimental, usando experimentos en el laboratorio y evaluaciones de impacto para analizar y proponer intervenciones que sean informativas para la toma de decisiones. Uno de mis estudios evalúa el impacto de breve interacciones con mujeres modelo en preferencias por carreras de ingeniería, usando un experimento controlado aleatorio. Me apasiona este tema porque va muy ligado al acceso en oportunidades para las mujeres en la sociedad.
 
 <br>
@@ -103,6 +101,7 @@ En los últimos años he colaborado con varios colegas en estudios de intervenci
 6.  ¿Por qué es necesario diseñar políticas públicas con base en investigación?
   </strong>
 </div>
+
 Pienso que el diseño de políticas públicas debe ser en base a evidencia. La teoría económica junto con los datos nos permite llegar a conclusiones sobre qué políticas serán más efectivas para obtener un resultado.
 
 Siempre debe existir estudios descriptivos o cuantitativos que nos den una idea de que la política propuesta será beneficioso para una población.
