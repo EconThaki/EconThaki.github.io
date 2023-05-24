@@ -23,7 +23,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 En esta edición de Voces, entrevistamos a la economista Muchin Bazan, quien se desempeña como Health Economist en el Centers for Disease Control and Prevention (CDC). La doctora Muchin nació y creció en Piura, estudió el pregrado en Economía en la Universidad de Piura y la Maestría en Economía en la Universidad de Warwick. Seguidamente, estudió el Doctorado en Economía en Virginia Tech. Sus intereses de investigación se centran en desarrollo económico, microeconomía aplicada, economía de la salud y economía experimental.
 
 Esperamos les guste esta entrevista y se inspiren con su historia.
-  
+
 </div>
 
 <br>
@@ -54,13 +54,12 @@ En mi opinión se necesita tiempo para tomar una decisión sobre tu futuro profe
 </font>
 </div>
 
-
 <div class = "teal">
   <strong>
- 
 3.  ¿Cómo fue el proceso para decidir aplicar a tu programa doctoral? Coméntanos tu experiencia en la maestría en Warwick.
   </strong> 
 </div>
+
 La Universidad de Warwick tiene una plana docente excelente, con profesores reconocidos y muy activos en la academia. Mi experiencia en Warwick fue muy buena, conocí muy buenos amigos y mucho talento; algunos de ellos siguieron estudios de doctorado pero otros comenzaron a trabajar al término del programa. La maestría que llevé fue de un año y no era muy orientada a investigación. Asimismo, al ser una maestría de un año, el tiempo resulta ser muy corto para afianzar una relación de colaboración con los profesores y recibir buenas cartas. A pesar de ello, ese año me sirvió para buscar seguir estudiando, llevar cursos de altísimo nivel, y continuar con el doctorado, donde tuve más tiempo para desarrollar mi portafolio de investigación.
 
 Considero que mi proceso para aplicar al doctorado fue único; dado que solamente apliqué a una universidad. Me dejé llevar por mi instinto y tomé las oportunidades que se presentaron en el momento indicado. Si hubiera esperado un año más, quizá hubiera postulado a un mayor número de universidades y programas. Al final, la universidad no hace al alumno; es el alumno, su esfuerzo y la buena relación entre el alumno y el asesor; lo que asegura el éxito en el programa de doctorado.
@@ -77,6 +76,7 @@ Considero que mi proceso para aplicar al doctorado fue único; dado que solament
 4.  En tu opinión, ¿qué competencias se requiere para hacer trabajo de investigación?
   </strong>  
 </div>
+
 Perseverancia, resilencia, curiosidad y ganas de aprender siempre. La investigación requiere ser responsable y un buen manejo del tiempo. Otra de las competencias, es ser capaz de resumir cuál es la contribución de tu estudio en la literatura ya existente. Encontrarás que casi todas las ideas ya han sido estudiadas antes, lo que hace mucho más difícil encontrar una diferenciación con estudios previos. La investigación puede resultar un trabajo muy solitario, pero también necesitas comunicar tus ideas con otros y contactar a expertos en el tema. En particular, en el rubro de Economía, toma muchos años publicar y los estándares son muy altos. Eso lo pude notar comparando con otras revistas de ingeniería o salud pública. Si te gusta la investigación y crees en tus ideas, tu motivación no decrecerá a pesar de las adversidades que puedes encontrar en el camino.
 
 <br>
@@ -87,13 +87,12 @@ Perseverancia, resilencia, curiosidad y ganas de aprender siempre. La investigac
 </font>
 </div>
 
-
 <div class = "teal">
   <strong>
 5.  ¿En qué temas de investigación trabajas? Nos podrías comentar sobre las investigaciones en las que estás trabajando recientemente y qué es lo que te apasiona del tema
-
   </strong>
 </div>
+
 En los últimos años he colaborado con varios colegas en estudios de intervenciones en materia de salud, educación y género. A mí, siempre me ha apasionado los temas de equidad en educación, salud, y reducir las brechas de género. La mayoría de mis estudios se centran en Perú, pero ahora soy más flexible. Asimismo, en el futuro quisiera profundizar en la economía experimental, usando experimentos en el laboratorio y evaluaciones de impacto para analizar y proponer intervenciones que sean informativas para la toma de decisiones. Uno de mis estudios evalúa el impacto de breve interacciones con mujeres modelo en preferencias por carreras de ingeniería, usando un experimento controlado aleatorio. Me apasiona este tema porque va muy ligado al acceso en oportunidades para las mujeres en la sociedad.
 
 <br>
@@ -103,6 +102,7 @@ En los últimos años he colaborado con varios colegas en estudios de intervenci
 6.  ¿Por qué es necesario diseñar políticas públicas con base en investigación?
   </strong>
 </div>
+
 Pienso que el diseño de políticas públicas debe ser en base a evidencia. La teoría económica junto con los datos nos permite llegar a conclusiones sobre qué políticas serán más efectivas para obtener un resultado.
 
 Siempre debe existir estudios descriptivos o cuantitativos que nos den una idea de que la política propuesta será beneficioso para una población.
