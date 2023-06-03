@@ -13,14 +13,14 @@ output:
     
 ---
 
-Entrevista a Muchin Bazan, Posdoc en Centers for Disease Control and Prevention (CDC) en Atlanta.
+Entrevista a Muchin Bazan, Posdoc en los Centros para el Control y la Prevención de Enfermedades (CDC) en Atlanta.
 
 <style>
 div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista Muchin Bazan, quien se desempeña como Health Economist en el Centers for Disease Control and Prevention (CDC). La doctora Muchin nació y creció en Piura, estudió el pregrado en Economía en la Universidad de Piura y la Maestría en Economía en la Universidad de Warwick. Seguidamente, estudió el Doctorado en Economía en Virginia Tech. Sus intereses de investigación se centran en desarrollo económico, microeconomía aplicada, economía de la salud y economía experimental.
+En esta edición de Voces, entrevistamos a la economista Muchin Bazan, quien se desempeña como Health Economist en los Centros para el Control y la Prevención de Enfermedades (CDC) en Atlanta, Estados Unidos. La doctora Muchin nació y creció en Piura, estudió el pregrado en Economía en la Universidad de Piura y la Maestría en Economía en la Universidad de Warwick. Seguidamente, estudió el Doctorado en Economía en Virginia Tech. Sus intereses de investigación se centran en desarrollo económico, microeconomía aplicada, economía de la salud y economía experimental.
 
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
@@ -150,7 +150,7 @@ La vida la construye uno en base a las decisiones que toma en cada momento en el
 
 <div class = "teal">
   <strong>
-10.	¿Nos podrías comentar sobre tu trabajo en CDC? ¿Qué opinas del mercado laboral y la comunidad de economistas en general?
+10.	¿Nos podrías comentar sobre tu trabajo en los CDC? ¿Qué opinas del mercado laboral y la comunidad de economistas en general?
   </strong>
 </div>
 
