@@ -56,7 +56,6 @@ Diría que ahora, recién durante el doctorado es que más o menos estoy inclina
 << La verdad es que esa es una de las principales bondades del proceso de doctorado:  te ayudan a descubrir qué es lo que exactamente quieres. >>
 </font>
 </div>
-
 <br>
 
 <div class = "teal">
@@ -93,7 +92,6 @@ Se requieren varias habilidades que involucran todo el proceso de producción, d
 
 Trabajo en varios temas que incluyen métodos de bootstrap, problema de identificación parcial, y, recientemente, estoy explorando las propiedades de un método llamado cross-fitting, el cual se usa para incorporar métodos de Machine Learning en econometría. Sobre el último tema que estoy pensando, les podría contar lo siguiente. Todos conocemos que un estimador de la varianza se obtiene como el promedio de las desviaciones al cuadrado de las observaciones con respecto a la media muestral. Podríamos construir otro estimador usando el método de cross-fitting. Por ejemplo, dividamos aleatoriamente la muestra en dos grupos. Ahora podemos calcular el estimador de la varianza del primer grupo usando la media muestral del segundo grupo. Del mismo modo podríamos estimar la varianza del segundo grupo. Finalmente, un nuevo estimador (cross-fitting) de la varianza sería el promedio de estos dos estimadores. En general, no se saben las propiedades teóricas de estos nuevos estimadores con respecto a otros, y la respuesta no parece obvia. En particular, no sabemos si el nuevo estimador de varianza tiene un menor o mayor error cuadrático medio que el estimador que siempre usamos. Lo que sí sabemos es que asintóticamente estos estimadores, y otros similares, son equivalentes, aunque eso no es suficiente para recomendar uno u el otro en casos con muestras finitas; para eso se requiere más trabajo.
 <br>
-
 
 <div class = "teal">
   <strong>
@@ -148,9 +146,7 @@ Diría que el inglés ha sido la barrera más grande, ya que el trabajo de inves
 << [...] el inglés ha sido la barrera más grande, ya que el trabajo de investigación en economía es en inglés. A eso le agrego la capacidad de pedir ayuda temprano...>>
 </font>
 </div>
-
 <br>
-
 
 <div class = "teal">
   <strong>
@@ -162,7 +158,7 @@ El mercado laboral es competitivo y hay mucha heterogeneidad entre campos de est
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< El mercado laboral es competitivo y hay mucha heterogeneidad entre campos de estudio y dentro de los mismos [..] probablemente hay alguna empresa y/o algún grupo de investigación que esté interesado en las cosas que te interesan.>>
+<< El mercado laboral es competitivo y hay mucha heterogeneidad entre campos de estudio y dentro de los mismos [...] probablemente hay alguna empresa y/o algún grupo de investigación que esté interesado en las cosas que te interesan.>>
 </font>
 </div>
 
@@ -211,7 +207,7 @@ Uno puede organizarse sabiendo en qué gasta sus horas de trabajo y evitando el 
 --
 
 <div class = "teal">
-Le agradecemos mucho a Amilcar Velez por esta entrevista. 
+Le agradecemos en gran medida a Amilcar Velez por esta entrevista. 
 
 </div>
 
