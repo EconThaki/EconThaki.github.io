@@ -13,7 +13,7 @@ output:
     
 ---
 
-Entrevista a Amilcar Velez, estudiante de doctorado en Northwestern University.
+Entrevista a Amilcar Velez, candidato a doctor en economía en la Universidad de Northwestern.
 
 <style>
 div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
