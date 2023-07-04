@@ -75,7 +75,7 @@ Se requieren varias habilidades que involucran todo el proceso de producción, d
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Si te gusta la investigación y crees en tus ideas, tu motivación no decrecerá a pesar de las adversidades que puedes encontrar en el camino. >>
+<< En economía, además, es necesario integrar competencias para entender bien el problema económico, y ser capaces de comunicarlo en términos simples. >>
 </font>
 </div>
 <br>
