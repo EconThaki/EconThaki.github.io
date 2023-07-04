@@ -36,6 +36,11 @@ Voy a contar esto un poco lineal. Estudié mi pregrado con beca en la Pontificia
 
 Consideraba en solo terminar la carrera, y luego hacer un doctorado en matemática o matemática financiera; es decir, volver a temas relacionados completamente a matemática. Así que para cerrar la etapa de economía postulé al curso de verano del Banco Central de Reserva del Perú (BCRP), como quien prueba suerte, y la verdad tuve suerte porque me quedé a trabajar ahí. El BCRP fue mi primer lugar de trabajo, y, como a todos creo, me costó acostumbrarme al inicio. Al final me encantó trabajar ahí; así que, en vez de cerrar la etapa de economía, me decidí por cerrar la etapa de matemática que me había acompañado por mucho tiempo. En el 2015 me fui al IMPA (Instituto de Matemática Pura y Aplicada) en Brasil como alumno visitante, aunque este proceso luego se convirtió en la maestría de matemática pura que tengo. Después de eso volví al BCRP y estuve ahí hasta meses antes de iniciar el doctorado.
 
+<div style="text-align: right"> 
+<font size = '6'>
+<< [...] postulé al curso de verano del Banco Central de Reserva del Perú (BCRP), como quien prueba suerte, y la verdad tuve suerte porque me quedé a trabajar ahí. >>
+</font>
+</div>
 <br>
 
 <div class = "teal">
