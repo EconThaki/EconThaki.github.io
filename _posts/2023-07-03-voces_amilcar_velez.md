@@ -46,13 +46,13 @@ Consideraba en solo terminar la carrera, y luego hacer un doctorado en matemáti
 </div>
 Diría que ahora, recién durante el doctorado es que más o menos estoy inclinado por una carrera en investigación a tiempo completo. Antes del doctorado no sabía si realmente quería hacer algo así; para ser precisos, ya conocía personas que hacían investigación en matemática y/o economía, y estar en ese entorno fue la razón por la que quería hacer un doctorado. La verdad es que esa es una de las principales bondades del proceso de doctorado:  te ayudan a descubrir qué es lo que exactamente quieres.
 
-<br>
-
 <div style="text-align: right"> 
 <font size = '6'>
 << La verdad es que esa es una de las principales bondades del proceso de doctorado:  te ayudan a descubrir qué es lo que exactamente quieres. >>
 </font>
 </div>
+
+<br>
 
 <div class = "teal">
   <strong>
@@ -63,14 +63,7 @@ Diría que ahora, recién durante el doctorado es que más o menos estoy inclina
 Me demoré varios años en decidirme por aplicar a un doctorado en economía; de hecho, diría que fue un golpe de suerte. En mi cabeza siempre pasaba la idea de hacer un doctorado; ya que mentores y amigos tenían doctorado (de IMPA) o estaban en el proceso de tener uno. A finales de 2015, estando en IMPA, postulé a pocos programas de doctorado, y, pueden adivinar, no salió bien. El problema es que tenía las cartas correctas para hacer matemática, y no para hacer economía. Después de ese desastre divagué un poco, y estuve a un paso de volverme un actuario.
 
 Sin embargo, tuve un golpe de suerte. En el 2016 viaje a Nueva York (NY) a un workshop sobre estabilidad financiera organizado por la Reserva Federal (FED) de NY. Estando en la ciudad, Peter Paz, quien estudiaba en ese entonces el PhD en New York University (NYU), me sugirió que hable con Jose Luis (Pepe) Montiel para ver alternativas sobre cómo llegar a un programa de doctorado en economía en los Estados Unidos. Me junté con Pepe y me explico sobre todas las cosas que hice mal en el anterior proceso de postulación; ya que por cosas del destino Pepe vio los papeles que mandé a NYU. Quedamos en volver a hablar. En el 2017 retomamos contacto y desde entonces hemos venido trabajando juntos, primero como su asistente de investigación, y ahora como coautor. Pepe fue quien escribió una de mis cartas de recomendación para la postulación. La otra carta fue de Saki Bigio.
-
 <br>
-
-<div style="text-align: right"> 
-<font size = '6'>
-<< [...] la universidad no hace al alumno; es el alumno, su esfuerzo y la buena relación entre el alumno y el asesor; lo que asegura el éxito en el programa de doctorado.>>
-</font>
-</div>
 
 <div class = "teal">
   <strong> 
@@ -79,14 +72,14 @@ Sin embargo, tuve un golpe de suerte. En el 2016 viaje a Nueva York (NY) a un wo
 </div>
 
 Se requieren varias habilidades que involucran todo el proceso de producción, desde encontrar una pregunta hasta producir un documento. En particular, yo soy muy partidario de que esta función de producción es del tipo Cobb-Douglas, es decir, tener muy poco de alguna de las habilidades te resta harto; por ello, también soy fiel creyente de las complementariedades de trabajar con coautores. Si tuviera que enumerar una lista de competencias, diría que uno requiere tener capacidad para comunicar ideas, hacer preguntas, escribir bien, presentar bien, tener harta tolerancia al fracaso, habilidad para resolver problemas. Estas competencias son necesarias en el proceso de investigación en cualquier campo. En economía, además, es necesario integrar competencias para entender bien el problema económico, y ser capaces de comunicarlo en términos simples. Por si acaso, para dar los créditos, esta lista lo saque de una entrevista que Scott Cunningham le hace a Petra Todd (https://www.youtube.com/watch?v=m1Mpc7-b-1I).
-<br>
 
 <div style="text-align: right"> 
 <font size = '6'>
 << Si te gusta la investigación y crees en tus ideas, tu motivación no decrecerá a pesar de las adversidades que puedes encontrar en el camino. >>
 </font>
 </div>
-
+<br>
+  
 <div class = "teal">
   <strong>
 5.  ¿En qué temas de investigación trabajas? Nos podrías comentar sobre las investigaciones en las que estás trabajando recientemente y qué es lo que te apasiona del tema.
@@ -104,14 +97,14 @@ Trabajo en varios temas que incluyen métodos de bootstrap, problema de identifi
 </div>
 
 La mejor manera de lidiar siempre es trabajar en grupo y tener tiempo para descansar. Aunque hay varios detalles a esta recomendación, ya que todos funcionamos de manera distinta. Descansar es importante, todos lo hacen, y no hay nada de malo en ello. Descansar creo que es una manera muy práctica para lidiar con el sobre trabajo que puede ser emocionalmente agotador. También es útil recordar que todos pasan por lo mismo, y no hay nada de malo en hablar de ello. En mi caso, yo descanso los sábados, y también parte de los domingos. Trato de no pensar, responder correos, o abrir el Overleaf para avanzar algo. Ya voy por mi segundo año con este compromiso de no trabajar los sábados, y la verdad me ayuda harto, da mucho ánimo para empezar la semana con todo. 
-<br>
 
 <div style="text-align: right"> 
 <font size = '6'>
 << La mejor manera de lidiar siempre es trabajar en grupo y tener tiempo para descansar [...] [d]escansar creo que es una manera muy práctica para lidiar con el sobre trabajo que puede ser emocionalmente agotador.>>
 </font>
 </div>
-
+<br>
+  
 <div class = "teal">
   <strong>
 7.  ¿A quiénes consideras como tus mentores? ¿Cuál crees que ha sido su rol en tu vida académica?
@@ -125,6 +118,8 @@ Hay muchas personas que podría nombrar aquí. Los más recientes que puedo nomb
 << Los [mentores] más seniors me ayudan con orientación cuando no tengo un plan definido y/o son capaces de darme una honesta retroalimentación [...] [l]os más jóvenes me enseñan con su ejemplo y maneras de pensar en el día a día del proceso de investigación.>>
 </font>
 </div>
+
+<br>
 
 <div class = "teal">
   <strong>
