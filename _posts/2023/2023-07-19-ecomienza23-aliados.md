@@ -30,10 +30,11 @@ Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada
     <td>Monika Ávila <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/monika_avila.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/mokametrics">@mokametrics</a></td>
   </tr>
   <tr>
-    <td>Sebastian Tello-Trillo <br /><img src="{{ site.baseurl }}/assets/images/eco22/sebast.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
-    <td>Manuela Puente-Beccar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente.jpeg" border=1 height=100 width=100><br /> <a href="https://twitter.com/ManuelaPuenteB">@ManuelaPuenteB</a></td>
+    <td>Sebastian Tello-Trillo <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/sebast.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
+    <td>Manuela Puente-Beccar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente.jpg" border=1 height=100 width=100><br /> <a href="https://twitter.com/ManuelaPuenteB">@ManuelaPuenteB</a></td>
   </tr>  
 </table>
+
 
 
 **Mentores a lo largo del programa**
@@ -45,23 +46,23 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
         <th colspan="3">Mentores</th> 
   </tr>  
   <tr>
-    <td>David Ontaneda <br /><img align="center" src="{{ site.baseurl }}/assets/images/ecomienza23/david_o.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dontaneda"> @dontaneda</a> </td>
-    <td>Ana Maria Trujillo Lemos <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/ana_trujillo.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/TrujilloLemosAM"> @TrujilloLemosAM</a> </td>
-    <td>Tania Guerra <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/tania_guerra-2.jpg" border=1 height=100 width=100><br /><a href="https://de.linkedin.com/in/tania-guerra-rosero-47aa58141/en"> @tania-guerra-rosero</a> </td>
+    <td align="center">David Ontaneda <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/david_o.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dontaneda"> @dontaneda</a> </td>
+    <td align="center">Ana Maria Trujillo Lemos <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/ana_trujillo.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/TrujilloLemosAM"> @TrujilloLemosAM</a> </td>
+    <td align="center">Tania Guerra <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/tania_guerra-2.jpg" border=1 height=100 width=100><br /><a href="https://de.linkedin.com/in/tania-guerra-rosero-47aa58141/en"> @tania-guerra-rosero</a> </td>
   </tr>
   <tr>
-    <td>Joaquin Endara <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/joaquin_endara-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/jotaj_ec"> @jotaj_ec</a> </td>
-    <td>Paola Villa Paro<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/paola_villa.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/paola_villaparo"> @paola_villaparo</a> </td>
-    <td>Gabriela Lecaro<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/gaby_lecaro.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/GabLecaro"> @GabLecaro</a> </td>    
+    <td align="center">Joaquin Endara <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/joaquin_endara-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/jotaj_ec"> @jotaj_ec</a> </td>
+    <td align="center">Paola Villa Paro<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/paola_villa.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/paola_villaparo"> @paola_villaparo</a> </td>
+    <td align="center">Gabriela Lecaro<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/gaby_lecaro.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/GabLecaro"> @GabLecaro</a> </td>    
   </tr>
   <tr>
-    <td>Marcia Ruiz Pulgar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/marcia_ruiz-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/MarciaGianella"> @MarciaGianella</a> </td>
-    <td>Fabiola Saavedra-Caballero <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/fabiola_saavedra-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/fsaavedra_c"> @fsaavedra_c</a> </td>
-    <td>Manuela Puente-Beccar<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/ManuelaPuenteB"> @ManuelaPuenteB</a> </td>
+    <td align="center">Marcia Ruiz Pulgar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/marcia_ruiz-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/MarciaGianella"> @MarciaGianella</a> </td>
+    <td align="center">Fabiola Saavedra-Caballero <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/fabiola_saavedra-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/fsaavedra_c"> @fsaavedra_c</a> </td>
+    <td align="center">Manuela Puente-Beccar<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente-2.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/ManuelaPuenteB"> @ManuelaPuenteB</a> </td>
   </tr>
   <tr>
-    <td> Nathalie Marins <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/nathalie_marins.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/NathalieMarins"> @NathalieMarins</a> </td>
-    <td>Kattya Quiroga <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/kattya_quiroga.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/KattyaQV"> @KattyaQV</a> </td>
+    <td align="center"> Nathalie Marins <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/nathalie_marins.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/NathalieMarins"> @NathalieMarins</a> </td>
+    <td align="center">Kattya Quiroga <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/kattya_quiroga.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/KattyaQV"> @KattyaQV</a> </td>
   </tr>
 
 </table>
