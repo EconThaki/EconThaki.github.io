@@ -10,7 +10,7 @@ paginate: 12
 baseurl: '/'
 twitter: https://twitter.com/EconThaki
 github: https://github.com/EconThaki
-email: 'econ.mentoringp@gmail.com'
+email: 'econthaki.latam@gmail.com'
 google_analytics: 'UA-142539773-1'
 
 disqus: 'demowebsite'
@@ -49,7 +49,7 @@ authors:
     email:  gaby.lecaro@gmail.com
     twitter: https://twitter.com/GabLecaro
     description: "Gabriela es Investigadora Asociada en IPA"
- jostin:  
+  jostin:  
     name: Jostin
     display_name: Jostin
     email: jostin.kitmang@gmail.com
