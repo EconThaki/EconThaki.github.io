@@ -41,7 +41,7 @@ Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada
 
 Los mentores fueron las personas encargadas de orientar a cada estudiante en el desarrollo de una propuesta de investigación a través de un sistema de "horas de oficina". Todos los mentores son actuales estudiantes de programas doctorales en economía o carreras relacionadas interesados en incrementar la diversidad en la academia.
 
-<table  border="1" bordercolor="gray" align="center" style="width:100%">
+<table  border="0" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="3">Mentores</th> 
   </tr>  
