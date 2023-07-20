@@ -24,7 +24,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 
 
-<table border="1" bordercolor="gray" align="center" style="width:100%">
+<table border="0" bordercolor="gray" align="center" style="width:100%">
   <thead>
     <tr>
       <th colspan="2">Alumn@s graduad@s </th> 
@@ -38,30 +38,30 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
       </td>
     </tr> 
     <tr>
-      <td> Valeria Patricia Murillo Mendieta <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/valeria_murillo.jpg " border=1 height=180 width=180><br /> Programas sociales <br /> Universidad Privada Boliviana </td>    
-      <td> Karina Graciela Trelles Estrella <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/karina_trelles.jpg " border=1 height=180 width=180><br />  Educación  <br /> Universidad de Cuenca - Ecuador </td>
+      <td align="center"> Valeria Patricia Murillo Mendieta <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/valeria_murillo.jpg " border=1 height=180 width=180><br /> Programas sociales <br /> Universidad Privada Boliviana </td>    
+      <td align="center"> Karina Graciela Trelles Estrella <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/karina_trelles.jpg " border=1 height=180 width=180><br />  Educación  <br /> Universidad de Cuenca - Ecuador </td>
     </tr>
     <tr>
-      <td> Jose Israel Campoverde Gil <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_campoverde.jpg " border=1 height=180 width=180><br /> Educación <br /> Escuela Superior Politécnica del Litoral  </td>    
-      <td> Julissa Lizbeth Magallanes Baque <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/julissa_magallanes.jpg " border=1 height=180 width=180><br />  Crecimiento  <br /> Universidad Estatal de Milagro </td>
+      <td align="center"> Jose Israel Campoverde Gil <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_campoverde.jpg " border=1 height=180 width=180><br /> Educación <br /> Escuela Superior Politécnica del Litoral  </td>    
+      <td align="center"> Julissa Lizbeth Magallanes Baque <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/julissa_magallanes.jpg " border=1 height=180 width=180><br />  Crecimiento  <br /> Universidad Estatal de Milagro </td>
     </tr>
     <tr>
-      <td> Ana Cristina Baca Chupillón <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ana_baca.jpg " border=1 height=180 width=180><br />  Desarrollo Humano <br /> Universidad Nacional Pedro Ruiz Gallo </td>    
-      <td> Angie Belén Agurto Ruiz <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/angie_agurto.jpg " border=1 height=180 width=180><br /> Violencia  <br /> Universidad Nacional de Frontera  </td>
+      <td align="center"> Ana Cristina Baca Chupillón <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ana_baca.jpg " border=1 height=180 width=180><br />  Desarrollo Humano <br /> Universidad Nacional Pedro Ruiz Gallo </td>    
+      <td align="center"> Angie Belén Agurto Ruiz <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/angie_agurto.jpg " border=1 height=180 width=180><br /> Violencia  <br /> Universidad Nacional de Frontera  </td>
     </tr>
     <tr> 
-      <td> Mauro Luis Paucca Quichca<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mauro_paucca.jpg " border=1 height=180 width=180><br />    Pobreza <br />  Universidad Nacional de San Cristóbal de Huamanga  </td>
-      <td> Gianella Maria Jose Martinez Mena <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/gianella_martinez.jpg " border=1 height=180 width=180><br /> Saneamiento  <br /> Universidad de Piura </td>
+      <td align="center"> Mauro Luis Paucca Quichca<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mauro_paucca.jpg " border=1 height=180 width=180><br />    Pobreza <br />  Universidad Nacional de San Cristóbal de Huamanga  </td>
+      <td align="center"> Gianella Maria Jose Martinez Mena <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/gianella_martinez.jpg " border=1 height=180 width=180><br /> Saneamiento  <br /> Universidad de Piura </td>
     </tr> 
     <tr>   
-      <td> Teresa Liliana Paredes Quiroz <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/teresa_paredes.jpg " border=1 height=180 width=180><br /> Corruption    <br /> Universidad Antonio Ruiz de Montoya </td>
-      <td> Ashley Emily Ccanto Urbano <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ashley_ccanto.jpg " border=1 height=180 width=180><br /> Agricultura  <br /> Universidad Nacional Agraria La Molina </td>   
+      <td align="center"> Teresa Liliana Paredes Quiroz <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/teresa_paredes.jpg " border=1 height=180 width=180><br /> Corruption    <br /> Universidad Antonio Ruiz de Montoya </td>
+      <td align="center"> Ashley Emily Ccanto Urbano <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ashley_ccanto.jpg " border=1 height=180 width=180><br /> Agricultura  <br /> Universidad Nacional Agraria La Molina </td>   
     </tr>
     <tr> 
-      <td> Antony Philippe Ore Barra <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/antony_ore.jpg " border=1 height=180 width=180><br /> Salud  <br /> Universidad Nacional San Antonio Abad del Cusco </td>    
-      <td> Jessenia Elizabeth Albán Anguisaca <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jessenia_alban.jpg " border=1 height=180 width=180><br />  Crecimiento  <br /> Universidad de Cuenca en la ciudad de Cuenca </td>
+      <td align="center"> Antony Philippe Ore Barra <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/antony_ore.jpg " border=1 height=180 width=180><br /> Salud  <br /> Universidad Nacional San Antonio Abad del Cusco </td>    
+      <td align="center"> Jessenia Elizabeth Albán Anguisaca <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jessenia_alban.jpg " border=1 height=180 width=180><br />  Crecimiento  <br /> Universidad de Cuenca en la ciudad de Cuenca </td>
     <tr> 
-      <td> Jose Luis Cortez Flores <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_cortez.jpg " border=1 height=180 width=180><br /> Cambio climático   <br /> Universidad Nacional Mayor de San Marcos </td>    
+      <td align="center"> Jose Luis Cortez Flores <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_cortez.jpg " border=1 height=180 width=180><br /> Cambio climático   <br /> Universidad Nacional Mayor de San Marcos </td>    
     </tr>
 
 
