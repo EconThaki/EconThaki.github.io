@@ -17,21 +17,21 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 
 Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada, análisis de datos y herramientas para la investigación. Las instituciones y personas listadas fueron las encargadas de impartir estas sesiones. Pueden conocerles más a través de sus cuentas institucionales y/o personales.
 
-<table  border="1" bordercolor="gray" align="center" style="width:100%">
+<table  border="0" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="3">Docente o Institución aliada</th> 
   </tr>  
   <tr>
-    <td>IPA LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/ipalat.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/IPA_LAC"> @IPA_LAC</a> </td>
-    <td>J-PAL LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/jpallat.png" border=1 height=100 width=100><br /><a href="https://twitter.com/JPAL_LAC"> @JPAL_LAC</a> </td>    
+    <td align="center">IPA LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/ipalat.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/IPA_LAC"> @IPA_LAC</a> </td>
+    <td align="center">J-PAL LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/jpallat.png" border=1 height=100 width=100><br /><a href="https://twitter.com/JPAL_LAC"> @JPAL_LAC</a> </td>    
   </tr>    
   <tr>
-    <td>Erick Oré <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/erick_ore.jpg" border=1 height=100 width=100><br /><a href="https://pe.linkedin.com/in/erick-oré-420b00b6">@erick-oré</a></td>
-    <td>Monika Ávila <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/monika_avila.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/mokametrics">@mokametrics</a></td>
+    <td align="center">Erick Oré <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/erick_ore.jpg" border=1 height=100 width=100><br /><a href="https://pe.linkedin.com/in/erick-oré-420b00b6">@erick-oré</a></td>
+    <td align="center">Monika Ávila <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/monika_avila.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/mokametrics">@mokametrics</a></td>
   </tr>
   <tr>
-    <td>Sebastian Tello-Trillo <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/sebast.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
-    <td>Manuela Puente-Beccar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente.jpg" border=1 height=100 width=100><br /> <a href="https://twitter.com/ManuelaPuenteB">@ManuelaPuenteB</a></td>
+    <td align="center">Sebastian Tello-Trillo <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/sebast.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
+    <td align="center">Manuela Puente-Beccar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente.jpg" border=1 height=100 width=100><br /> <a href="https://twitter.com/ManuelaPuenteB">@ManuelaPuenteB</a></td>
   </tr>  
 </table>
 
