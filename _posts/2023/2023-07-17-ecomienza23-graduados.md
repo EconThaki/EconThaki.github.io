@@ -22,6 +22,7 @@ Todos los admitidos al programa fueron beneficiarios de clases informativas y de
 
 Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron voluntarios de distintos programas de doctorados. Es así que pudieron ejecutar sus ideas en forma de propuestas de investigación que presentaron el último día de clases. 
 
+<html>
 
 <table border="1" bordercolor="gray" align="center" style="width:100%">
   <thead>
@@ -61,14 +62,15 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
       <td> Jessenia Elizabeth Albán Anguisaca <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jessenia_alban.jpg " border=1 height=180 width=180><br />  Crecimiento  <br /> Universidad de Cuenca en la ciudad de Cuenca </td>
     <tr> 
       <td> Jose Luis Cortez Flores <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_cortez.jpg " border=1 height=180 width=180><br /> Cambio climático   <br /> Universidad Nacional Mayor de San Marcos </td>    
-      <td>  <br /><br /> <br />  </td>  
     </tr>
   </tbody>
 </table>
 
+</html>
 
 **Links adicionales**
 
+Conozca más sobre nuestra primera cohorte:
 
-- [Conozca más sobre nuestra primera cohorte](https://econthaki.github.io/programas/2022/04/01/ecomienza22-graduados.html)
+- [Ecomienza 22'](https://econthaki.github.io/programas/2022/04/01/ecomienza22-graduados.html)
 
