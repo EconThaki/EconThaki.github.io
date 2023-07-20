@@ -65,9 +65,4 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     </tr>
 
 
-**Links adicionales**
-
-Conozca más sobre nuestra primera cohorte:
-
-- [Ecomienza 22'](https://econthaki.github.io/programas/2022/04/01/ecomienza22-graduados.html)
 
