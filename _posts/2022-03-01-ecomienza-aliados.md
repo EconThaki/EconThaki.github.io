@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ecomienza: Aliados y Mentores"
+title:  "Ecomienza 22': Aliados y Mentores"
 author: econthaki
 categories: [Programas]
 image: assets/images/eco22/aliados_eco22.jpg
@@ -8,7 +8,7 @@ image: assets/images/eco22/aliados_eco22.jpg
 Con esta página queremos agradecer a todas las instituciones y personas aliadas que permitieron que el primer programa de Ecomienza 2022 se desarrolle de forma exitosa.
 
 
-**Ecomienza**
+**Ecomienza 2022**
 
 Es un programa de formación que tiene como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. La primera versión del programa se desarrolló en Perú entre enero a marzo del 2022 en esfuerzos conjuntos a IPA, JPAL LAC, y profesora/es y estudiantes invitada/os. 
 
