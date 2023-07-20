@@ -3,7 +3,7 @@ layout: post
 title:  "Ecomienza 23': Aliados y Mentores"
 author: econthaki
 categories: [Programas]
-image: assets/images/eco22/aliados_eco22.jpg
+image: assets/images/ecomienza23/aliados23.jpg
 ---
 Con esta página queremos agradecer a todas las instituciones y personas aliadas que permitieron que el programa de Ecomienza 2023 se desarrolle de forma exitosa.
 
@@ -17,7 +17,7 @@ Es un programa de formación que tiene como objetivos dotar de herramientas bás
 
 Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada, análisis de datos y herramientas para la investigación. Las instituciones y personas listadas fueron las encargadas de impartir estas sesiones. Pueden conocerles más a través de sus cuentas institucionales y/o personales.
 
-<table  border="3" bordercolor="gray" align="center" style="width:100%">
+<table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="3">Docente o Institución aliada</th> 
   </tr>  
@@ -35,16 +35,17 @@ Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada
   </tr>  
 </table>
 
+
 **Mentores a lo largo del programa**
 
 Los mentores fueron las personas encargadas de orientar a cada estudiante en el desarrollo de una propuesta de investigación a través de un sistema de "horas de oficina". Todos los mentores son actuales estudiantes de programas doctorales en economía o carreras relacionadas interesados en incrementar la diversidad en la academia.
 
-<table  border="3" bordercolor="gray" align="center" style="width:100%">
+<table  border="1" bordercolor="gray" align="center" style="width:100%">
   <tr>
         <th colspan="3">Mentores</th> 
   </tr>  
   <tr>
-    <td>David Ontaneda <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/david_o.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dontaneda"> @dontaneda</a> </td>
+    <td>David Ontaneda <br /><img align="center" src="{{ site.baseurl }}/assets/images/ecomienza23/david_o.jpeg" border=1 height=100 width=100><br /><a href="https://twitter.com/dontaneda"> @dontaneda</a> </td>
     <td>Ana Maria Trujillo Lemos <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/ana_trujillo.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/TrujilloLemosAM"> @TrujilloLemosAM</a> </td>
     <td>Tania Guerra <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/tania_guerra-2.jpg" border=1 height=100 width=100><br /><a href="https://de.linkedin.com/in/tania-guerra-rosero-47aa58141/en"> @tania-guerra-rosero</a> </td>
   </tr>
