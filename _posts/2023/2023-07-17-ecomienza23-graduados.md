@@ -4,6 +4,7 @@ title:  "Ecomienza: Graduados 23'"
 author: econthaki
 categories: [Programas]
 image: assets/images/ecomienza23/egresades/egresadesall.jpeg
+
 ---
 En este post queremos felicitar a todos nuestr@s alumn@s graduad@s que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
 
@@ -12,14 +13,8 @@ En este post queremos felicitar a todos nuestr@s alumn@s graduad@s que participa
 
 Es un programa de formación que tuvo como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades públicas y/o fuera de la capital. 
 
-La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes del Perú, Bolivia y Ecuador!.
+La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes del Perú, Bolivia y Ecuador!. Una de nuestras metas fue poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
 
- <br /><img src="{{ site.baseurl }}/assets/images/eco22/diversidadadmitidos.jpg " border=1 height=600 width=600><br /> 
-
-Una de nuestras metas fue poder llegar a estudiantes con alto potencial de backgrounds no históricamente privilegiados. 
- <br /><img src="{{ site.baseurl }}/assets/images/eco22/univadmitidos.jpg " border=1 height=600 width=600><br /> 
-
-Conozca más sobre nuestra primera cohorte en el siguiente link: [Descripción de los admitidos](https://drive.google.com/file/d/1rhSaUVK0ABl7c72CrnJ1KZbMn2zWSLAE/view?usp=sharing)
 
 **Graduad@s de la cohorte 2023**
 
@@ -76,5 +71,5 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </tr>
  
 
-</table>
+ Conozca más sobre nuestra primera cohorte en el siguiente link: [Ecomienza: Graduados 22'](https://econthaki.github.io/programas/2022/04/01/ecomienza22-graduados.html)
 
