@@ -32,14 +32,14 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </thead> 
   <tbody>
     <tr>
-      <td align="center">  Mateo Ignacio Jiménez Calderón <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mateo_jimenez.jpg" border=1 height=180 width=180><br /> "Programas sociales" <br />  Universidad Privada Boliviana
+      <td align="center"> <strong>Mateo Ignacio Jiménez Calderón</strong> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mateo_jimenez.jpg" border=1 height=180 width=180><br /> "Programas sociales" <br />  Universidad Privada Boliviana
       </td>   
-      <td align="center">  Santiago Julián García Nava <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/santiago_garcia.jpg " border=1 height=180 width=180><br /> "Programas sociales"  <br /> Universidad Católica Boliviana
+      <td align="center"> <strong> Santiago Julián García Nava</strong> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/santiago_garcia.jpg " border=1 height=180 width=180><br /> "Programas sociales"  <br /> Universidad Católica Boliviana
       </td>
     </tr> 
     <tr>
-      <td align="center"> Valeria Patricia Murillo Mendieta <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/valeria_murillo.jpg " border=1 height=180 width=180><br /> "Programas sociales" <br /> Universidad Privada Boliviana </td>    
-      <td align="center"> Karina Graciela Trelles Estrella <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/karina_trelles.jpg " border=1 height=180 width=180><br />  "Educación"  <br /> Universidad de Cuenca - Ecuador </td>
+      <td align="center"> <b>Valeria Patricia Murillo Mendieta</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/valeria_murillo.jpg " border=1 height=180 width=180><br /> "Programas sociales" <br /> Universidad Privada Boliviana </td>    
+      <td align="center"> <b>Karina Graciela Trelles Estrella</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/karina_trelles.jpg " border=1 height=180 width=180><br />  "Educación"  <br /> Universidad de Cuenca - Ecuador </td>
     </tr>
     <tr>
       <td align="center"> Jose Israel Campoverde Gil <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_campoverde.jpg " border=1 height=180 width=180><br /> "Educación" <br /> Escuela Superior Politécnica del Litoral  </td>    
