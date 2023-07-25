@@ -32,7 +32,11 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </thead> 
   <tbody>
     <tr>
-      <td align="center"> <strong>Mateo Ignacio Jiménez Calderón</strong> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mateo_jimenez.jpg" border=1 height=180 width=180><br /> "Programas sociales" <br />  Universidad Privada Boliviana
+      <td align="center"> <b>Ana Cristina Baca Chupillón </b><br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ana_baca.jpg " border=1 height=180 width=180><br />  "Desarrollo Humano" <br /> Universidad Nacional Pedro Ruiz Gallo </td>    
+      <td align="center"> <b>Angie Belén Agurto Ruiz</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/angie_agurto.jpg " border=1 height=180 width=180><br /> "Violencia"  <br /> Universidad Nacional de Frontera  </td>
+    </tr>
+    <tr>
+      <td align="center"> <strong>Mateo Ignacio Jiménez Calderón</strong> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mateo_jimenez.jpg" border=1 height=180 width=180><br /> "Programas sociales" <br/>  Universidad Privada Boliviana
       </td>   
       <td align="center"> <strong> Santiago Julián García Nava</strong> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/santiago_garcia.jpg " border=1 height=180 width=180><br /> "Programas sociales"  <br /> Universidad Católica Boliviana
       </td>
@@ -44,10 +48,6 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     <tr>
       <td align="center"> <b>Jose Israel Campoverde Gil</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_campoverde.jpg " border=1 height=180 width=180><br /> "Educación" <br /> Escuela Superior Politécnica del Litoral  </td>    
       <td align="center"> <b>Julissa Lizbeth Magallanes Baque</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/julissa_magallanes.jpg " border=1 height=180 width=180><br />  "Crecimiento"  <br /> Universidad Estatal de Milagro </td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Ana Cristina Baca Chupillón </b><br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ana_baca.jpg " border=1 height=180 width=180><br />  "Desarrollo Humano" <br /> Universidad Nacional Pedro Ruiz Gallo </td>    
-      <td align="center"> <b>Angie Belén Agurto Ruiz</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/angie_agurto.jpg " border=1 height=180 width=180><br /> "Violencia"  <br /> Universidad Nacional de Frontera  </td>
     </tr>
     <tr> 
       <td align="center"> <b>Mauro Luis Paucca Quichca</b><br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mauro_paucca.jpg " border=1 height=180 width=180><br />    "Pobreza" <br />  Universidad Nacional de San Cristóbal de Huamanga  </td>
@@ -62,7 +62,13 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
       <td align="center"> <b>Jessenia Elizabeth Albán Anguisaca</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jessenia_alban.jpg " border=1 height=180 width=180><br />  "Crecimiento"  <br /> Universidad de Cuenca en la ciudad de Cuenca </td>
     <tr> 
       <td align="center"> <b>Jose Luis Cortez Flores</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/jose_cortez.jpg " border=1 height=180 width=180><br /> "Cambio climático"   <br /> Universidad Nacional Mayor de San Marcos </td>    
+      <td align="center"> <b>Gabriela Stefany Rocha Galviz </b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/gabriela_rocha.jpg " border=1 height=180 width=180><br />  "Inclusión Financiera"  <br />  Universidad Autónoma Gabriel René Moreno    </td>
     </tr>
+    <tr> 
+      <td align="center"> <b>Geovanna Del Carmen Gonzalez Paredes</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/geovanna_gonzales.jpg " border=1 height=180 width=180><br /> "Desarrollo Humano""<br /> Universidad Nacional De Loja</td>    
+      <td align="center"> <b> Keyla Guadalupe Morales Morales</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/keyla_morales.jpg " border=1 height=180 width=180><br />  "Políticas Monetarias"  <br /> Universidad Autónoma Juan Misael Saracho </td>
+    </tr>
+
 
 
 
