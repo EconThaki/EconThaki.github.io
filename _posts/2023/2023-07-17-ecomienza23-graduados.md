@@ -33,7 +33,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   <tbody>
     <tr>
       <td align="center"> <b>Ana Cristina Baca Chupillón </b><br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/ana_baca.jpg " border=1 height=180 width=180><br />  "Desarrollo Humano" <br /> Universidad Nacional Pedro Ruiz Gallo </td>    
-      <td align="center"> <b>Angie Belén Agurto Ruiz</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/angie_agurto.jpg " border=1 height=180 width=180><br /> "Violencia"  <br /> Universidad Nacional de Frontera  </td>
+      <td align="center"> <b>Angie Belén Agurto Ruiz</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/angie_agurto.jpg " border=1 height=180 width=180><br /> "Violencia de Género"  <br /> Universidad Nacional de Frontera  </td>
     </tr>
     <tr>
       <td align="center"> <strong>Mateo Ignacio Jiménez Calderón</strong> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/egresades/mateo_jimenez.jpg" border=1 height=180 width=180><br /> "Programas sociales" <br/>  Universidad Privada Boliviana
