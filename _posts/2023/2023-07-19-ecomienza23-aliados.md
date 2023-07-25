@@ -3,7 +3,7 @@ layout: post
 title:  "Ecomienza 23': Aliados y Mentores"
 author: econthaki
 categories: [Programas]
-image: assets/images/ecomienza23/aliados23.jpg
+image: assets/images/ecomienza23/aliados_ecomienza23.jpg
 ---
 Con esta página queremos agradecer a todas las instituciones y personas aliadas que permitieron que el programa de Ecomienza 2023 se desarrolle de forma exitosa.
 
@@ -23,8 +23,11 @@ Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada
   </tr>  
   <tr>
     <td align="center">IPA LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/ipalat.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/IPA_LAC"> @IPA_LAC</a> </td>
-    <td align="center">J-PAL LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/jpallat.png" border=1 height=100 width=100><br /><a href="https://twitter.com/JPAL_LAC"> @JPAL_LAC</a> </td>    
+    <td align="center">J-PAL LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/jpallat.png" border=1 height=100 width=100><br /><a href="https://twitter.com/bowen_sebol"> @bowen_sebol</a> </td>    
   </tr>    
+    <tr>
+    <td align="center">BOWEN<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/bowen_logo_bn.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/IPA_LAC"> @IPA_LAC</a> </td> 
+  </tr>   
   <tr>
     <td align="center">Erick Oré <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/erick_ore.jpg" border=1 height=100 width=100><br /><a href="https://pe.linkedin.com/in/erick-oré-420b00b6">@erick-oré</a></td>
     <td align="center">Monika Ávila <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/monika_avila.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/mokametrics">@mokametrics</a></td>
