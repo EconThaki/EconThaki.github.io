@@ -19,22 +19,22 @@ Durante 8 semanas, la cohorte recibió clases sobre teoría económica, aplicada
 
 <table  border="0" bordercolor="gray" align="center" style="width:100%">
   <tr>
-        <th colspan="3">Docente o Institución aliada</th> 
+        <th colspan="2">Docente o Institución aliada</th> 
   </tr>  
   <tr>
     <td align="center">IPA LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/ipalat.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/IPA_LAC"> @IPA_LAC</a> </td>
-    <td align="center">J-PAL LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/jpallat.png" border=1 height=100 width=100><br /><a href="https://twitter.com/bowen_sebol"> @bowen_sebol</a> </td>    
+    <td align="center">J-PAL LAC <br /><img src="{{ site.baseurl }}/assets/images/eco22/jpallat.png" border=1 height=100 width=100><br /><a href="https://twitter.com/JPAL_LAC"> @JPAL_LAC</a> </td>    
   </tr>    
     <tr>
-    <td align="center">BOWEN<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/bowen_logo_bn.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/IPA_LAC"> @IPA_LAC</a> </td> 
+    <td align="center">BOWEN<br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/bowen_logo_bn.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/bowen_sebol"> @bowen_sebol</a> </td> 
   </tr>   
   <tr>
-    <td align="center">Erick Oré <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/erick_ore.jpg" border=1 height=100 width=100><br /><a href="https://pe.linkedin.com/in/erick-oré-420b00b6">@erick-oré</a></td>
-    <td align="center">Monika Ávila <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/monika_avila.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/mokametrics">@mokametrics</a></td>
+    <td align="center"> <b>Erick Oré</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/erick_ore.jpg" border=1 height=100 width=100><br /><a href="https://pe.linkedin.com/in/erick-oré-420b00b6">@erick-oré</a></td>
+    <td align="center"><b>Monika Ávila</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/monika_avila.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/mokametrics">@mokametrics</a></td>
   </tr>
   <tr>
-    <td align="center">Sebastian Tello-Trillo <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/sebast.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
-    <td align="center">Manuela Puente-Beccar <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente.jpg" border=1 height=100 width=100><br /> <a href="https://twitter.com/ManuelaPuenteB">@ManuelaPuenteB</a></td>
+    <td align="center"><b>Sebastian Tello-Trillo</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/sebast.jpg" border=1 height=100 width=100><br /><a href="https://twitter.com/dsebastiantello">@dsebastiantello</a></td>
+    <td align="center"> <b>Manuela Puente-Beccar</b> <br /><img src="{{ site.baseurl }}/assets/images/ecomienza23/manuela_puente.jpg" border=1 height=100 width=100><br /> <a href="https://twitter.com/ManuelaPuenteB">@ManuelaPuenteB</a></td>
   </tr>  
 </table>
 
