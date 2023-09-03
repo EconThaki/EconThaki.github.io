@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista Hugo Jales, quien es Profesor Asociado en la Universidad de Syracus. El profesor Jales estudió el pregrado en Economía en la Universidad Federal de Minas Gerais y la Maestría en Economía en la Fundación Getulio Vargas ambas en Brasil. Seguidamente, estudió el Doctorado en Economía en la University of British Columbia (UBC). Sus temas de interés en investigación son la Economía Laboral y la Econometría.
+En esta edición de Voces, entrevistamos al economista Hugo Jales, quien es Profesor Asociado en la Universidad de Syracuse. El profesor Jales estudió el pregrado en Economía en la Universidad Federal de Minas Gerais y la Maestría en Economía en la Fundación Getulio Vargas ambas en Brasil. Seguidamente, estudió el Doctorado en Economía en la University of British Columbia (UBC). Sus temas de interés en investigación son la Economía Laboral y la Econometría.
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
 </div>
@@ -103,13 +103,13 @@ Eso es sólo el comienzo. Las habilidades técnicas son una condición necesaria
 </font>
 </div>
 
-A continuación, es fundamental contar con una buena cantidad de habilidades prácticas, de gestión de proyectos y de gestión del tiempo. Puedes ser brillante, pero no lo lograrás si no puedes terminar los trabajos. Por lo tanto, es necesario tener bastante sentido común. Saber en qué proyectos trabajar (esto es mucho más complicado que simplemente trabajar en tu mejor proyecto; puede ser trabajar en el que está más cerca de completarse; puede depender de los cronogramas de sus coautores, etc.). También es bueno desarrollar el sentido del gusto, como ocurre con los conocedores del vino, para los papers. Intenta adivinar dónde se publicará un documento de trabajo antes de que lo haga. Si puede pronosticar con cierta precisión dónde aterrizará un documento, entonces estarás capacitado para juzgar la probabilidad de éxito de sus proyectos, lo cual es una habilidad muy importante al comenzar.
+A continuación, es fundamental contar con una buena cantidad de habilidades prácticas, de gestión de proyectos y de gestión del tiempo. Puedes ser brillante, pero no lo lograrás si no puedes terminar los trabajos. Por lo tanto, es necesario tener bastante sentido común. Saber en qué proyectos trabajar (esto es mucho más complicado que simplemente trabajar en tu mejor proyecto; puede ser trabajar en el que está más cerca de completarse; puede depender de los cronogramas de sus coautores, etc.). También es bueno desarrollar el sentido del gusto, como ocurre con los conocedores del vino, para los papers. Intenta adivinar dónde se publicará un documento de trabajo antes de que lo hagas. Si puedes pronosticar con cierta precisión dónde aterrizará un documento, entonces estarás capacitado para juzgar la probabilidad de éxito de sus proyectos, lo cual es una habilidad muy importante al comenzar.
 
-Una habilidad relacionada es la capacidad de juzgar el tiempo que llevará completar ciertos proyectos. Tener una buena idea de ello le permitirá navegar mejor por las compensaciones asociadas con su investigación y su tiempo. Es un buen ejercicio anotar cuánto tiempo llevará cada paso de su proyecto y revisar estas notas una vez finalizado el proyecto para desarrollar una sensación de complejidad del proyecto que pueda utilizar para administrar su tiempo en el futuro.
+Una habilidad relacionada es la capacidad de juzgar el tiempo que llevará completar ciertos proyectos. Tener una buena idea de ello te permitirá navegar mejor por las compensaciones asociadas con tu investigación y tu tiempo. Es un buen ejercicio anotar cuánto tiempo llevará cada paso de tu proyecto y revisar estas notas una vez finalizado el proyecto para desarrollar una sensación de complejidad del proyecto que puedas utilizar para administrar tu tiempo en el futuro.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< [...] la capacidad de juzgar el tiempo que llevará completar ciertos proyectos. Tener una buena idea de ello le permitirá navegar mejor por las compensaciones asociadas con su investigación y su tiempo. >>
+<< [...] [Desarrollar] la capacidad de juzgar el tiempo que llevará completar ciertos proyectos. Tener una buena idea de ello te permitirá navegar mejor por las compensaciones asociadas con tu investigación y tu tiempo. >>
 </font>
 </div>
 
@@ -139,7 +139,7 @@ En cierto modo, trato de hacer investigaciones que me gustaría leer. Es decir, 
 </font>
 </div>
   
-Más concretamente, actualmente estoy trabajando en un proyecto sobre los efectos del salario mínimo en los países en desarrollo a la luz de un modelo de negociación Roy. Esta es una versión mucho más estructural del trabajo que hice en mi doctorado. tesis. También estoy trabajando en estimar la distribución de la disposición a tener hijos en función de la variación inducida por los pagos a las madres en Corea (un programa de “bonos para bebés”). También estoy trabajando para medir los retornos del empleo en el sector público mediante un enfoque de preferencia revelada (midiendo las inversiones que los trabajadores están dispuestos a hacer tanto en tiempo como en dinero para acceder a estas carreras). Todos estos artículos tienen una parte empírica, pero está estrechamente relacionada con un modelo de comportamiento económico.
+Más concretamente, actualmente estoy trabajando en un proyecto sobre los efectos del salario mínimo en los países en desarrollo a la luz de un modelo de negociación Roy. Esta es una versión mucho más estructural del trabajo que hice en mi tesis del doctorado. También estoy trabajando en estimar la distribución de la disposición a tener hijos en función de la variación inducida por los pagos a las madres en Corea (un programa de “bonos para bebés”). También estoy trabajando para medir los retornos del empleo en el sector público mediante un enfoque de preferencia revelada (midiendo las inversiones que los trabajadores están dispuestos a hacer tanto en tiempo como en dinero para acceder a estas carreras). Todos estos artículos tienen una parte empírica, pero está estrechamente relacionada con un modelo de comportamiento económico.
 
 <br>
   
