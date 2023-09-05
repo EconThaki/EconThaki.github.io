@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista Hugo Jales, quien es Profesor Asociado en la Universidad de Syracuse. El profesor Jales estudió el pregrado en Economía en la Universidad Federal de Minas Gerais y la Maestría en Economía en la Fundación Getulio Vargas ambas en Brasil. Seguidamente, estudió el Doctorado en Economía en la University of British Columbia (UBC). Sus temas de interés en investigación son la Economía Laboral y la Econometría.
+En esta edición de Voces, entrevistamos al economista Hugo Jales, quien es Profesor Asociado en la Universidad de Syracuse. El profesor Jales estudió el pregrado en Economía en la Universidad Federal de Minas Gerais y la Maestría en Economía en la Fundación Getulio Vargas ambas en Brasil. Seguidamente, estudió el Doctorado en Economía en la Universidad de Columbia Británica (UBC). Sus temas de interés en investigación son la Economía Laboral y la Econometría.
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
 </div>
