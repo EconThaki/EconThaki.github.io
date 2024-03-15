@@ -28,7 +28,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
         <th colspan="2"> Aliados </th> 
 </tr>  
 <tr>
-    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/aliados-ecomentoria-2023.jpeg.jpeg" border=1 height=200 width=200> </td>    
+    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/aliados-ecomentoria-2023.jpeg" border=1 height=200 width=200> </td>    
  
 </tr>
 
