@@ -25,10 +25,10 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 <table  border="1" bordercolor="white" align="center" style="width:100%">
 <tr>
-        <th colspan="2"> Aliados </th> 
+        <th colspan="1"> Aliados </th> 
 </tr>  
 <tr>
-    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/aliados-ecomentoria-2023.jpeg" border=1 height=200 width=200> </td>    
+    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/aliados-ecomentoria-2023.jpeg"  align="center" border=1 height=300 width=300> </td>    
  
 </tr>
 
