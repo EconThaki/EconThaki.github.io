@@ -59,15 +59,15 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     <td> Tania Guerra <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/tania_guerra.JPG  " align="center" border=0 height=180 width=180> <br />  Universität Mannheim <br /> Asesorados(as): Karina Trelles Estrella</td> 
 </tr>
    
-<table  border="0" border-style="none" align="center" style="width:100%">
+<table  border="0" border-style="none" align="center" style="width:120%">
 <tr>
-        <th colspan="2"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
+        <th colspan="1"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
 </tr>  
 <tr>
-    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/Inicio_Clases_LSE.jpeg" align="center" border=0 height=300 width=300> </td>
+    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/Inicio_Clases_LSE.jpeg" align=center border=0 height=400 width=400> </td>
 </tr>    
 <tr>
-    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/Fin_Clases_LSE1.png" align="center" border=0 height=300 width=300> <br /> </td>    
+    <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/Fin_Clases_LSE1.png" align=center border=0 height=400 width=400> <br /> </td>    
 </tr>    
 
    
