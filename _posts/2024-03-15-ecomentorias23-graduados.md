@@ -39,24 +39,24 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 </tr>  
 <tr>
  	<td> <b>Carmen Armas</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/carmen_armas.jpg " align="center" border=0 height=180 width=180> <br /> University of Minnesota <br /> Asesorados(as): Angie Agurto Ruiz </td>    
-    <td> Cesar Urquizo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/cesar_urquizo.jpg  " align="center" border=0 height=180 width=180> <br /> University of Pennsylvania <br /> Asesorados(as): Julissa Magallanes Baque </td>    
+    <td> <b>Cesar Urquizo</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/cesar_urquizo.jpg  " align="center" border=0 height=180 width=180> <br /> University of Pennsylvania <br /> Asesorados(as): Julissa Magallanes Baque </td>    
 </tr>
 <tr>
-    <td> Dafne Murillo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/dafne_murillo.jpg  " align="center" border=0 height=180 width=180> <br /> Columbia University <br /> Asesorados(as): Ashley Ccanto Urbano</td>    
-    <td> David Ontaneda <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/david_otaneda.jpg  " align="center" border=0 height=180 width=180> <br /> University of Michigan <br /> Asesorados(as): Jose Campoverde Gil</td> 
+    <td> <b>Dafne Murillo</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/dafne_murillo.jpg  " align="center" border=0 height=180 width=180> <br /> Columbia University <br /> Asesorados(as): Ashley Ccanto Urbano</td>    
+    <td> <b>David Ontaneda</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/david_otaneda.jpg  " align="center" border=0 height=180 width=180> <br /> University of Michigan <br /> Asesorados(as): Jose Campoverde Gil</td> 
 </tr>
 
 <tr>
-    <td> Juan Hernandez Leal <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/juan_hernandez.JPG  " align="center" border=0 height=180 width=180> <br /> UC San Diego <br /> Asesorados(as): Valeria  Murillo Mendieta</td>    
-    <td> Marcelo Garnier Mita <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/marcelo_gantier.jpeg  " align="center" border=0 height=180 width=180> <br /> Paris School of Economics <br /> Asesorados(as): Mateo Jiménez Calderón</td> 
+    <td> <b>Juan Hernandez Leal</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/juan_hernandez.JPG  " align="center" border=0 height=180 width=180> <br /> UC San Diego <br /> Asesorados(as): Valeria  Murillo Mendieta</td>    
+    <td> <b>Marcelo Garnier Mita</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/marcelo_gantier.jpeg  " align="center" border=0 height=180 width=180> <br /> Paris School of Economics <br /> Asesorados(as): Mateo Jiménez Calderón</td> 
 </tr>
 <tr>
-    <td> Gabriella Wong <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/gabriella_wong.jpg  " align="center" border=0 height=180 width=180> <br /> UC San Diego <br /> Asesorados(as): Gianella Martínez Mena</td>    
-    <td> Hector Paredes <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/hector_paredes.jpg  " align="center" border=0 height=180 width=180> <br />  Paris School of Economics <br /> Asesorados(as): Teresa Paredes Quiroz </td> 
+    <td> <b>Gabriella Wong</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/gabriella_wong.jpg  " align="center" border=0 height=180 width=180> <br /> UC San Diego <br /> Asesorados(as): Gianella Martínez Mena</td>    
+    <td> <b>Hector Paredes</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/hector_paredes.jpg  " align="center" border=0 height=180 width=180> <br />  Paris School of Economics <br /> Asesorados(as): Teresa Paredes Quiroz </td> 
 </tr>
 <tr>
-    <td> Paul Corcuera <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/paul_corcuera.jpg  " align="center" border=0 height=180 width=180> <br /> University of British Columbia  <br /> Asesorados(as): Antony Ore Barra </td>    
-    <td> Tania Guerra <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/tania_guerra.JPG  " align="center" border=0 height=180 width=180> <br />  Universität Mannheim <br /> Asesorados(as): Karina Trelles Estrella</td> 
+    <td> <b>Paul Corcuera</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/paul_corcuera.jpg  " align="center" border=0 height=180 width=180> <br /> University of British Columbia  <br /> Asesorados(as): Antony Ore Barra </td>    
+    <td> <b>Tania Guerra</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/tania_guerra.JPG  " align="center" border=0 height=180 width=180> <br />  Universität Mannheim <br /> Asesorados(as): Karina Trelles Estrella</td> 
 </tr>
    
 <table  border="0" border-style="none" align="center" style="width:150%">
