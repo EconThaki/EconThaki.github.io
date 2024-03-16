@@ -23,7 +23,7 @@ Todos los admitidos al programa fueron beneficiarios de clases informativas y de
 
 Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron voluntarios de distintos programas de doctorados. Es así que pudieron ejecutar sus ideas en forma de propuestas de investigación que presentaron el último día de clases. 
 
-<table  border="1" bordercolor="white" align="center" style="width:100%">
+<table  border="0"  border-style="none" align="center" style="width:100%">
 <tr>
         <th colspan="1"> Aliados </th> 
 </tr>  
@@ -33,7 +33,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 </tr>
 
 
-<table  border="1" bordercolor="white" align="center" style="width:100%">
+<table  border="0" border-style="none" align="center" style="width:100%">
 <tr>
         <th colspan="2"> Mentores  </th> 
 </tr>  
@@ -59,7 +59,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     <td> Tania Guerra <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/tania_guerra.JPG  " border=1 height=180 width=180> <br />  Universität Mannheim <br /> Asesorados(as): Karina Trelles Estrella</td> 
 </tr>
    
-<table  border="1" bordercolor="white" align="center" style="width:100%">
+<table  border="0" border-style="none" align="center" style="width:100%">
 <tr>
         <th colspan="2"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
 </tr>  
