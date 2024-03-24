@@ -35,9 +35,7 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
 
 <tr>
     <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/aliados-ecomentoria-2023.jpeg"  align="center" border=0 height=300 width=300> </td>    
- 
 </tr>
-
 
 <table  border="0" border-style="none" align="center" style="width:100%">
 <tr>
@@ -65,11 +63,12 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
     <td> <b>Tania Guerra</b> <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/mentores/tania_guerra.JPG  " align="center" border=0 height=180 width=180> <br />  Universität Mannheim <br /> Asesorados(as): Karina Trelles Estrella</td> 
 </tr>
    
-<table  border="0" border-style="none" align="center" style="width:150%">
+<table  border="0" border-style="none" align="center" style="width:100%">
 <tr>
         <th colspan="1"> Graduad@s de la cohorte 2023" </th> 
 </tr>  
 <tr>
+    <td> 
     <li>Angie Agurto Ruiz</li>
     <li>Ashley Ccanto Urbano</li>
     <li>Gianella Martínez Mena</li>
@@ -80,10 +79,10 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
     <li>Valeria Murillo Mendieta</li>
     <li>Antony Ore Barra </li>
     <li>Julissa Magallanes Baque </li>
+    </td>
 </tr>  
 
 <table  border="0" border-style="none" align="center" style="width:150%">
-
 <tr>
         <th colspan="1"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
 </tr>  
@@ -94,8 +93,9 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
     <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/Fin_Clases_LSE1.png" align=center border=0 height=400 width=400> <br /> </td>    
 </tr>    
 
---
-   
+
+**Links adicionales**
+
 - Ecomienza 2023 [Link] (https://econthaki.github.io/programas/2023/07/17/ecomienza23-graduados.html)
    
 
