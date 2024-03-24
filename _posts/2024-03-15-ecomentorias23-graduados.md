@@ -67,7 +67,7 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
    
 <table  border="0" border-style="none" align="center" style="width:100%">
 <tr>
-        <th colspan="1"> Graduad@s de la cohorte 2023" </th> 
+        <th colspan="1"> Graduad@s de la cohorte 2023 </th> 
 </tr>  
 <tr>
     <td> 
