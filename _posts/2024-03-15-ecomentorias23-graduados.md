@@ -14,7 +14,7 @@ En este post queremos felicitar a todos nuestr@s alumn@s que participaron activa
 **Mentorias**
 
 EEl programa tiene como objetivo acompañar a las participantes en el desarrollo de una investigación (p.e, tesis de pregrado o licenciatura, o proyecto independiente) y proveer a l@s participantes consejos sobre las diferentes trayectorias académicas y profesionales para desarrollarse en el camino hacia la investigación a través de interacciones cercanas con mentor@s junior. Participaron estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades en Peru, Bolivia y Ecuador. Al finalizar presentaron sus propuestas de investigación frente a investigadores del seminario MAP y asistieron al curso de verano LimaSE.
-L@s participantes primero participaron del programa de formación Ecomienza 2023 (link al final de ecomienza)
+L@s participantes primero participaron del programa de formación Ecomienza 2023
 
 
 **Graduad@s de la cohorte 2023**
@@ -69,16 +69,19 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
 <tr>
         <th colspan="1"> Mentees 2023" </th> 
 </tr>  
-<li>Angie Agurto Ruiz</li>
-<li>Ashley Ccanto Urbano</li>
-Gianella Martínez Mena
-Jose Campoverde Gil
-Karina Trelles Estrella
-Mateo Jiménez Calderón
-Teresa Paredes Quiroz 
-Valeria Murillo Mendieta
-Antony Ore Barra 
-Julissa Magallanes Baque 
+<tr>
+    <li>Angie Agurto Ruiz</li>
+    <li>Ashley Ccanto Urbano</li>
+    <li>Gianella Martínez Mena</li>
+    <li>Jose Campoverde Gil</li>
+    <li>Karina Trelles Estrella</li>
+    <li>Mateo Jiménez Calderón</li>
+    <li>Teresa Paredes Quiroz</li> 
+    <li>Valeria Murillo Mendieta</li>
+    <li>Antony Ore Barra </li>
+    <li>Julissa Magallanes Baque </li>
+</tr>  
+
 <tr>
         <th colspan="1"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
 </tr>  
@@ -90,7 +93,7 @@ Julissa Magallanes Baque
 </tr>    
 
    
-
+- [Ecomienza 2023] (https://econthaki.github.io/programas/2023/07/17/ecomienza23-graduados.html)
    
 
    
