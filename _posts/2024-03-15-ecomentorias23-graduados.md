@@ -67,7 +67,7 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
    
 <table  border="0" border-style="none" align="center" style="width:150%">
 <tr>
-        <th colspan="1"> Mentees 2023" </th> 
+        <th colspan="1"> Graduad@s de la cohorte 2023" </th> 
 </tr>  
 <tr>
     <li>Angie Agurto Ruiz</li>
@@ -82,6 +82,8 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
     <li>Julissa Magallanes Baque </li>
 </tr>  
 
+<table  border="0" border-style="none" align="center" style="width:150%">
+
 <tr>
         <th colspan="1"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
 </tr>  
@@ -92,8 +94,9 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
     <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/Fin_Clases_LSE1.png" align=center border=0 height=400 width=400> <br /> </td>    
 </tr>    
 
+--
    
-- [Ecomienza 2023] (https://econthaki.github.io/programas/2023/07/17/ecomienza23-graduados.html)
+- Ecomienza 2023 [Link] (https://econthaki.github.io/programas/2023/07/17/ecomienza23-graduados.html)
    
 
    
