@@ -99,7 +99,7 @@ Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel
 
 **Links adicionales**
 
-- Ecomienza 2023 [Link] (https://econthaki.github.io/programas/2023/07/17/ecomienza23-graduados.html)
+- [Ecomienza 2023:](https://econthaki.github.io/programas/2023/07/17/ecomienza23-graduados.html)
    
 
    
