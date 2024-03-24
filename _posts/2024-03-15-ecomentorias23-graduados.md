@@ -13,9 +13,9 @@ En este post queremos felicitar a todos nuestr@s alumn@s que participaron activa
 
 **Mentorias**
 
-Es un programa de formación que tuvo como objetivos dotar de herramientas básicas de investigación aplicada a estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades en Peru, Bolivia y Ecuador. 
+EEl programa tiene como objetivo acompañar a las participantes en el desarrollo de una investigación (p.e, tesis de pregrado o licenciatura, o proyecto independiente) y proveer a l@s participantes consejos sobre las diferentes trayectorias académicas y profesionales para desarrollarse en el camino hacia la investigación a través de interacciones cercanas con mentor@s junior. Participaron estudiantes de últimos ciclos y recién egresadas de carreras de economía y relacionadas de universidades en Peru, Bolivia y Ecuador. Al finalizar presentaron sus propuestas de investigación frente a investigadores del seminario MAP y asistieron al curso de verano LimaSE.
+L@s participantes primero participaron del programa de formación Ecomienza 2023 (link al final de ecomienza)
 
-La convocatoria fue exitosa y pudimos conectar con alumn@s de distintas partes del Perú, Ecuador y Bolivia.
 
 **Graduad@s de la cohorte 2023**
 
@@ -27,6 +27,12 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 <tr>
         <th colspan="1"> Aliados </th> 
 </tr>  
+<tr>
+Gracias a investigadores del Seminario MAP: Sebastian Sotelo, Seba, Miguel Angel Carpio, Stanislao Maldonado. 
+</tr> 
+<tr>Gracias a todos los donantes de la campaña del GoFundMe que hicieron posible cubrir los costos de la estancia de mentees en Lima, Perú. 
+</tr> 
+
 <tr>
     <td>  <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos23/aliados-ecomentoria-2023.jpeg"  align="center" border=0 height=300 width=300> </td>    
  
@@ -60,6 +66,19 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 </tr>
    
 <table  border="0" border-style="none" align="center" style="width:150%">
+<tr>
+        <th colspan="1"> Mentees 2023" </th> 
+</tr>  
+<li>Angie Agurto Ruiz</li>
+<li>Ashley Ccanto Urbano</li>
+Gianella Martínez Mena
+Jose Campoverde Gil
+Karina Trelles Estrella
+Mateo Jiménez Calderón
+Teresa Paredes Quiroz 
+Valeria Murillo Mendieta
+Antony Ore Barra 
+Julissa Magallanes Baque 
 <tr>
         <th colspan="1"> Mentees durante su participacion en "Lima '24 Summer School in Economics" </th> 
 </tr>  
