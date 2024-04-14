@@ -156,7 +156,7 @@ Que probablemente no vas a ser la única persona en tu cohorte a la que le cuest
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< probablemente no vas a ser la única persona en tu cohorte a la que le cueste algo, y que no hay que ser bueno en todo para que te vaya bien. La academia ha estado convirtiéndose en un trabajo de equipo con el pasar del tiempo... >>
+<< La academia ha estado convirtiéndose en un trabajo de equipo con el pasar del tiempo, entonces no hay que estresarse mucho si uno es muy bueno en algo pero le cuestan otras cosas. >>
 </font>
 </div>
 <br>
