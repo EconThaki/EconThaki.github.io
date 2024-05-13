@@ -5,6 +5,8 @@ author: econthaki
 categories: [Programas]
 image: assets/images/mentorias/mentorias_logo.png
 ---
+
+
 En este post queremos felicitar a todos nuestr@s alumn@s que participaron activamente en el programa de Mentorias y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
 
 **Mentorias**
