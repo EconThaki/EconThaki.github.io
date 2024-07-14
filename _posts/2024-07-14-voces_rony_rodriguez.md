@@ -216,11 +216,11 @@ Si pudiera implementar un cambio en la academia latinoamericana, sería mejorar 
 
 A los jóvenes de América Latina y el Caribe (LAC), y especialmente de Centroamérica, que desean dedicarse a la investigación, les daría varios consejos importantes.
 
-Primero, es crucial buscar mentores y construir redes de apoyo. La combinación de experiencia práctica e investigación, junto con un fuerte respaldo de mentores, puede ser decisiva. Es más fácil hacer investigación y seguir los procesos de postulación con amigos.
+Primero, es crucial **buscar mentores y construir redes de apoyo**. La combinación de experiencia práctica e investigación, junto con un fuerte respaldo de mentores, puede ser decisiva. Es más fácil hacer investigación y seguir los procesos de postulación con amigos.
 
-La preparación y la planificación son esenciales. Muchos estudiantes de Latinoamérica no saben exactamente qué camino tomar ni cómo prepararse para las aplicaciones a programas de posgrado, incluido yo cuando comencé este proceso. Es importante prepararse con anticipación. Aprende sobre el proceso de aplicación, lo que buscan las universidades en los candidatos, y cómo escribir propuestas de investigación atractivas. Comenzá a buscar posibles recomendadores y asegúrate de que te conozcan bien y puedan hablar de tus habilidades y logros.
+La **preparación y la planificación son esenciales**. Muchos estudiantes de Latinoamérica no saben exactamente qué camino tomar ni cómo prepararse para las aplicaciones a programas de posgrado, incluido yo cuando comencé este proceso. Es importante prepararse con anticipación. Aprende sobre el proceso de aplicación, lo que buscan las universidades en los candidatos, y cómo escribir propuestas de investigación atractivas. Comenzá a buscar posibles recomendadores y asegúrate de que te conozcan bien y puedan hablar de tus habilidades y logros.
 
-Construir una red de contactos. Aplica a las oportunidades para trabajar con instituciones nacionales o internacionales y expandir tu visión. Hay muchas personas en estos espacios con intereses similares a los nuestros. Cold emails son más común de lo que creemos. A veces, a través de esta vía pueden salir buenas colaboraciones. Muchas personas, incluyéndome, estamos dispuestos a dar consejos a las personas que nos escriben.  Por otro lado, la falta de cultura de mentoría académica y la escasa comunicación entre universidades en muchos países de Centroamérica dificultan que los estudiantes conozcan y sigan la trayectoria adecuada para sus aspiraciones. Si tienen la oportunidad de participar en conferencias, seminarios y eventos académicos para establecer contactos y aprender de otros investigadores, háganlo. 
+Construir una **red de contactos**. Aplica a las oportunidades para trabajar con instituciones nacionales o internacionales y expandir tu visión. Hay muchas personas en estos espacios con intereses similares a los nuestros. Cold emails son más común de lo que creemos. A veces, a través de esta vía pueden salir buenas colaboraciones. Muchas personas, incluyéndome, estamos dispuestos a dar consejos a las personas que nos escriben.  Por otro lado, la falta de cultura de mentoría académica y la escasa comunicación entre universidades en muchos países de Centroamérica dificultan que los estudiantes conozcan y sigan la trayectoria adecuada para sus aspiraciones. Si tienen la oportunidad de participar en conferencias, seminarios y eventos académicos para establecer contactos y aprender de otros investigadores, háganlo. 
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -228,7 +228,7 @@ Construir una red de contactos. Aplica a las oportunidades para trabajar con ins
 </font>
 </div>
   
-Por último, la persistencia y la resiliencia son claves. No te desanimés por las barreras que podés encontrar. La falta de información y oportunidades puede ser un obstáculo. Buscá becas, programas de intercambio y cualquier oportunidad que pueda abrirte puertas. EconThaki tiene bastante información que es de mucha utilidad para aplicantes. Después de todo, se pierde el 100% de los tiros que no se toman.
+Por último, **la persistencia y la resiliencia son claves**. No te desanimés por las barreras que podés encontrar. La falta de información y oportunidades puede ser un obstáculo. Buscá becas, programas de intercambio y cualquier oportunidad que pueda abrirte puertas. EconThaki tiene bastante información que es de mucha utilidad para aplicantes. Después de todo, se pierde el 100% de los tiros que no se toman.
   
 <br>
 
@@ -242,5 +242,5 @@ Le agradecemos cordialmente a Rony por esta entrevista.  Si te sentiste identifi
 
 - Correo electrónico: [rrodriguezramirez@g.harvard.edu](rrodriguezramirez@g.harvard.edu)
 - Twitter: [@RRMaximiliano](https://twitter.com/RRMaximiliano)
-- 
+
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
