@@ -22,9 +22,9 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 <div class = "teal">
 En esta edición de Voces, entrevistamos al economista nicaragüense Rony Rodrigo Maximiliano Rodriguez Ramirez, quien es estudiante de Doctorado en Evaluación de Políticas y Programas Educativos en la Universidad de Harvard. Juan estudió el Pregrado en Economía Aplicada en la Universidad Centroamericana en Nicaragua y la Maestría en Política de Desarrollo en la Escuela KDI de Políticas y Gestión Pública en Corea del Sur. Sus temas de interés en investigación son Economía del Desarrollo, Educación, Evaluaciones de Impacto y Conflictos.
 
-Esperamos les guste esta entrevista y se inspiren con su historia.
-
 </div>
+
+Esperamos les guste esta entrevista y se inspiren con su historia.
 
 <br>
 <div class = "teal">
@@ -229,14 +229,6 @@ Construir una red de contactos. Aplica a las oportunidades para trabajar con ins
 </div>
   
 Por último, la persistencia y la resiliencia son claves. No te desanimés por las barreras que podés encontrar. La falta de información y oportunidades puede ser un obstáculo. Buscá becas, programas de intercambio y cualquier oportunidad que pueda abrirte puertas. EconThaki tiene bastante información que es de mucha utilidad para aplicantes. Después de todo, se pierde el 100% de los tiros que no se toman.
-
-
-
-<div style="text-align: right"> 
-<font size = '6'>
-<< En Colombia, por ejemplo, es posible aplicar a becas de organizaciones como Colfuturo, Fulbright, las cuales ofrecen financiamiento para realizar estudios en el exterior.>>
-</font>
-</div>
   
 <br>
 
@@ -244,12 +236,11 @@ Por último, la persistencia y la resiliencia son claves. No te desanimés por l
 
 <div class = "teal">
   
-Le agradecemos cordialmente a Juan David por esta entrevista.  Si te sentiste identificadx con la experiencia de Juan David o deseas contactarlo, puedes hacerlo a través de:
+Le agradecemos cordialmente a Rony por esta entrevista.  Si te sentiste identificadx su experiencia o deseas contactarlo, puedes hacerlo a través de:
 
 </div>
 
-- Correo electrónico: [jhernandezleal@ucsd.edu](jhernandezleal@ucsd.edu)
-- Twitter: [@jtothedhdezl](https://twitter.com/jtothedhdezl)
-- LinkedIn: [Juan David Hernández Leal](https://www.linkedin.com/in/juandhernandezl)
-
+- Correo electrónico: [rrodriguezramirez@g.harvard.edu](rrodriguezramirez@g.harvard.edu)
+- Twitter: [@RRMaximiliano](https://twitter.com/RRMaximiliano)
+- 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
