@@ -4,7 +4,7 @@ title: Voces - Rony Rodrigo Maximiliano Rodriguez Ramirez
 date: "July 2024"
 author: econthaki
 categories: [voces]
-image: assets/images/voces/rony.jpg
+image: assets/images/voces/rony.jpeg
 output:
   prettydoc::html_pretty:
     theme: hpstr
