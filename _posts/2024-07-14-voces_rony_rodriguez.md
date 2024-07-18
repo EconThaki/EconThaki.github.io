@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista nicaragüense Rony Rodrigo Maximiliano Rodriguez Ramirez, quien es estudiante del Doctorado en Evaluación de Políticas y Programas Educativos en la Universidad de Harvard. Juan estudió el Pregrado en Economía Aplicada en la Universidad Centroamericana en Nicaragua y la Maestría en Política de Desarrollo en la Escuela KDI de Políticas y Gestión Pública en Corea del Sur. Sus temas de interés en investigación son Economía del Desarrollo, Educación, Evaluaciones de Impacto y Conflictos.
+En esta edición de Voces, entrevistamos al economista nicaragüense Rony Rodrigo Maximiliano Rodriguez Ramirez, quien es estudiante del Doctorado en Evaluación de Políticas y Programas Educativos en la Universidad de Harvard. Rony estudió el Pregrado en Economía Aplicada en la Universidad Centroamericana en Nicaragua y la Maestría en Política de Desarrollo en la Escuela KDI de Políticas y Gestión Pública en Corea del Sur. Sus temas de interés en investigación son Economía del Desarrollo, Educación, Evaluaciones de Impacto y Conflictos.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
