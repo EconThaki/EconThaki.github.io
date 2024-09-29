@@ -13,14 +13,14 @@ output:
     
 ---
 
-Entrevista a Agostina Brinatti, investigadora Posdoctoral en la Universidad de Yale.
+Entrevista a Agostina Brinatti, investigadora posdoctoral en la Universidad de Yale.
 
 <style>
 div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista argentina Agostina Brinatti, quien mantiene una posición de posdoctorado en la Universidad de Yale. Agostina estudió el Pregrado en Economía en la Universidad Nacional del Córdoba, en Argetina. Seguidamente, estudió la maestría en Economía en el Centro de Centro de Estudios Monetarios y Financieros (CEMFI). Sus temas de interés en investigación son el Comercio Internacional, Migración y Macroeconomía
+En esta edición de Voces, entrevistamos a la economista argentina Agostina Brinatti, quien realiza un posdoctorado en la Universidad de Yale. Agostina estudió el Pregrado en Economía en la Universidad Nacional del Córdoba, en Argetina. Seguidamente, estudió la maestría en Economía en el Centro de Centro de Estudios Monetarios y Financieros (CEMFI). Sus temas de interés en investigación son el Comercio Internacional, Migración y Macroeconomía
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
@@ -220,7 +220,7 @@ A los estudiantes de Latinoamérica que quieren dedicarse a la investigación le
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< ... que se enfoquen en desarrollar una base sólida de habilidades metodológicas y cuantitativas desde temprano en sus estudios porque esto es clave para competir a nivel internacional.>>
+<<[A los estudiantes]...  que se enfoquen en desarrollar una base sólida de habilidades metodológicas y cuantitativas desde temprano en sus estudios porque esto es clave para competir a nivel internacional.>>
 </font>
 </div>
 
@@ -231,7 +231,7 @@ También les recordaría que la perseverancia es clave. La investigación es un 
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Mantener la motivación y seguir adelante, a pesar de los desafíos,  creo que es esencial para construir una carrera exitosa en la academia.>>
+<< Mantener la motivación y seguir adelante, a pesar de los desafíos, creo que es esencial para construir una carrera exitosa en la academia.>>
 </font>
 </div>
 
