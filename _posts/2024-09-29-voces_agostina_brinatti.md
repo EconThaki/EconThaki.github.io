@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista argentina Agostina Brinatti, quien realiza un posdoctorado en la Universidad de Yale. Agostina estudió el Pregrado en Economía en la Universidad Nacional del Córdoba, en Argetina. Seguidamente, estudió la maestría en Economía en el Centro de Centro de Estudios Monetarios y Financieros (CEMFI). Sus temas de interés en investigación son el Comercio Internacional, Migración y Macroeconomía
+En esta edición de Voces, entrevistamos a la economista argentina Agostina Brinatti, quien realiza un posdoctorado en la Universidad de Yale. Agostina estudió el Pregrado en Economía en la Universidad Nacional del Córdoba, en Argetina. Seguidamente, estudió la maestría en Economía en el Centro de Centro de Estudios Monetarios y Financieros (CEMFI). Sus temas de interés en investigación son el Comercio Internacional, Migración y Macroeconomía.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
@@ -110,7 +110,7 @@ Mis advisors, especialmente Javier Cravino, Andrei Levchenko y Treb Allen, me en
 Desde mi punto de vista, una competencia útil para la investigación es la perseverancia y dos prácticas saludables y productivas es no compararse con otros estudiantes/colegas, y no tomar los comentarios, hechos y resultados como algo personal. 
 <div style="text-align: right"> 
 <font size = '6'>
-<< ... una competencia útil para la investigación es la perseverancia y dos prácticas saludables y productivas es no compararse con otros estudiantes/colegas, y no tomar los comentarios, hechos y resultados como algo personal. >>
+<< ... una competencia útil para la investigación es la perseverancia y dos prácticas saludables y productivas es no compararse con otros estudiantes/colegas, y no tomar los comentarios, hechos y resultados como algo personal.>>
 </font>
 </div>
 <br>
