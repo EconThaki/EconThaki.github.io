@@ -122,29 +122,14 @@ Desde mi punto de vista, una competencia útil para la investigación es la pers
 </div>
 
 Mi investigación se centra en la intersección de comercio internacional y la migración. En mi investigación actual, exploro como comercio internacional e immigracion afectan bienestar y la producción en una economía globalizada como la de hoy en dia.
-Recientemente he estado trabajando principalmente en mi job market paper titulado 'Third-Country Effects of U.S. Immigration Policy'. En este paper, estudiamos el impacto de las restricciones migratorias implementadas en 2017 en Estados Unidos durante el mandato del Presidente Donald Trump en la economía de Estados Unidos y Canadá.
+Recientemente he estado trabajando principalmente en mi job market paper titulado '*Third-Country Effects of U.S. Immigration Policy*'. En este paper, estudiamos el impacto de las restricciones migratorias implementadas en 2017 en Estados Unidos durante el mandato del Presidente Donald Trump en la economía de Estados Unidos y Canadá.
 
 Hay varios aspectos de estos temas que me interesan y apasionan. Uno de ellos es entender los efectos de las políticas migratorias tanto a nivel micro (empresas y trabajadores) como a nivel macroeconómico.
 <br>
   
 <div class = "teal">
   <strong>
-7.	¿Qué ha sido o es lo más difícil que has experimentado como estudiante de doctorado en una universidad como Harvard?
-  </strong>
-</div>
-
-Más allá de lo académico, lo más difícil ha sido adaptarme a una rutina que pueda balancear tanto lo académico como lo personal. Creo que todavía estoy batallando en esto y probablemente ustedes también lo estén haciendo. Es importante que mantengamos un balance personal donde podamos hacer ejercicio, caminar, tener tiempo para ver series o jugar videojuegos, pero también para el estudio. 
-
-<div style="text-align: right"> 
-<font size = '6'>
-<< Es importante que mantengamos un balance personal donde podamos hacer ejercicio, caminar, tener tiempo para ver series o jugar videojuegos, pero también para el estudio. >>
-</font>
-</div>
-<br>
-  
-<div class = "teal">
-  <strong>
-8.  Tu carrera se puede considerar una “historia de éxito”. Cuéntanos, ¿qué significa para ti haber obtenido tan buenos resultados en el job market? ¿qué consejo le darías a alguien que está pasando por el mismo proceso?
+7.  Tu carrera se puede considerar una “historia de éxito”. Cuéntanos, ¿qué significa para ti haber obtenido tan buenos resultados en el job market? ¿qué consejo le darías a alguien que está pasando por el mismo proceso?
   </strong>
 </div>
 
@@ -161,7 +146,7 @@ Mi recomendación para alguien que esta por ir al mercado es tratar de ser consc
 
 <div class = "teal">
   <strong>
- 9. ¿Nos puedes comentar tu experiencia en el REStud Tour 2024? ¿Cómo ha cambiado tu modo de trabajar y estilo de vida en general después de terminar el doctorado?
+ 8. ¿Nos puedes comentar tu experiencia en el REStud Tour 2024? ¿Cómo ha cambiado tu modo de trabajar y estilo de vida en general después de terminar el doctorado?
   </strong>
 </div>
 
@@ -178,7 +163,7 @@ El modo de trabajar cambia significativamente después del doctorado. Durante mi
 
 <div class = "teal">
   <strong>
-10. ¿Qué opinas del mercado laboral y la comunidad de economistas en general?
+9. ¿Qué opinas del mercado laboral y la comunidad de economistas en general?
   </strong>
  </div>
 
@@ -195,7 +180,7 @@ A nivel profesional, la comunidad tiende a ser colaborativa, aunque también muy
 
 <div class = "teal">
   <strong>
-11.	Si pudieras implementar un cambio o mejora en la academia latinoamericana, ¿cuál sería y por qué?
+10.	Si pudieras implementar un cambio o mejora en la academia latinoamericana, ¿cuál sería y por qué?
   </strong>
 </div>
 
@@ -210,7 +195,7 @@ Si bien hay varios aspectos que se podrían mejorar en la academia latinoamerica
 
 <div class = "teal">
   <strong>
-12. 3.	La inequidad y diferencia de acceso a oportunidades en Latinoamérica son problemas estructurales e históricos, y esto se refleja también en quienes acabamos participando en la academia, ¿cuál es tu opinión respecto a posibles soluciones?
+11.	La inequidad y diferencia de acceso a oportunidades en Latinoamérica son problemas estructurales e históricos, y esto se refleja también en quienes acabamos participando en la academia, ¿cuál es tu opinión respecto a posibles soluciones?
   </strong>
 </div>
 
@@ -227,7 +212,7 @@ A una escala más individual, también hay acciones concretas que podemos tomar.
 
 <div class = "teal">
   <strong>
-10. ¿Qué consejo le darías a estudiantes de Latinoamérica que se quieren dedicar a hacer investigación?
+12. ¿Qué consejo le darías a estudiantes de Latinoamérica que se quieren dedicar a hacer investigación?
   </strong>
  </div>
 
