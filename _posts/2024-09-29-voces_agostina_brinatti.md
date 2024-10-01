@@ -242,10 +242,8 @@ También les recordaría que la perseverancia es clave. La investigación es un 
 
 <div class = "teal">
   
-Le agradecemos cordialmente a Agostina por esta entrevista.  Si te sentiste identificadx con su experiencia o deseas contactarlo, puedes hacerlo a través de:
+Le agradecemos cordialmente a Agostina por esta entrevista.  Si te sentiste identificadx con su experiencia, puedes visitar su página web: [https://sites.google.com/view/agostinabrinatti](sites.google.com/view/agostinabrinatti)
 
 </div>
-
-- Correo electrónico: [brinatti@umich.edu](brinatti@umich.edu)
 
 Para cualquier comentario o sugerencia sobre esta sección de EconThaki, nos puedes escribir al correo: contacto@econthaki.org
