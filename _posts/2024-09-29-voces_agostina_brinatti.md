@@ -242,7 +242,7 @@ También les recordaría que la perseverancia es clave. La investigación es un 
 
 <div class = "teal">
   
-Le agradecemos cordialmente a Agostina por esta entrevista.  Si te sentiste identificadx con su experiencia, puedes visitar su página web: [https://sites.google.com/view/agostinabrinatti](https://sites.google.com/view/agostinabrinatti)
+Le agradecemos cordialmente a Agostina por esta entrevista.  Si te sentiste identificadx con su experiencia, puedes visitar su página web: [sites.google.com/view/agostinabrinatti](https://sites.google.com/view/agostinabrinatti)
 
 </div>
 
