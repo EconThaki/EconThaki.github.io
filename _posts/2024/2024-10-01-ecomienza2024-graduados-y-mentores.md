@@ -3,7 +3,7 @@ layout: post
 title:  "Ecomienza: Graduados 24'"
 author: econthaki
 categories: [Programas]
-image: assets/images/ecomienza23/egresades/egresadesall.jpeg
+image: assets/images/ecomienza24/Ecomienza24_clausura.jpg
 
 ---
 En este post queremos felicitar a todos nuestr@s alumn@s graduad@s que participaron activamente en el programa y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
@@ -56,18 +56,18 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
   </tr>  
   <tr>
     <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Erick Oré <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/EOre.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Gabriella Wong  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/GWong.jpeg" border=1 height=100 width=100><br/> </td>
   </tr>
    <tr>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">German Orbegozo-Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/GOrbegozoR.jpg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Johar Cassa  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/JCassa.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Jostin Kitmang  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/JKitmang.jpeg" border=1 height=100 width=100><br/> </td>
   </tr>
     <tr>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Mayte Ysique  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/MYsique.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Ronny Condor  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/RCondor.jpg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Rony Maximiliano Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/RMaximiliano.jpeg" border=1 height=100 width=100><br/> </td>
   </tr> 
  
   
