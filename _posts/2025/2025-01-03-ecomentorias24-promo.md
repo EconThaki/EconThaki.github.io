@@ -22,45 +22,84 @@ Todos los admitidos al programa fueron beneficiarios de clases informativas y de
 Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron voluntarios de distintos programas de doctorados. Es así que pudieron ejecutar sus ideas en forma de propuestas de investigación que presentaron el último día de clases. 
 
 
-<table  border="1" bordercolor="gray" align="center" style="width:100%">
-  <tr>
-        <th colspan="2"> Mentees graduados </th> 
-  </tr>  
-  <tr>
-    <td> Josue Choqque Sarmiento <br /> Tema: Macroeconomia y pobreza  <br /> Universidad Nacional Mayor de San Marcos  </td>    
-     <td> Aylin Moscoso Yance <br /> Tema: Macroeconomía  <br /> 
-      Universidad de Piura  
-      </td>  
-  </tr>
- <tr>
-     <td> Alejandra Lafuente Luizaga <br /> Tema: La bolivianización, nivel de reservas internacionales y riesgo cambiario. Políticas económicas: monetaria, fiscal y cambiaría. <br /> Universidad Mayor de San Andrés  
-     </td>   
-       <td> Lizzet More Chuyes <br /> Tema: ¿Cuál es el efecto de la migración venezolana en el rendimiento académico de los estudiantes peruanos?  <br /> Universidad de Piura   
-     </td>   
-  </tr>
-  <tr>
-      <td> Lorely Muñoz Elaje <br /> Tema: ¿El crecimiento económico determina que una población es más feliz?  <br /> Universidad Estatal de Milagro   
-     </td>   
-       <td> Paolo Machaca Beltran <br /> Tema: Educación y Género  <br /> Universidad Mayor de San Andrés   
-     </td>   
-  </tr> 
-  <tr>
-      <td> Shamely Herrera Vargas <br /> Tema: ¿Cuál es el impacto del nivel educativo en la movilidad intergeneracional de ingresos en el Perú?  <br /> Universidad Nacional de San Antonio Abad del Cusco   
-     </td>   
-       <td> Gorki Freire Zambrano <br /> Tema: Clasificación de riesgo crediticio utilizando técnicas de Machine Learning para una institución financiera <br /> USM, Campus Guayaquil   
-     </td>   
-  </tr> 
- <tr>
-      <td> Jannely Chamba Veliz <br /> Tema: Educación  <br /> Universidad Nacional de Piura   
-     </td>   
-       <td> Marco Giron Campos <br /> Tema: Incidencia del sistema de integración centroamericano (SICA) en el crecimiento del sector agrícola de Nicaragua durante el periodo 1950-2023 <br /> Universidad Nacional Autónoma de Nicaragua UNAN-Managua   
-     </td>   
-  </tr> 
-<tr>
-      <td> Coseth Anaya Rojas <br /> Tema: "Covid-19 y el impacto de la ejecución presupuestaria en la Prevención del cáncer en el Perú: Una aproximación cuasi-experimental  <br /> Universidad Nacional de San Cristóbal de Huamanga   
-     </td>    
-  </tr> 
+<table align="center" style="width: 80%; border-collapse: collapse; border: 1px solid #ddd;">
+  <thead>
+    <tr style="background-color: #4CAF50; color: white;">
+      <th colspan="2" style="padding: 12px; text-align: center; font-size: 18px;">Mentees Graduados</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Josue Choqque Sarmiento</strong><br />
+        <em>Tema:</em> Macroeconomia y pobreza<br />
+        <em>Universidad:</em> Nacional Mayor de San Marcos
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Aylin Moscoso Yance</strong><br />
+        <em>Tema:</em> Macroeconomía<br />
+        <em>Universidad:</em> Universidad de Piura
+      </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Alejandra Lafuente Luizaga</strong><br />
+        <em>Tema:</em> La bolivianización, nivel de reservas internacionales y riesgo cambiario. Políticas económicas: monetaria, fiscal y cambiaría.<br />
+        <em>Universidad:</em> Universidad Mayor de San Andrés
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Lizzet More Chuyes</strong><br />
+        <em>Tema:</em> ¿Cuál es el efecto de la migración venezolana en el rendimiento académico de los estudiantes peruanos?<br />
+        <em>Universidad:</em> Universidad de Piura
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Lorely Muñoz Elaje</strong><br />
+        <em>Tema:</em> ¿El crecimiento económico determina que una población es más feliz?<br />
+        <em>Universidad:</em> Universidad Estatal de Milagro
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Paolo Machaca Beltran</strong><br />
+        <em>Tema:</em> Educación y Género<br />
+        <em>Universidad:</em> Universidad Mayor de San Andrés
+      </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Shamely Herrera Vargas</strong><br />
+        <em>Tema:</em> ¿Cuál es el impacto del nivel educativo en la movilidad intergeneracional de ingresos en el Perú?<br />
+        <em>Universidad:</em> Universidad Nacional de San Antonio Abad del Cusco
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Gorki Freire Zambrano</strong><br />
+        <em>Tema:</em> Clasificación de riesgo crediticio utilizando técnicas de Machine Learning para una institución financiera<br />
+        <em>Universidad:</em> USM, Campus Guayaquil
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Jannely Chamba Veliz</strong><br />
+        <em>Tema:</em> Educación<br />
+        <em>Universidad:</em> Universidad Nacional de Piura
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Marco Giron Campos</strong><br />
+        <em>Tema:</em> Incidencia del sistema de integración centroamericano (SICA) en el crecimiento del sector agrícola de Nicaragua durante el periodo 1950-2023<br />
+        <em>Universidad:</em> Universidad Nacional Autónoma de Nicaragua UNAN-Managua
+      </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <strong>Coseth Anaya Rojas</strong><br />
+        <em>Tema:</em> "Covid-19 y el impacto de la ejecución presupuestaria en la Prevención del cáncer en el Perú: Una aproximación cuasi-experimental"<br />
+        <em>Universidad:</em> Universidad Nacional de San Cristóbal de Huamanga
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;"></td>
+    </tr>
+  </tbody>
 </table>
+
 
     
 <table  border="1" bordercolor="gray" align="center" style="width:100%">
