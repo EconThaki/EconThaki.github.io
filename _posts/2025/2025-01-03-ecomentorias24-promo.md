@@ -22,6 +22,43 @@ Todos los admitidos al programa fueron beneficiarios de clases informativas y de
 Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron voluntarios de distintos programas de doctorados. Es así que pudieron ejecutar sus ideas en forma de propuestas de investigación que presentaron el último día de clases. 
 
 
+    
+<table  border="1" bordercolor="gray" align="center" style="width:100%">
+  <tr>
+        <th colspan="2"> Mentores   </th> 
+  </tr>  
+  <tr>
+ 	<td> Manuel Perez Archila <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/ManuelPerezArchila.jpg" border=1 height=180 width=180> <br /> Princeton University    </td>    
+    <td> Ronald	Miranda <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Ronald_Miranda.jpg" border=1 height=180 width=180> <br /> Instituto de Economía (Facultad de Ciencias Económicas y de Administración, UdelaR)  </td>  
+  </tr>  
+  <tr>
+    <td> Jorge Zavala Delgado <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Jorge_Zavala.jpg" border=1 height=180 width=180> <br /> The World Bank / The University of Chicago   </td>  
+    <td> Guillermo Mondragón <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Guillermo_Mondragon.jpeg" border=1 height=180 width=180> <br /> ITAM y Johns Hopkins University  </td>  
+  </tr> 
+  <tr>
+    <td> Nicolas Domínguez Mel <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Nicolas_Dominguez.jpg" border=1 height=180 width=180> <br /> University of Maryland at College Park   </td>  
+    <td> Oscar Poveda Bermúdez <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Oscar_Poveda.jpg" border=1 height=180 width=180> <br /> Good Business Lab - Latin America  </td>  
+  </tr> 
+  <tr>
+    <td> José Luis Sola <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Jose-LuisSola.jpg" border=1 height=180 width=180> <br /> Universitat de Barcelona   </td>  
+    <td> Shirley Redroban Trujillo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Shirley_Redobran.jpeg" border=1 height=180 width=180> <br /> University of Maryland  </td>  
+  </tr> 
+  <tr>
+    <td> Jose Luis Flor Toro <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/JoseLuisFlorToro.jpg" border=1 height=180 width=180> <br /> Northwestern University   </td>  
+    <td> Raul Leon <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Raul_Leon.png" border=1 height=180 width=180> <br /> Universidad de Chicago - Harris School of Public Policy  </td>  
+  </tr> 
+  <tr>
+    <td> David Cerero-Guerra <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/David Cerero-Guerra.jpg" border=1 height=180 width=180> <br /> Yale University   </td>  
+    <td> Andrea	Cornejo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/andrea-cornejo.jpg" border=1 height=180 width=180> <br /> Paris School of Economics  </td>  
+  </tr> 
+    <tr>
+    <td> Diego	Silva <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Diego-Silva.jpg" border=1 height=180 width=180> <br /> Federal Reserve Board   </td>  
+    <td> Gremary Aza Mengoa <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Gremary_Aza_Mengoa.jpg" border=1 height=180 width=180> <br /> University of Passau  </td>  
+  </tr> 
+</table>
+
+   
+
 <table align="center" style="width: 80%; border-collapse: collapse; border: 1px solid #ddd;">
   <thead>
     <tr style="background-color: #4CAF50; color: white;">
@@ -99,41 +136,3 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     </tr>
   </tbody>
 </table>
-
-
-    
-<table  border="1" bordercolor="gray" align="center" style="width:100%">
-  <tr>
-        <th colspan="2"> Mentores   </th> 
-  </tr>  
-  <tr>
- 	<td> Manuel Perez Archila <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/ManuelPerezArchila.jpg" border=1 height=180 width=180> <br /> Princeton University    </td>    
-    <td> Ronald	Miranda <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Ronald_Miranda.jpg" border=1 height=180 width=180> <br /> Instituto de Economía (Facultad de Ciencias Económicas y de Administración, UdelaR)  </td>  
-  </tr>  
-  <tr>
-    <td> Jorge Zavala Delgado <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Jorge_Zavala.jpg" border=1 height=180 width=180> <br /> The World Bank / The University of Chicago   </td>  
-    <td> Guillermo Mondragón <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Guillermo_Mondragon.jpeg" border=1 height=180 width=180> <br /> ITAM y Johns Hopkins University  </td>  
-  </tr> 
-  <tr>
-    <td> Nicolas Domínguez Mel <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Nicolas_Dominguez.jpg" border=1 height=180 width=180> <br /> University of Maryland at College Park   </td>  
-    <td> Oscar Poveda Bermúdez <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Oscar_Poveda.jpg" border=1 height=180 width=180> <br /> Good Business Lab - Latin America  </td>  
-  </tr> 
-  <tr>
-    <td> José Luis Sola <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Jose-LuisSola.jpg" border=1 height=180 width=180> <br /> Universitat de Barcelona   </td>  
-    <td> Shirley Redroban Trujillo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Shirley_Redobran.jpeg" border=1 height=180 width=180> <br /> University of Maryland  </td>  
-  </tr> 
-  <tr>
-    <td> Jose Luis Flor Toro <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/JoseLuisFlorToro.jpg" border=1 height=180 width=180> <br /> Northwestern University   </td>  
-    <td> Raul Leon <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Raul_Leon.png" border=1 height=180 width=180> <br /> Universidad de Chicago - Harris School of Public Policy  </td>  
-  </tr> 
-  <tr>
-    <td> David Cerero-Guerra <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/David Cerero-Guerra.jpg" border=1 height=180 width=180> <br /> Yale University   </td>  
-    <td> Andrea	Cornejo <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/andrea-cornejo.jpg" border=1 height=180 width=180> <br /> Paris School of Economics  </td>  
-  </tr> 
-    <tr>
-    <td> Diego	Silva <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Diego-Silva.jpg" border=1 height=180 width=180> <br /> Federal Reserve Board   </td>  
-    <td> Gremary Aza Mengoa <br /><img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Gremary_Aza_Mengoa.jpg" border=1 height=180 width=180> <br /> University of Passau  </td>  
-  </tr> 
-</table>
-
-   
