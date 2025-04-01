@@ -3,7 +3,7 @@ layout: post
 title:  "Mentorias- promoción 24' "
 author: econthaki
 categories: [Programas]
-image: assets/images/mentorias/mentorias_logo.png
+image: assets/images/mentorias/fotos24/mentorias24_graduados.jpeg
 ---
 
 
