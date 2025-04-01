@@ -39,7 +39,7 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
       <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
         <strong>Ronald Miranda</strong><br />
         <img src="{{ site.baseurl }}/assets/images/mentorias/fotos24/mentores/Ronald_Miranda.jpg" height="180" width="180" style="border-radius: 10px; border: 2px solid #ddd;"><br />
-        <em>Instituto de Economía (Facultad de Ciencias Económicas y de Administración, UdelaR)</em>
+        <em>Instituto de Economía - UdelaR</em>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
