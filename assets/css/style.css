@@ -1,0 +1,57 @@
+  .mentor-table, .mentee-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  }
+
+  .mentor-table th, .mentee-table th {
+    background-color: #2C7A7B;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px;
+  }
+
+  .mentor-table td, .mentee-table td {
+    padding: 14px;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #eee;
+    background-color: #fff;
+  }
+
+  .mentor-table tr:nth-child(even) td,
+  .mentee-table tr:nth-child(even) td {
+    background-color: #f7fafa;
+  }
+
+  .mentor-table td img {
+    border-radius: 12px;
+    border: 2px solid #ccc;
+    margin-top: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+
+  .mentor-table td:hover,
+  .mentee-table td:hover {
+    background-color: #e6f2f1;
+  }
+
+  .mentor-table em, .mentee-table em {
+    display: block;
+    color: #444;
+    margin-top: 6px;
+    font-style: italic;
+  }
+
+  .mentor-table strong, .mentee-table strong {
+    font-weight: bold;
+    font-size: 16px;
+    color: #2D3748;
+  }
