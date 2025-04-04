@@ -31,8 +31,7 @@ Esperamos les guste esta entrevista y se inspiren con su historia.
   </strong>  
 </div>
 
-Empecé mis estudios en economía en la Universidad Nacional de Córdoba (UNC). El nivel de educación de la UNC es de muy buena calidad. Haber rankeado bien en mi licenciatura me abrió las puertas a estudiar en el CEMFI, donde obtuve mi master. Luego del CEMFI, comencé el doctorado en UC Davis. Durante el doctorado, reaplique nuevamente a doctorados y me transferí a University de Michigan (Umich).
-
+Antes de estudiar el doctorado en Georgetown, hice mi maestría y pregrado en Chile, donde nací. El pregrado fue en la Universidad de Santiago de Chile (USACH) que es una universidad estatal, ahí estudié ingeniería comercial con mención economía. Luego hice una maestría en economía en ILADES (Instituto Latinoamericano de Doctrina y Estudios Sociales), en la Universidad Alberto Hurtado (UAH). 
 
 <br>
 
