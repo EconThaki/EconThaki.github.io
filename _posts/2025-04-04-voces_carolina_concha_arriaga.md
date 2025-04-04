@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Agostina Brinatti
-date: "September 2024"
+title: Voces - Carolina Concha-Arriaga
+date: "April 2025"
 author: econthaki
 categories: [voces]
-image: assets/images/voces/agostina_brinatti.jpeg
+image: assets/images/voces/carolina_concha_arriaga.png
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -13,7 +13,7 @@ output:
     
 ---
 
-Entrevista a Agostina Brinatti, investigadora posdoctoral en la Universidad de Yale.
+Entrevista a Carolina Concha-Arriaga, Profesora Asistente en la Universidad de Columbia.
 
 <style>
 div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
