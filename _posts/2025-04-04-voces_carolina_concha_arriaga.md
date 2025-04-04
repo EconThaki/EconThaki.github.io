@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Carolina Concha-Arriaga
+title: Voces - Carolina Concha-Arriagada
 date: "April 2025"
 author: econthaki
 categories: [voces]
-image: assets/images/voces/carolina_concha_arriaga.png
+image: assets/images/voces/carolina_concha_arriagada.png
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -13,14 +13,14 @@ output:
     
 ---
 
-Entrevista a Carolina Concha-Arriaga, Profesora Asistente en la Universidad de Columbia.
+Entrevista a Carolina Concha-Arriagada, Profesora Asistente en la Universidad de Columbia.
 
 <style>
 div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista chilena Carolina Concha-Arriaga, quien es Profesora Asistente en Teachers College en la Universidad de Columbia. La profesora Carolina estudió el pregrado en economía en la Universidad de Santiago de Chile y la Maestría Economía en ILADES – Alberto Hurtado. Los estudios de doctorado lo realizó en la Universidad de Gergetown. Sus temas de interés en investigación son Microeconomía Aplicada, Economía de la Educación, Desarrollo Económico, y Economía Política. 
+En esta edición de Voces, entrevistamos a la economista chilena Carolina Concha-Arriagada, quien es Profesora Asistente en Teachers College en la Universidad de Columbia. La profesora Carolina estudió el pregrado en economía en la Universidad de Santiago de Chile y la Maestría Economía en ILADES – Alberto Hurtado. Los estudios de doctorado lo realizó en la Universidad de Gergetown. Sus temas de interés en investigación son Microeconomía Aplicada, Economía de la Educación, Desarrollo Económico, y Economía Política. 
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
