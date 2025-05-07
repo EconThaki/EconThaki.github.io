@@ -318,7 +318,7 @@ La tercera etapa abarca los últimos años y es, quizás, la más desafiante: la
 <div class = "teal">
   
 Le agradecemos cordialmente a Emilio por esta entrevista.  Si te sentiste identificadx con su experiencia, puedes visitar su página web:
-[https://sites.google.com/view/emiliocolombi](https://sites.google.com/view/emiliocolombi)
+<https://sites.google.com/view/emiliocolombi>
 
 </div>
 
