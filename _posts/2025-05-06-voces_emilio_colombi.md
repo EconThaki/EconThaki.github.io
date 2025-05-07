@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista argentino Emilio Colombi, quien es candidato a doctor en Economía en la Universidad de Michigan. Emilio estudió el pregrado en economía en la Universidad de la Plata (UNLP) y la Maestría Economía en la Universidad Torcuato Di Tella (UTDT). Los estudios de doctorado lo realizó en la Universidad de Michigan. Sus temas de interés en investigación son la  Macroeconomía, Economía Internacional y Finanzas Internacionales.
+En esta edición de Voces, entrevistamos al economista argentino Emilio Colombi, quien es candidato a doctor en Economía en la Universidad de Michigan. Emilio estudió el pregrado en economía en la Universidad de la Plata (UNLP) y la Maestría Economía en la Universidad Torcuato Di Tella (UTDT). Los estudios de doctorado lo realiza en la Universidad de Michigan. Sus temas de interés en investigación son la  Macroeconomía, Economía Internacional y Finanzas Internacionales.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
@@ -47,9 +47,9 @@ En el último año de la carrera de pregrado di un examen para ingresar al Banco
   <strong>
 2.  ¿En qué momento te diste cuenta de que querías dedicarte a hacer investigación en economía? ¿Cuáles crees que fueron la principal motivación y las experiencias que influyeron en esta decisión?
    </strong>  
-
 </div>
-    El interés en la investigación en economía es algo que me surgió bastante natural desde los primeros años de formación aunque fue bien avanzado en el proceso que empecé a verlo como una posibilidad real. Recuerdo que durante el pregrado disfrutaba mucho de aquellas materias que ofrecían el espacio de desarrollar una idea, armar una presentación, exponer frente a la clase, etc. Sin dudas que mi paso por el BCRA ayudó mucho dado que estaba en un área donde muchos profesionales se dedicaban a la investigación en mayor o menor medida; siempre y cuando la urgencia de resolver los problemas de corto plazo de la economía Argentina lo permitieran. Por último, mi paso por UTDT y la posibilidad de interactuar con profesores que se dedicaban de forma exclusiva a la investigación le terminó de dar forma a la idea de intentar dedicarme a eso.  
+
+   El interés en la investigación en economía es algo que me surgió bastante natural desde los primeros años de formación aunque fue bien avanzado en el proceso que empecé a verlo como una posibilidad real. Recuerdo que durante el pregrado disfrutaba mucho de aquellas materias que ofrecían el espacio de desarrollar una idea, armar una presentación, exponer frente a la clase, etc. Sin dudas que mi paso por el BCRA ayudó mucho dado que estaba en un área donde muchos profesionales se dedicaban a la investigación en mayor o menor medida; siempre y cuando la urgencia de resolver los problemas de corto plazo de la economía Argentina lo permitieran. Por último, mi paso por UTDT y la posibilidad de interactuar con profesores que se dedicaban de forma exclusiva a la investigación le terminó de dar forma a la idea de intentar dedicarme a eso.  
   
   <div style="text-align: right"> 
   <font size = '6'>
@@ -317,7 +317,8 @@ La tercera etapa abarca los últimos años y es, quizás, la más desafiante: la
 
 <div class = "teal">
   
-Le agradecemos cordialmente a Emilio por esta entrevista.  Si te sentiste identificadx con su experiencia, puedes visitar su página web: [https://sites.google.com/view/emiliocolombi](https://sites.google.com/view/emiliocolombi)
+Le agradecemos cordialmente a Emilio por esta entrevista.  Si te sentiste identificadx con su experiencia, puedes visitar su página web:
+[https://sites.google.com/view/emiliocolombi](https://sites.google.com/view/emiliocolombi)
 
 </div>
 
