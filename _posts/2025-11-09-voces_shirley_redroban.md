@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista argentino Shirley Redroban, quien es candidata a Doctora en Economía en la Universidad de Maryland. Shirley estudió el pregrado en economía en la Universidad Católica del Ecuador y la Maestría Economía en la PUC Chile. Los estudios de doctorado lo realiza en la Universidad de Maryland. Sus temas de interés en investigación son la Economía Laboral, Economía de la Educación, y Políticas Públicas.
+En esta edición de Voces, entrevistamos a la economista ecuatoriana Shirley Redroban, quien es candidata a Doctora en Economía en la Universidad de Maryland. Shirley estudió el pregrado en economía en la Universidad Católica del Ecuador y la Maestría Economía en la PUC Chile. Los estudios de doctorado lo realiza en la Universidad de Maryland. Sus temas de interés en investigación son la Economía Laboral, Economía de la Educación, y Políticas Públicas.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
@@ -69,15 +69,6 @@ Además, muchos de nosotros vivimos el proceso de mudarnos a otro país, lo que 
 También hubo circunstancias personales que hicieron más exigente el proceso. Durante mi primer año, mientras me preparaba para los comprehensive exams, recibí la noticia de que mi mamá tenía una enfermedad degenerativa incurable. Fue un golpe muy duro, pero en medio de eso valoro mucho el apoyo que recibí de mi advisor y de los servicios de bienestar que el programa de Maryland ofrece a los estudiantes.
 
 En general, creo que el doctorado es una etapa que requiere mucha determinación, compromiso y resiliencia. Es necesario esforzarse, aprender y reaprender conceptos fundamentales, pero también aprender a pedir ayuda, a recibirla y, algo que a veces olvidamos, a descansar.
-
-
-  <div style="text-align: right"> 
-  <font size = '6'>
-  << Gracias a la maestría en la UTDT, llegué con una base sólida —diría que había cubierto cerca del 75% del contenido del primer año del PhD...>>
-  </font>
-  </div>
-
-  Por otro lado, los mayores desafíos los encontré en la última etapa. La transición hacia convertirse en un researcher suele no ser lineal y no hay una receta a seguir como sí suele haber en los primeros años. Lo que me ayudó mucho fue involucrarme temprano en proyectos de investigación con mis advisors. Trabajar con ellos me permitió aprender de forma directa cómo plantear preguntas relevantes, cómo estructurar un paper y cómo navegar la incertidumbre propia del proceso de investigación.
 
   <div style="text-align: right"> 
   <font size = '6'>
