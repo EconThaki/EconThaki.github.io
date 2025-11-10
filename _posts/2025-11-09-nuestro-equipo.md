@@ -3,7 +3,6 @@ layout: post
 title: "Nuestro Equipo"
 author: econthaki
 categories: [acercade]
-image: assets/images/logo_hq.png
 featured: false
 ---
 
