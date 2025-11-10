@@ -7,7 +7,7 @@ featured: false
 ---
 
 <section class="team-section">
-  <h2 class="team-title">Consejo Directivo</h2>
+  <h2 class="team-section-title">Consejo Directivo</h2>
   <div class="team-grid">
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Selene.jpg" alt="Selene">
@@ -61,7 +61,7 @@ featured: false
     </div>
   </div>
 
-  <h2 class="team-title">Voluntarios/as</h2>
+  <h2 class="team-section-title">Voluntarios/as</h2>
   <div class="team-grid">
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Alejandra.jpg" alt="Alejandra">
