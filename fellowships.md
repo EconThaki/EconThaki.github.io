@@ -6,6 +6,59 @@ permalink: /fellowships/
 
 ## Fellowships
 
-The Fellowships program supports emerging researchers in economics and public policy in Latin America and the Caribbean.
+El programa de Fellowships busca fortalecer el desarrollo de jóvenes investigadores que previamente participaron en EconMienza, donde recibieron formación en herramientas clave para la investigación aplicada en economía y políticas públicas.
 
-More information coming soon.
+Gracias al apoyo de nuestros donantes, este programa permitió que los fellows continuaran su formación académica mediante su vinculación directa con investigadores principales (PIs), con quienes trabajaron como asistentes de investigación en proyectos concretos. Esta experiencia les permitió aplicar sus conocimientos en entornos reales y dar sus primeros pasos en la academia.
+
+## Primera cohorte
+
+La primera cohorte estuvo conformada por tres fellows, cada uno emparejado individualmente con un investigador principal:
+
+- **Ashley Ccanto** — Asistente de investigación de **Fabiola Alba Vivar y Carolina Concha Arriagada**
+- **Antony Barra** — Asistente de investigación de **Diego Santa Maria**
+- **Alexis Minaya** — Asistente de investigación de **David Ontaneda y Bei Luo**
+
+Durante el fellowship, los participantes contribuyeron activamente al desarrollo de proyectos de investigación, fortaleciendo sus habilidades técnicas y analíticas, y consolidando su preparación para continuar una carrera académica.
+
+<div style="display:flex; gap:40px; flex-wrap:wrap; margin-top:20px;">
+  <div style="text-align:center;">
+    <img src="/assets/images/fellowships/Ashley.jpg" width="200" alt="Ashley Ccanto"><br>
+    <strong>Ashley Ccanto</strong>
+  </div>
+  <div style="text-align:center;">
+    <img src="/assets/images/fellowships/Antony.jpeg" width="200" alt="Antony Barra"><br>
+    <strong>Antony Barra</strong>
+  </div>
+  <div style="text-align:center;">
+    <img src="/assets/images/fellowships/Alex.jpeg" width="200" alt="Alexis Minaya"><br>
+    <strong>Alexis Minaya</strong>
+  </div>
+</div>
+
+## Voces de los fellows
+
+<div style="display:flex; gap:32px; flex-wrap:wrap; margin-top:24px;">
+
+  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #4a4a8a; padding:16px; border-radius:4px;">
+    <p style="font-style:italic; margin:0 0 12px 0;">"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
+    <strong>— Ashley Ccanto</strong><br>
+    <span style="font-size:0.9em; color:#555;">UNALM, Lima</span>
+  </div>
+
+  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #4a4a8a; padding:16px; border-radius:4px;">
+    <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
+    <strong>— Antony Barra</strong><br>
+    <span style="font-size:0.9em; color:#555;">UNSAAC, Cusco</span>
+  </div>
+
+  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #4a4a8a; padding:16px; border-radius:4px;">
+    <p style="font-style:italic; margin:0 0 12px 0;">"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
+    <strong>— Alexis Minaya</strong><br>
+    <span style="font-size:0.9em; color:#555;">UNMSM, Lima</span>
+  </div>
+
+</div>
+
+---
+
+Este programa fue posible gracias al apoyo de nuestros donantes, cuyo financiamiento contribuyó directamente al desarrollo académico y profesional de jóvenes investigadores en el Perú, facilitando su transición hacia carreras en investigación.
