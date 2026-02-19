@@ -20,17 +20,20 @@ La primera cohorte estuvo conformada por tres fellows, cada uno emparejado indiv
 
 Durante el fellowship, los participantes contribuyeron activamente al desarrollo de proyectos de investigación, fortaleciendo sus habilidades técnicas y analíticas, y consolidando su preparación para continuar una carrera académica.
 
-<div style="display:flex; gap:40px; flex-wrap:wrap; margin-top:20px;">
+<div style="display:flex; gap:40px; flex-wrap:wrap; margin-top:20px; align-items:flex-start;">
   <div style="text-align:center;">
-    <img src="/assets/images/fellowships/Ashley.jpg" width="200" alt="Ashley Ccanto"><br>
+    <img src="/assets/images/fellowships/Ashley.jpg" width="200" height="200"
+         style="object-fit:cover; border-radius:4px;" alt="Ashley Ccanto"><br>
     <strong>Ashley Ccanto</strong>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/fellowships/Antony.jpeg" width="200" alt="Antony Barra"><br>
+    <img src="/assets/images/fellowships/Antony.jpeg" width="200" height="200"
+         style="object-fit:cover; border-radius:4px;" alt="Antony Barra"><br>
     <strong>Antony Barra</strong>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/fellowships/Alex.jpeg" width="200" alt="Alexis Minaya"><br>
+    <img src="/assets/images/fellowships/Alex.jpg" width="200" height="200"
+         style="object-fit:cover; border-radius:4px;" alt="Alexis Minaya"><br>
     <strong>Alexis Minaya</strong>
   </div>
 </div>
@@ -40,18 +43,21 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
 <div style="display:flex; gap:32px; flex-wrap:wrap; margin-top:24px;">
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #4a4a8a; padding:16px; border-radius:4px;">
+    <p style="font-size:0.8em; font-weight:bold; color:#4a4a8a; margin:0 0 8px 0;">¿Cómo ves ahora la posibilidad de seguir una carrera académica?</p>
     <p style="font-style:italic; margin:0 0 12px 0;">"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
     <strong>— Ashley Ccanto</strong><br>
     <span style="font-size:0.9em; color:#555;">UNALM, Lima</span>
   </div>
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #4a4a8a; padding:16px; border-radius:4px;">
+    <p style="font-size:0.8em; font-weight:bold; color:#4a4a8a; margin:0 0 8px 0;">¿Qué te motiva a continuar en la trayectoria académica?</p>>
     <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
     <strong>— Antony Barra</strong><br>
     <span style="font-size:0.9em; color:#555;">UNSAAC, Cusco</span>
   </div>
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #4a4a8a; padding:16px; border-radius:4px;">
+    <p style="font-size:0.8em; font-weight:bold; color:#4a4a8a; margin:0 0 8px 0;">¿Cómo cambió tu percepción sobre la carrera académica?</p>
     <p style="font-style:italic; margin:0 0 12px 0;">"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
     <strong>— Alexis Minaya</strong><br>
     <span style="font-size:0.9em; color:#555;">UNMSM, Lima</span>
