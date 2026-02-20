@@ -12,7 +12,7 @@ featured: false
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Selene.jpg" alt="Selene">
       <h3>Selene Cueva</h3>
-      <p> Directora General, Recursos Humanos y Comunicaciones </p>
+      <p> Directora General</p>
     </div>
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Brian.png" alt="Brian">

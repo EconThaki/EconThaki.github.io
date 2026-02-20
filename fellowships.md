@@ -24,17 +24,14 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
   <div class="team-card">
     <img src="/assets/images/fellowships/Ashley.jpg" alt="Ashley Ccanto">
     <h3>Ashley Ccanto</h3>
-    <p>UNALM, Lima</p>
   </div>
   <div class="team-card">
     <img src="/assets/images/fellowships/Antony.jpeg" alt="Antony Barra">
     <h3>Antony Barra</h3>
-    <p>UNSAAC, Cusco</p>
   </div>
   <div class="team-card">
     <img src="/assets/images/fellowships/Alex.jpg" alt="Alexis Minaya">
     <h3>Alexis Minaya</h3>
-    <p>UNMSM, Lima</p>
   </div>
 </div>
 
@@ -46,18 +43,21 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Cómo ves ahora la posibilidad de seguir una carrera académica?</p>
     <p style="font-style:italic; margin:0 0 12px 0;">"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
     <strong>— Ashley Ccanto</strong>
+    <span style="font-size:0.9em; color:#555;">UNALM, Lima</span>
   </div>
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
     <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Qué te motiva a continuar en la trayectoria académica?</p>
     <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
     <strong>— Antony Barra</strong>
+    <span style="font-size:0.9em; color:#555;">UNSAAC, Cusco</span>
   </div>
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
     <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Cómo cambió tu percepción sobre la carrera académica?</p>
     <p style="font-style:italic; margin:0 0 12px 0;">"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
     <strong>— Alexis Minaya</strong>
+    <span style="font-size:0.9em; color:#555;">UNMSM, Lima</span>
   </div>
 
 </div>
