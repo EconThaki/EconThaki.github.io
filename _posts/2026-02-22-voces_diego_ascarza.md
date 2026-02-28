@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista peruano Diego Ascarza, quien es Research Professor en el Tecnológico de Monterrey. El Profesor Diego estudió el pregrado en economía en la Universidad Nacional de Ingenieria (UNI) del Ecuador y la Maestría Economía en la Universidad del Pacífico y en el ITAM. Estudió el doctorado en la Universidad de Minnesota. Sus temas de interés en investigación son la Macroeconomía, Economía de la Salud, Finanzas de los Hogares.
+En esta edición de Voces, entrevistamos al economista peruano Diego Ascarza-Mendoza, quien es Research Professor en el Tecnológico de Monterrey. El Profesor Diego estudió el pregrado en economía en la Universidad Nacional de Ingenieria (UNI) del Ecuador y la Maestría Economía en la Universidad del Pacífico y en el ITAM. Estudió el doctorado en la Universidad de Minnesota. Sus temas de interés en investigación son la Macroeconomía, Economía de la Salud, Finanzas de los Hogares.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
