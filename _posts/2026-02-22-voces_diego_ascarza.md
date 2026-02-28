@@ -111,7 +111,7 @@ Con lo competitivo que se ha vuelto el mercado académico, honestamente creo que
   
   <div style="text-align: right"> 
   <font size = '6'>
-  << ... siento que la formación doctoral muchas veces lleva a subestimar el papel del _networking_, de la comunicación clara, de saber presentar el propio trabajo y, en general, de ser alguien con quien otros disfruten interactuar. >>
+  << ... siento que la formación doctoral muchas veces lleva a subestimar el papel del <i>networking</i>, de la comunicación clara, de saber presentar el propio trabajo y, en general, de ser alguien con quien otros disfruten interactuar. >>
   </font>
   </div>
   
