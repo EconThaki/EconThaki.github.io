@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Voces - Ashley Ccanto
-date: "March 2025"
+date: "March 2026"
 author: econthaki
 categories: [voces]
 image: assets/images/fellowships/ashley.jpg
