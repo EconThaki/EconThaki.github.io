@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Voces - Alexis Minaya
-date: "March 2025"
+date: "March 2026"
 author: econthaki
 categories: [voces]
 image: assets/images/fellowships/alexis.jpg
