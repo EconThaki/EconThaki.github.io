@@ -44,7 +44,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <p style="font-style:italic; margin:0 0 12px 0;">"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
     <strong>— Ashley Ccanto</strong>
     <span style="font-size:0.9em; color:#555;">UNALM, Lima</span>
-    <a href="/voces/2025/03/25/voces_ashley_ccanto.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
+    <a href="/voces/2026/03/25/voces_ashley_ccanto.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
   </div>
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
@@ -52,7 +52,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
     <strong>— Antony Barra</strong>
     <span style="font-size:0.9em; color:#555;">UNSAAC, Cusco</span>
-    <a href="/voces/2025/03/25/voces_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
+    <a href="/voces/2026/03/25/voces_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
   </div>
 
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
@@ -60,7 +60,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <p style="font-style:italic; margin:0 0 12px 0;">"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
     <strong>— Alexis Minaya</strong>
     <span style="font-size:0.9em; color:#555;">UNMSM, Lima</span>
-    <a href="/voces/2025/03/25/voces_alexis_minaya.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
+    <a href="/voces/2026/03/25/voces_alexis_minaya.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
   </div>
 
 </div>
