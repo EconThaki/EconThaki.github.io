@@ -3,6 +3,7 @@ layout: post
 title:  "Mentorias- promoción 25'"
 author: econthaki
 categories: [Programas]
+image: assets/images/mentorias/fotos25/mentorias25_graduados.jpeg
 ---
 
 En este post queremos felicitar a todos nuestr@s alumn@s que participaron activamente en el programa de Mentorías y que desarrollaron presentaciones de sus propuestas de investigación de manera sobresaliente.
