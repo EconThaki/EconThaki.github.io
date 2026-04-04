@@ -73,13 +73,13 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </div>
 
   <div class="team-card">
-    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/MariaPialocco_PontificiaUniversidadCatólicadeValparaíso.jpg" alt="Maria Pia Locco">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/Maria_Pia_Locco_Pontificia_Universidad_Catolica_de_Valparaiso.jpg" alt="Maria Pia Locco">
     <h3>Maria Pia Locco</h3>
     <p>Pontificia Universidad Católica de Valparaíso</p>
   </div>
 
   <div class="team-card">
-    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/MatildeCerda_PontificiaUniversidadCatolicadeChile_BancoCentraldeNicaragua.jpeg" alt="Matilde Cerdá">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/MatildeCerda_UC_BancoCentral de Nicaragua.jpeg" alt="Matilde Cerdá">
     <h3>Matilde Cerdá</h3>
     <p>PUC Chile / Banco Central de Nicaragua</p>
   </div>
@@ -100,54 +100,48 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 ## Mentees Graduados
 
-<table class="mentee-table">
-  <thead>
-    <tr>
-      <th colspan="2">Mentees Graduados</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Fernando_Sáenz_Aguilar.jpg" height="120" width="120" alt="Fernando Sáenz Aguilar">
-        <strong>Fernando José Sáenz Aguilar</strong>
-        <em>Tema: El impacto de la pérdida de Capital Humano, provocada por la pandemia de COVID-19, en los resultados laborales de los jóvenes guatemaltecos</em>
-        <em>Mentor: Guillermo Mondragón</em>
-      </td>
-      <td>
-        <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Gianella_Alejandra_Pineda_Ilazaca.jpg" height="120" width="120" alt="Gianella Pineda">
-        <strong>Gianella Pineda</strong>
-        <em>Tema: Efecto causal del subsidio cruzado del Fondo de Compensación Social Eléctrica (FOSE) sobre el gasto en electricidad de los hogares peruanos</em>
-        <em>Mentor: Joaquin Barrutia</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Manuela_Correa.jpeg" height="120" width="120" alt="Manuela Correa">
-        <strong>Manuela Correa Sogamoso</strong>
-        <em>Tema: El efecto de la maternidad sobre el ingreso laboral en profesionales STEAM: Un análisis desde una perspectiva de género en Colombia para el año 2024</em>
-        <em>Universidad: Universidad de Ibagué · Mentor: Oscar Poveda</em>
-      </td>
-      <td>
-        <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Rolando_Lenin_Ynoñan_Vargas.jpg" height="120" width="120" alt="Rolando Lenin Ynoñan Vargas">
-        <strong>Rolando Lenin Ynoñan Vargas</strong>
-        <em>Tema: Evaluando la Formalización de las MYPES en el 2024: El Caso del Tamaño y Otros Factores</em>
-        <em>Mentor: Saúl Elguera</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Stephany_Ximena_Vilca_Rugel.jpeg" height="120" width="120" alt="Stephany Ximena Vilca Rugel">
-        <strong>Stephany Ximena Vilca Rugel</strong>
-        <em>Tema: Impacto del Fenómeno El Niño del 2017 en el rezago escolar de estudiantes de la Costa Norte del Perú</em>
-        <em>Mentor: Maria Pia Locco</em>
-      </td>
-      <td>
-        <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Taciana_Casanova.png" height="120" width="120" alt="Taciana Casanova">
-        <strong>Taciana Casanova</strong>
-        <em>Tema: La educación y la pobreza en Cajamarca: un análisis de su evolución y vínculo en el período 2000-2024</em>
-        <em>Universidad: Universidad Nacional de Cajamarca · Mentor: Matilde Cerdá</em>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="team-grid" style="margin-top:20px;">
+
+  <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Fernando_Sáenz_Aguilar.jpg" alt="Fernando Sáenz Aguilar">
+    <h3>Fernando José Sáenz Aguilar</h3>
+    <p><em>Tema:</em> El impacto de la pérdida de Capital Humano, provocada por la pandemia de COVID-19, en los resultados laborales de los jóvenes guatemaltecos</p>
+    <p><em>Mentor:</em> Guillermo Mondragón</p>
+  </div>
+
+  <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Gianella_Alejandra_Pineda_Ilazaca.jpg" alt="Gianella Pineda">
+    <h3>Gianella Pineda</h3>
+    <p><em>Tema:</em> Efecto causal del subsidio cruzado del Fondo de Compensación Social Eléctrica (FOSE) sobre el gasto en electricidad de los hogares peruanos</p>
+    <p><em>Mentor:</em> Joaquin Barrutia</p>
+  </div>
+
+  <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Manuela_Correa.jpeg" alt="Manuela Correa">
+    <h3>Manuela Correa Sogamoso</h3>
+    <p><em>Tema:</em> El efecto de la maternidad sobre el ingreso laboral en profesionales STEAM: Un análisis desde una perspectiva de género en Colombia para el año 2024</p>
+    <p><em>Universidad:</em> Universidad de Ibagué · <em>Mentor:</em> Oscar Poveda</p>
+  </div>
+
+  <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Rolando_Lenin_Ynoñan_Vargas.jpg" alt="Rolando Lenin Ynoñan Vargas">
+    <h3>Rolando Lenin Ynoñan Vargas</h3>
+    <p><em>Tema:</em> Evaluando la Formalización de las MYPES en el 2024: El Caso del Tamaño y Otros Factores</p>
+    <p><em>Mentor:</em> Saúl Elguera</p>
+  </div>
+
+  <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Stephany_Ximena_Vilca_Rugel.jpeg" alt="Stephany Ximena Vilca Rugel">
+    <h3>Stephany Ximena Vilca Rugel</h3>
+    <p><em>Tema:</em> Impacto del Fenómeno El Niño del 2017 en el rezago escolar de estudiantes de la Costa Norte del Perú</p>
+    <p><em>Mentor:</em> Maria Pia Locco</p>
+  </div>
+
+  <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Taciana_Casanova.png" alt="Taciana Casanova">
+    <h3>Taciana Casanova</h3>
+    <p><em>Tema:</em> La educación y la pobreza en Cajamarca: un análisis de su evolución y vínculo en el período 2000-2024</p>
+    <p><em>Universidad:</em> Universidad Nacional de Cajamarca · <em>Mentor:</em> Matilde Cerdá</p>
+  </div>
+
+</div>
