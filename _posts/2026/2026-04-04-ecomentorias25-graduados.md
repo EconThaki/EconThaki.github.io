@@ -73,13 +73,13 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </div>
 
   <div class="team-card">
-    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/Maria_Pia_Locco_Pontificia_Universidad_Catolica_de_Valparaiso.jpg" alt="Maria Pia Locco">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/Maria_Pia.jpg" alt="Maria Pia Locco">
     <h3>Maria Pia Locco</h3>
     <p>Pontificia Universidad Católica de Valparaíso</p>
   </div>
 
   <div class="team-card">
-    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/MatildeCerda_UC_BancoCentral de Nicaragua.jpeg" alt="Matilde Cerdá">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/MatildeCerda_UC_BancoCentraldeNicaragua.jpeg" alt="Matilde Cerdá">
     <h3>Matilde Cerdá</h3>
     <p>PUC Chile / Banco Central de Nicaragua</p>
   </div>
