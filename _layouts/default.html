@@ -270,8 +270,23 @@
     
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
     
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
-    
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script> 
+
+<script>
+$(document).ready(function(){
+  $('.dropdown-submenu > a').on('click', function(e){
+    var submenu = $(this).next('.dropdown-menu');
+    $('.dropdown-submenu .dropdown-menu').not(submenu).hide();
+    submenu.toggle();
+    e.stopPropagation();
+    e.preventDefault();
+  });
+  $(document).on('click', function(){
+    $('.dropdown-submenu .dropdown-menu').hide();
+  });
+});
+</script>
+
 </body>
     
 </html>
