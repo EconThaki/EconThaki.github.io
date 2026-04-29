@@ -73,8 +73,8 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </div>
 
   <div class="team-card">
-    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/Maria_Pia.jpg" alt="Maria Pia Locco">
-    <h3>Maria Pia Locco</h3>
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentores/Maria_Pia.jpg" alt="Maria Pia Iocco">
+    <h3>Maria Pia Iocco</h3>
     <p>Pontificia Universidad Católica de Valparaíso</p>
   </div>
 
