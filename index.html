@@ -2,86 +2,594 @@
 layout: default
 title: Home
 ---
-
-<!-- Home Jumbotron
-================================================== -->    
-<section class="intro full-width">
-    <div class="wrapintro">
-        <h1>EconThaki</h1>
-        <h2 class="lead">"EconThaki" es una comunidad que promueve una academia equitativa y diversa en economía -y carreras relacionadas- en Latinoamérica y el Caribe</h2>  
+ 
+<style>
+ 
+/* ================================
+   HERO
+================================ */
+.hero-section {
+  position: relative;
+  min-height: 560px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('{{ site.baseurl }}/assets/images/Encuentro_presencial/grupal_1.JPG');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.35);
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 60px 24px;
+  max-width: 800px;
+}
+.hero-content h1 {
+  font-size: 2.7rem;
+  font-weight: 800;
+  color: white;
+  line-height: 1.25;
+  margin-bottom: 20px;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.hero-content p {
+  font-size: 1.15rem;
+  color: rgba(255,255,255,0.88);
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+.hero-content p.hero-subtag {
+  font-size: 0.92rem;
+  color: rgba(255,255,255,0.55);
+  margin-bottom: 36px;
+  font-style: italic;
+}
+.hero-buttons {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn-hero-primary {
+  background: #00CDC8;
+  color: #0F0F0F;
+  padding: 13px 30px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: opacity 0.2s;
+}
+.btn-hero-primary:hover { opacity: 0.85; text-decoration: none; color: #0F0F0F; }
+.btn-hero-secondary {
+  background: transparent;
+  color: white;
+  padding: 13px 30px;
+  border-radius: 6px;
+  border: 2px solid white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: opacity 0.2s;
+}
+.btn-hero-secondary:hover { opacity: 0.85; text-decoration: none; color: white; }
+ 
+/* ================================
+   STATS
+================================ */
+.stats-section {
+  background: #0F0F0F;
+  padding: 48px 24px;
+  text-align: center;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.stats-grid {
+  display: flex;
+  justify-content: center;
+  gap: 56px;
+  flex-wrap: wrap;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.stat-item h2 {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #00CDC8;
+  margin: 0;
+  line-height: 1;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.stat-item p {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.65);
+  margin: 6px 0 0 0;
+  line-height: 1.4;
+}
+ 
+/* ================================
+   MISIÓN CON FOTO
+================================ */
+.mision-section {
+  padding: 72px 24px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.mision-inner {
+  display: flex;
+  gap: 56px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.mision-texto {
+  flex: 1;
+  min-width: 280px;
+}
+.mision-texto h2 {
+  font-size: 1.8rem;
+  color: #0F0F0F;
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.mision-texto p {
+  font-size: 1.02rem;
+  color: #555;
+  line-height: 1.85;
+  margin-bottom: 24px;
+}
+.mision-keywords {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.mision-keyword {
+  padding: 5px 14px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  border: 1.5px solid;
+}
+.mision-keyword.k-turquesa { border-color: #00CDC8; color: #00CDC8; }
+.mision-keyword.k-coral { border-color: #FF4A60; color: #FF4A60; }
+.mision-keyword.k-morado { border-color: #9F4AFF; color: #9F4AFF; }
+.mision-keyword.k-negro { border-color: #0F0F0F; color: #0F0F0F; }
+.mision-foto {
+  flex: 1;
+  min-width: 280px;
+}
+.mision-foto img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+}
+ 
+/* ================================
+   FASES
+================================ */
+.fases-section {
+  background: #f7f7f7;
+  padding: 72px 24px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.fases-section h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: #0F0F0F;
+  margin-bottom: 8px;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.fases-subtitulo {
+  text-align: center;
+  color: #888;
+  margin-bottom: 48px;
+  font-size: 1rem;
+}
+.fases-grid {
+  display: flex;
+  gap: 24px;
+  max-width: 1000px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.fase-card {
+  flex: 1;
+  min-width: 240px;
+  background: white;
+  border-radius: 10px;
+  padding: 36px 28px;
+  text-align: center;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+}
+.fase-numero {
+  width: 52px;
+  height: 52px;
+  background: #00CDC8;
+  color: #0F0F0F;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 800;
+  margin: 0 auto 16px auto;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.fase-card h3 {
+  font-size: 1.2rem;
+  color: #0F0F0F;
+  margin: 0 0 12px 0;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.fase-card p {
+  font-size: 0.92rem;
+  color: #666;
+  line-height: 1.7;
+  margin: 0 0 16px 0;
+}
+.fase-card a {
+  color: #00CDC8;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+.fase-card a:hover { text-decoration: underline; }
+.fase-flecha {
+  font-size: 2rem;
+  color: #00CDC8;
+  align-self: center;
+}
+@media (max-width: 768px) { .fase-flecha { display: none; } }
+ 
+/* ================================
+   FOTO SEPARADOR
+================================ */
+.foto-separador {
+  position: relative;
+  height: 380px;
+  overflow: hidden;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.foto-separador img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+}
+.foto-separador-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.1) 100%);
+  display: flex;
+  align-items: center;
+  padding: 0 60px;
+}
+.foto-separador-texto {
+  max-width: 500px;
+}
+.foto-separador-texto h3 {
+  font-size: 1.8rem;
+  color: white;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+  line-height: 1.3;
+  margin-bottom: 12px;
+}
+.foto-separador-texto p {
+  color: rgba(255,255,255,0.8);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+ 
+/* ================================
+   TESTIMONIOS
+================================ */
+.testimonios-section {
+  background: #0F0F0F;
+  padding: 72px 24px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.testimonios-section h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: white;
+  margin-bottom: 8px;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+.testimonios-subtitulo {
+  text-align: center;
+  color: rgba(255,255,255,0.5);
+  margin-bottom: 48px;
+  font-size: 1rem;
+}
+.testimonios-grid {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.testimonio-card {
+  flex: 1;
+  min-width: 240px;
+  background: #1a1a1a;
+  border-left: 4px solid #FF4A60;
+  border-radius: 6px;
+  padding: 28px 24px;
+}
+.testimonio-card p {
+  font-style: italic;
+  color: rgba(255,255,255,0.78);
+  line-height: 1.75;
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+}
+.testimonio-card strong {
+  color: white;
+  font-size: 0.95rem;
+  display: block;
+}
+.testimonio-card span {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.4);
+  margin-top: 3px;
+  display: block;
+}
+.testimonios-cta {
+  text-align: center;
+  margin-top: 36px;
+}
+.testimonios-cta a {
+  color: #00CDC8;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+.testimonios-cta a:hover { text-decoration: underline; }
+ 
+/* ================================
+   CTA FINAL
+================================ */
+.cta-section {
+  position: relative;
+  padding: 80px 24px;
+  text-align: center;
+  overflow: hidden;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cta-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('{{ site.baseurl }}/assets/images/Encuentro_presencial/grupal_2.jpg');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.25);
+}
+.cta-content {
+  position: relative;
+  z-index: 2;
+  max-width: 680px;
+  margin: 0 auto;
+}
+.cta-content h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 16px;
+  font-family: 'Playfair Display', Georgia, serif;
+  line-height: 1.3;
+}
+.cta-content p {
+  font-size: 1.05rem;
+  color: rgba(255,255,255,0.8);
+  line-height: 1.8;
+  margin-bottom: 36px;
+}
+.cta-buttons {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn-cta-donar {
+  background: #FF4A60;
+  color: white;
+  padding: 14px 32px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: opacity 0.2s;
+}
+.btn-cta-donar:hover { opacity: 0.85; text-decoration: none; color: white; }
+.btn-cta-programas {
+  background: transparent;
+  color: white;
+  padding: 14px 32px;
+  border-radius: 6px;
+  border: 2px solid #00CDC8;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: opacity 0.2s;
+  color: #00CDC8;
+}
+.btn-cta-programas:hover { opacity: 0.85; text-decoration: none; color: #00CDC8; }
+ 
+/* ================================
+   RESPONSIVE
+================================ */
+@media (max-width: 768px) {
+  .mision-inner { flex-direction: column; }
+  .foto-separador { height: 280px; }
+  .foto-separador-overlay { padding: 0 24px; }
+  .foto-separador-texto h3 { font-size: 1.4rem; }
+  .hero-content h1 { font-size: 2rem; }
+}
+ 
+</style>
+ 
+<!-- HERO -->
+<section class="hero-section">
+  <div class="hero-bg"></div>
+  <div class="hero-content">
+    <h1>Más diversidad en la academia económica de Latinoamérica.<br>Ese es nuestro camino.</h1>
+    <p>Acompañamos a jóvenes investigadores de contextos diversos en cada etapa de su camino hacia la academia — porque más voces, de más orígenes, hacen mejor ciencia.</p>
+    <p class="hero-subtag">Una comunidad impulsada por voluntarios apasionados e investigadores activos en economía y carreras relacionadas.</p>
+    <div class="hero-buttons">
+      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html" class="btn-hero-primary">Conoce nuestros programas</a>
+      <a href="{{ site.baseurl }}/acercade/2021/01/05/acercade.html" class="btn-hero-secondary">¿Quiénes somos?</a>
     </div>
+  </div>
 </section>
-
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-
-    <div class="section-title">
-        <h2><span>PUBLICACIONES DESTACADAS</span></h2>
+ 
+<!-- STATS -->
+<section class="stats-section">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <h2>110+</h2>
+      <p>Jóvenes<br>impactados</p>
     </div>
-
-    <div class="row listfeaturedtag">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
+    <div class="stat-item">
+      <h2>8+</h2>
+      <p>Países de<br>Latinoamérica</p>
     </div>
-
+    <div class="stat-item">
+      <h2>40+</h2>
+      <p>Mentores<br>voluntarios</p>
+    </div>
+    <div class="stat-item">
+      <h2>4</h2>
+      <p>Cohortes desde<br>el 2022</p>
+    </div>
+  </div>
 </section>
-
-<!-- Posts Index
-================================================== -->
-{% if paginator.previous_page %}
-{% if paginator.previous_page > 0 %}
-<div id="jumptopageof"></div>
-{% endif %}
-{% endif %}    
-
-<section class="recent-posts row">
-
-    <div class="col-sm-4">
-        {% include sidebar.html %}
+ 
+<!-- MISIÓN CON FOTO -->
+<section class="mision-section">
+  <div class="mision-inner">
+    <div class="mision-texto">
+      <h2>¿Qué es EconThaki?</h2>
+      <p>EconThaki es una comunidad que promueve una academia equitativa y diversa en economía y carreras relacionadas en Latinoamérica y el Caribe. Apoyamos al talento joven e impulsamos la diversidad para potenciar la cultura de la investigación.</p>
+      <p>Nuestro trabajo es posible gracias a voluntarios apasionados e investigadores activos que creen que más voces, de más orígenes, hacen mejor ciencia.</p>
+      <div class="mision-keywords">
+        <span class="mision-keyword k-turquesa">Diversidad</span>
+        <span class="mision-keyword k-coral">Impacto</span>
+        <span class="mision-keyword k-morado">Academia</span>
+        <span class="mision-keyword k-negro">Jóvenes</span>
+        <span class="mision-keyword k-negro">Investigación</span>
+      </div>
     </div>
-
-    <div class="col-sm-8">
-
-        <div class="section-title">
-            <h2><span>TODAS LAS PUBLICACIONES </span></h2>    
-        </div>
-
-        <div class="masonrygrid row listrecent">
-
-            {% for post in paginator.posts %}
-
-            {% unless post.featured == true %}
-
-                {% include postbox.html %}
-
-            {% endunless %}
-
-            {% endfor %}
-
-        </div> 
-
-        <!-- Pagination -->
-        <div class="bottompagination">
-
-            <span class="navigation" role="navigation">
-
-                {% include pagination.html %}
-
-            </span>
-
-        </div>
-
+    <div class="mision-foto">
+      <img src="{{ site.baseurl }}/assets/images/Encuentro_presencial/cd.JPG" alt="Equipo EconThaki">
     </div>
-
+  </div>
+</section>
+ 
+<!-- FASES -->
+<section class="fases-section">
+  <h2>Nuestro camino</h2>
+  <p class="fases-subtitulo">Tres programas para acompañar a jóvenes en cada etapa de su desarrollo académico</p>
+  <div class="fases-grid">
+ 
+    <div class="fase-card">
+      <div class="fase-numero">1</div>
+      <h3>Ecomienza</h3>
+      <p>Capacitamos a jóvenes universitarios en herramientas clave de investigación aplicada en economía. Es el primer paso para quienes quieren iniciarse en la academia.</p>
+      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html">Ver programa →</a>
+    </div>
+ 
+    <div class="fase-flecha">→</div>
+ 
+    <div class="fase-card">
+      <div class="fase-numero">2</div>
+      <h3>Mentorías</h3>
+      <p>Cada participante es acompañado por un mentor activo en la academia para desarrollar su propia propuesta de investigación. Un espacio para aprender haciendo.</p>
+      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html">Ver programa →</a>
+    </div>
+ 
+    <div class="fase-flecha">→</div>
+ 
+    <div class="fase-card">
+      <div class="fase-numero">3</div>
+      <h3>Fellowships</h3>
+      <p>Los fellows son emparejados con investigadores principales y trabajan como asistentes de investigación en proyectos reales. Así se cierra el círculo: del talento a la academia.</p>
+      <a href="{{ site.baseurl }}/fellowships/">Ver programa →</a>
+    </div>
+ 
+  </div>
+</section>
+ 
+<!-- FOTO SEPARADOR -->
+<div class="foto-separador">
+  <img src="{{ site.baseurl }}/assets/images/Lima Summer School/cohorte_2024.jpeg" alt="Cohorte EconThaki Lima Summer School 2024">
+  <div class="foto-separador-overlay">
+    <div class="foto-separador-texto">
+      <h3>Desde las universidades públicas hasta la investigación de frontera.</h3>
+      <p>Cuatro cohortes, ocho países, más de cien jóvenes que ya comenzaron su camino.</p>
+    </div>
+  </div>
+</div>
+ 
+<!-- TESTIMONIOS -->
+<section class="testimonios-section">
+  <h2>Voces de nuestra comunidad</h2>
+  <p class="testimonios-subtitulo">Lo que dicen quienes ya recorrieron este camino</p>
+  <div class="testimonios-grid">
+ 
+    <div class="testimonio-card">
+      <p>"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
+      <strong>Ashley Ccanto</strong>
+      <span>Fellow EconThaki 2025 · UNALM, Lima</span>
+    </div>
+ 
+    <div class="testimonio-card">
+      <p>"Ahora sí creo y estoy convencido de que puedo seguir una carrera en economía. EconThaki fue clave en hacerme entender que cada persona tiene su propio camino."</p>
+      <strong>Antony Barra</strong>
+      <span>Fellow EconThaki 2025 · UNSAAC, Cusco</span>
+    </div>
+ 
+    <div class="testimonio-card">
+      <p>"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
+      <strong>Alexis Minaya</strong>
+      <span>Fellow EconThaki 2025 · UNMSM, Lima</span>
+    </div>
+ 
+  </div>
+  <div class="testimonios-cta">
+    <a href="{{ site.baseurl }}/voces/2021/01/05/voces.html">Leer más historias →</a>
+  </div>
+</section>
+ 
+<!-- CTA FINAL -->
+<section class="cta-section">
+  <div class="cta-bg"></div>
+  <div class="cta-content">
+    <h2>¿Quieres ser parte de este camino?</h2>
+    <p>Puedes apoyar a EconThaki como mentor voluntario, compartiendo nuestra convocatoria, o contribuyendo con una donación. Cada aporte ayuda a que más jóvenes latinoamericanos lleguen a la academia.</p>
+    <div class="cta-buttons">
+      <a href="#" class="btn-cta-donar">💛 Apoya a EconThaki</a>
+      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html" class="btn-cta-programas">Ver programas →</a>
+    </div>
+  </div>
 </section>
