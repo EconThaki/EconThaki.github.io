@@ -27,3 +27,17 @@
   transform: rotate(-90deg);
   margin-left: 8px;
 }
+
+// TIPOGRAFÍA OFICIAL
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+body, p, li, a, span, td, th {
+  font-family: 'DM Sans', 'Rubik', sans-serif;
+}
+
+// Hero específicamente
+.hero-content h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+}

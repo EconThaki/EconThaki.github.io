@@ -11,7 +11,7 @@
   }
 
   .mentor-table th, .mentee-table th {
-    background-color: #2C7A7B;
+    background-color: #00CDC8;
     color: white;
     font-size: 20px;
     text-align: center;
@@ -40,7 +40,7 @@
 
   .mentor-table td:hover,
   .mentee-table td:hover {
-    background-color: #e6f2f1;
+    background-color: #e6fffe;
   }
 
   .mentor-table em, .mentee-table em {
