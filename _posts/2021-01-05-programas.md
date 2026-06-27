@@ -47,10 +47,15 @@ La tercera fase del programa consistirá en mentorías entre nuestra población 
 
 - [Cohorte y Mentores](https://econthaki.github.io/programas/2022/11/01/ecomentorias22-promo.html)
 
+**4. Fellowships**
+
+La cuarta fase del programa consistirá en Fellowships. El programa de Fellowships busca fortalecer el desarrollo de jóvenes investigadores que previamente participaron en EconMienza, donde recibieron formación en herramientas clave para la investigación aplicada en economía y políticas públicas.
+
+- [Link a la página de Fellowships](https://econthaki.github.io/fellowships)
 
 **Ciclo**
 
-Las tres fases componen un ciclo de 1 año. La fase 1 se realiza de forma recurrente y continua en función a la demanda de los talleres por parte de las universidades que forman parte de la población objetivo. La convocatoria para la fase 2 se realiza a inicios de año y va de marzo a junio. La fase 3 va de agosto a diciembre.
+Las cuatro fases componen un ciclo de 1 año. La fase 1 se realiza de forma recurrente y continua en función a la demanda de los talleres por parte de las universidades que forman parte de la población objetivo. La convocatoria para la fase 2 se realiza a inicios de año y va de marzo a junio. La fase 3 va de agosto a diciembre. La fase 4 posterior a la culminación de las fases previas.
 
 
 Link a  [Preguntas Frecuentes][pregfreq-link]
