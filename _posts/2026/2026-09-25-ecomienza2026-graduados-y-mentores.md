@@ -52,18 +52,20 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
         <th colspan="3">Mentores</th> 
   </tr>  
   <tr>
-    <td align="center">María Paz Monge <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/MPMonge.jpeg" border=1 height=100 width=100><br />(JPAL-LAC)<br/> </td>
-    <td align="center">Shantal Aragon <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/SAragon.jpeg" border=1 height=100 width=100><br />(JPAL-LAC)<br/> </td>
-    <td align="center">Brayan A. Condori <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/BCondori.jpeg" border=1 height=100 width=100><br />(EconThaki)<br/> </td>
+    <td align="center">Carmen Armas <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/CArmas.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Erick Oré <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/EOre.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Gabriella Wong  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/GWong.jpeg" border=1 height=100 width=100><br/> </td>
   </tr>
    <tr>
-    <td align="center">IPA Perú / Colombia <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/IPA.jpeg" border=1 height=100 width=100><br/> </td>
-    <td align="center">Marcos Agurto <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/MAgurto.jpeg" border=1 height=100 width=100><br />(Universidad de Piura)<br/> </td>
-    <td align="center">Rony Rodríguez-Ramirez <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/RRodriguezR.jpeg" border=1 height=100 width=100><br />(Harvard)<br/> </td>
+    <td align="center">German Orbegozo-Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/GOrbegozoR.jpg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Johar Cassa  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/JCassa.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Jostin Kitmang  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/JKitmang.jpeg" border=1 height=100 width=100><br/> </td>
   </tr>
     <tr>
-    <td align="center">Alessandra Hidalgo <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/AHidalgo.jpeg" border=1 height=100 width=100><br />(Lancaster University)<br/> </td>
-    <td align="center">Walter Sosa Escudero <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/WSosaEscudero.jpeg" border=1 height=100 width=100><br />(U. San Andrés)<br/> </td>
-    <td align="center"></td>
+    <td align="center">Mayte Ysique  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/MYsique.jpeg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Ronny Condor  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/RCondor.jpg" border=1 height=100 width=100><br/> </td>
+    <td align="center">Rony Maximiliano Rodriguez  <br /><img src="{{ site.baseurl }}/assets/images/ecomienza24/fotosmentores/RMaximiliano.jpeg" border=1 height=100 width=100><br/> </td>
   </tr> 
+ 
+
 </table>
