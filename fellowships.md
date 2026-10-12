@@ -15,7 +15,7 @@ Gracias al apoyo de nuestros donantes, este programa permitió que los fellows c
 La primera cohorte estuvo conformada por tres fellows, cada uno emparejado individualmente con un investigador principal:
 
 - **Ashley Ccanto** — Asistente de investigación de **Fabiola Alba Vivar y Carolina Concha Arriagada**
-- **Antony Barra** — Asistente de investigación de **Diego Santa Maria**
+- **Antony Ore** — Asistente de investigación de **Diego Santa Maria**
 - **Alexis Minaya** — Asistente de investigación de **David Ontaneda y Bei Luo**
 
 Durante el fellowship, los participantes contribuyeron activamente al desarrollo de proyectos de investigación, fortaleciendo sus habilidades técnicas y analíticas, y consolidando su preparación para continuar una carrera académica.
@@ -26,7 +26,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <h3>Ashley Ccanto</h3>
   </div>
   <div class="team-card">
-    <img src="/assets/images/fellowships/Antony.jpeg" alt="Antony Barra">
+    <img src="/assets/images/fellowships/Antony.jpeg" alt="Antony Ore">
     <h3>Antony Barra</h3>
   </div>
   <div class="team-card">
@@ -50,7 +50,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
   <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
     <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Qué te motiva a continuar en la trayectoria académica?</p>
     <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
-    <strong>— Antony Barra</strong>
+    <strong>— Antony Ore</strong>
     <span style="font-size:0.9em; color:#555;">UNSAAC, Cusco</span>
     <a href="/voces/2026/03/01/voces_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
   </div>
