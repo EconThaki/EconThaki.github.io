@@ -27,7 +27,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
   </div>
   <div class="team-card">
     <img src="/assets/images/fellowships/Antony.jpeg" alt="Antony Ore">
-    <h3>Antony Barra</h3>
+    <h3>Antony Ore</h3>
   </div>
   <div class="team-card">
     <img src="/assets/images/fellowships/Alex.jpg" alt="Alexis Minaya">
