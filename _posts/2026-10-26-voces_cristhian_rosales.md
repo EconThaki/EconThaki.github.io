@@ -68,7 +68,7 @@ Mis padres siempre me apoyaron, pero la confianza de mi papá fue fundamental. M
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Para muchos, intentarlo era un gasto innecesario; para él, era una oportunidad que yo debía tener. >>
+<< Para muchos, intentarlo era un gasto innecesario; para él [mi papá], era una oportunidad que yo debía tener. >>
 </font>
 </div>
 
@@ -222,7 +222,7 @@ En mi caso, la mayor dificultad ha sido familiar y emocional. Estoy casado, teng
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< No puedo hablar de mi experiencia en el doctorado sin hablar de lo que significa vivir lejos de ellas y de lo difícil que ha sido aprender a manejar esa distancia, sobre todo en mi papel como padre. >>
+<< No puedo hablar de mi experiencia en el doctorado sin hablar de lo que significa vivir lejos de ellas [mi esposa, mi hija y mi mamá] y de lo difícil que ha sido aprender a manejar esa distancia, sobre todo en mi papel como padre. >>
 </font>
 </div>
 
