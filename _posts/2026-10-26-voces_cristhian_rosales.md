@@ -19,7 +19,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista ecuatoriano Cristhian Rosales-Castillo, quien es  estudiante de doctorado en Emory University. Cristhian estudió el pregrado en economía en la Escuela Politécnica Nacional y Jean Monnet y la maestría en la FLACSO. Sus temas de interés en investigación son la macroeconomía, econometría bayesiana, series temporales y machine learning, con intereses secundarios en econometría aplicada y microeconomía aplicada.
+En esta edición de Voces, entrevistamos al economista ecuatoriano Cristhian Rosales-Castillo, quien es  estudiante de doctorado en Emory University. Cristhian estudió el pregrado en economía en la Escuela Politécnica Nacional (EPN) (doble titulación con la Universidad Jean Monnet de Francia), y la maestría en la FLACSO Ecuador. Sus temas de interés en investigación son la macroeconomía, econometría bayesiana, series temporales y machine learning, con intereses secundarios en econometría aplicada y microeconomía aplicada.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
@@ -88,7 +88,7 @@ Cuando llegué al prepo, muchos compañeros venían de colegios públicos y priv
 
 Después descubrí que Economía en la EPN pertenecía a la Facultad de Ciencias y compartía profesores y buena parte de la formación de los primeros años con Física y Matemáticas. Es decir, la opción que había escogido por miedo a las matemáticas terminó dándome una formación muy sólida en ellas. Llegué a querer cambiarme a Matemáticas, pero eso habría retrasado mis estudios y no podía permitírmelo. Mi padre falleció durante la carrera, cuando yo tenía diecinueve años, y tuve que asumir el sostenimiento de mi familia.
 
-Desde el segundo semestre trabajaba unas diez horas a la semana para mantenerme. Tras la muerte de mi padre, en cuarto semestre, pasé a trabajar cuarenta horas semanales mientras seguía estudiando. Mi mamá y mi hermano dependían económicamente de mí. Muchos pensaron que no terminaría la universidad o que tardaría mucho más, pero tuve el apoyo de mi familia y mis amigos. Terminé los cursos en menos tiempo que la mayoría de mis compañeros y estuve entre los estudiantes con mejor desempeño académico. Para mí, estudiar siempre fue un refugio.
+Desde el segundo semestre trabajaba unas diez horas a la semana para mantenerme. Tras la muerte de mi padre, en cuarto semestre, pasé a trabajar cuarenta horas semanales mientras seguía estudiando. Mi mamá y mi hermano dependían económicamente de mí. Muchos pensaron que no terminaría la universidad o que tardaría mucho más, pero tuve el apoyo de mi familia y mis amigos. Terminé los cursos en aproximadamente tres años y medio, y estuve en el uno por ciento de mejor desempeño académico de toda la universidad al momento de graduarme. Para mí, estudiar siempre fue un refugio.
 
 <div style="text-align: right"> 
 <font size = '6'>
@@ -242,9 +242,9 @@ Andrés Arauz, uno de los ministros con quienes trabajé, también influyó en m
 
 En Emory, mi primer mentor fue David Jacho. Su apoyo ha sido fundamental para mi camino en el doctorado. Valoro mucho su ética de trabajo, sus consejos honestos y su forma de recordarme que no debemos olvidar de dónde venimos, sin importar adónde lleguemos.
 
-Actualmente, mi gran mentor es mi asesor, Juan Rubio-Ramírez. Admiro su capacidad para simplificar problemas y encontrar ideas profundas en principios básicos. Nuestras conversaciones me han ayudado a pensar mejor tanto en la investigación como en la relación entre la vida académica, profesional y personal.
+Actualmente, mi mentor es mi asesor, Juan Rubio-Ramírez. Admiro su capacidad para simplificar problemas y encontrar ideas profundas en principios básicos. Nuestras conversaciones me han ayudado a pensar mejor tanto en la investigación como en la relación entre la vida académica, profesional y personal.
 
-También he aprendido mucho de Elena Pesavento, con quien trabajo desde mi segundo año. Ha sido muy generosa al discutir ideas y compartir su perspectiva sobre la investigación, la vida académica y el mercado laboral. Con Florian Gunsilius, Teddy Kim, In-Koo Cho y Alexis Toda he tenido oportunidades de aprender a través de clases, estudios dirigidos o reuniones. Cada una de esas interacciones me ha ayudado a ser un mejor economista. Siento mucha admiración por ellos y espero seguir acercándome a lo que conocen y entienden.
+También he aprendido mucho de Elena Pesavento, con quien trabajo desde mi segundo año. Ella y Florian Gunsilius han sido muy generosos al discutir ideas y compartir su perspectiva sobre la investigación, la vida académica, el mercado laboral y la vida en general. Con Teddy Kim, In-Koo Cho y Alexis Toda he tenido oportunidades de aprender a través de clases, estudios dirigidos o reuniones. Cada una de esas interacciones me ha ayudado a ser un mejor economista. Siento mucha admiración por ellos y espero seguir acercándome a lo que conocen y entienden.
 
 <div style="text-align: right"> 
 <font size = '6'>
