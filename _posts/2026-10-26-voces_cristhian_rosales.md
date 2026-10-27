@@ -442,11 +442,11 @@ Necesitamos mejorar el acceso a educación de calidad desde las primeras etapas,
   </strong>  
 </div>
 
-Es difícil dar un consejo que sirva para todos, así que prefiero hablar desde mi experiencia. Les diría que no se limiten demasiado por lo que hoy creen posible. Vale la pena soñar en grande, intentarlo y conversar con distintas personas antes de descartar un camino.
+Es difícil dar un consejo que sirva para todos, así que prefiero hablar desde mi experiencia. Les diría que no se limiten por lo que hoy creen posible. Vale la pena soñar en grande, intentarlo y conversar con distintas personas antes de descartar un camino.
 
 <div style="text-align: right"> 
 <font size = '6'>
-<< Les diría que no se limiten demasiado por lo que hoy creen posible. >>
+<< Les diría que no se limiten por lo que hoy creen posible. >>
 </font>
 </div>
 
