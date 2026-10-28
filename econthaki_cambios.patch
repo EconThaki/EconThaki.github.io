@@ -1,0 +1,800 @@
+diff --git a/_includes/donation-simulator.html b/_includes/donation-simulator.html
+new file mode 100644
+index 0000000..8bc470c
+--- /dev/null
++++ b/_includes/donation-simulator.html
+@@ -0,0 +1,68 @@
++<!-- Simulador de donación EconThaki. Uso: {% include donation-simulator.html lang="es" %} (o "en") -->
++<style>
++.ds{--ds-bg:#fff;--ds-fg:#0F0F0F;--ds-mut:#5f6368;--ds-line:#e3e6e8;--ds-acc:#00CDC8;--ds-accfg:#0F0F0F;--ds-soft:#f2fbfb;max-width:640px;margin:0 auto;padding:24px;border:1px solid var(--ds-line);border-radius:16px;background:var(--ds-bg);color:var(--ds-fg);font-family:'DM Sans',system-ui,sans-serif;box-sizing:border-box}
++@media (prefers-color-scheme:dark){.ds{--ds-bg:#161a1c;--ds-fg:#f1f3f4;--ds-mut:#a0a7ab;--ds-line:#2b3236;--ds-soft:#10282a}}
++.ds *{box-sizing:border-box}.ds h3{margin:0 0 4px;font-size:1.3rem}.ds p.m{color:var(--ds-mut);margin:0 0 16px;font-size:.92rem}
++.ds .row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
++.ds button.p,.ds button.t{flex:1 1 70px;padding:12px 8px;min-height:44px;border:1px solid var(--ds-line);border-radius:10px;background:transparent;color:inherit;font:inherit;cursor:pointer}
++.ds button.on{background:var(--ds-acc);color:var(--ds-accfg);border-color:var(--ds-acc);font-weight:600}
++.ds input{width:100%;min-height:44px;padding:10px 12px;border:1px solid var(--ds-line);border-radius:10px;background:transparent;color:inherit;font:inherit;font-size:1rem}
++.ds label{display:block;font-size:.85rem;color:var(--ds-mut);margin:4px 0}
++.ds .out{background:var(--ds-soft);border-radius:12px;padding:16px;margin:16px 0}
++.ds .out b{font-size:1.4rem}.ds ul{margin:8px 0 0;padding-left:18px}.ds li{margin:4px 0}
++.ds .go{display:block;text-align:center;padding:14px;border-radius:999px;background:var(--ds-acc);color:var(--ds-accfg);font-weight:700;text-decoration:none}
++.ds .go.off{opacity:.5;pointer-events:none}.ds small{display:block;color:var(--ds-mut);margin-top:10px}
++</style>
++<div class="ds" id="ds" data-lang="{{ include.lang | default: 'es' }}"></div>
++<script>
++(function(){
++// ===== CONFIGURACIÓN (editar aquí; confirmar valores con Finanzas) =====
++var CFG={
++  donateUrl:"",           // Pegar aquí el enlace de pago cuando Finanzas lo defina
++  feePct:5,               // Comisión estimada de la plataforma (%) — REFERENCIAL
++  penPerUsd:3.7,          // Tipo de cambio referencial — REFERENCIAL
++  presets:[5,10,25,50,100],
++  impact:[                // EJEMPLOS ilustrativos en USD — reemplazar con costos reales
++    {usd:5, es:"materiales de estudio para 1 participante", en:"study materials for 1 participant"},
++    {usd:15,es:"una sesión de mentoría (plataforma y coordinación)", en:"one mentoring session (platform and coordination)"},
++    {usd:40,es:"un cupo completo en Ecomienza", en:"a full seat in Ecomienza"}
++  ]
++};
++var T={es:{t:"Simula tu aporte",s:"Mira cómo puede ayudar tu donación. Es solo una simulación: no se cobra nada aquí.",amt:"Monto",oth:"Otro monto",once:"Una vez",mon:"Cada mes",rec:"EconThaki recibiría aprox.",yr:"Al año aportarías",imp:"Con eso se podría cubrir, por ejemplo:",no:"Aún no alcanza para un ejemplo; todo suma.",go:"Donar",soon:"Pronto: datos de la cuenta",note:"Valores referenciales: comisión y tipo de cambio pueden variar. Equivalencias ilustrativas, por confirmar.",cur:"Moneda"},
++en:{t:"Simulate your gift",s:"See how your donation can help. This is only a simulation: nothing is charged here.",amt:"Amount",oth:"Other amount",once:"One time",mon:"Monthly",rec:"EconThaki would receive approx.",yr:"Over a year you would give",imp:"That could cover, for example:",no:"Not yet enough for an example; every bit counts.",go:"Donate",soon:"Coming soon: account details",note:"Reference values: fees and exchange rate may vary. Illustrative equivalents, to be confirmed.",cur:"Currency"}};
++var el=document.getElementById('ds'),L=el.getAttribute('data-lang')==='en'?'en':'es',S=T[L];
++var st={amt:25,cur:'USD',freq:'once'};
++function fmt(n,c){return (c==='USD'?'US$ ':'S/ ')+n.toLocaleString(L==='en'?'en-US':'es-PE',{minimumFractionDigits:0,maximumFractionDigits:2});}
++function toUsd(v){return st.cur==='USD'?v:v/CFG.penPerUsd;}
++function render(){
++  var v=Math.max(0,Number(st.amt)||0),net=v*(1-CFG.feePct/100),netUsd=toUsd(net),h='';
++  h+='<h3>'+S.t+'</h3><p class="m">'+S.s+'</p>';
++  h+='<label>'+S.cur+'</label><div class="row">'+['USD','PEN'].map(function(c){return '<button class="t'+(st.cur===c?' on':'')+'" data-c="'+c+'">'+c+'</button>';}).join('')+'</div>';
++  h+='<label>'+S.amt+'</label><div class="row">'+CFG.presets.map(function(p){var a=st.cur==='USD'?p:Math.round(p*CFG.penPerUsd/5)*5;return '<button class="p'+(Number(st.amt)===a?' on':'')+'" data-a="'+a+'">'+fmt(a,st.cur)+'</button>';}).join('')+'</div>';
++  h+='<label for="ds-o">'+S.oth+'</label><input id="ds-o" type="number" min="0" inputmode="decimal" value="'+st.amt+'"><div class="row" style="margin-top:12px">'+['once','mon'].map(function(f){return '<button class="t'+(st.freq===f?' on':'')+'" data-f="'+f+'">'+S[f==='once'?'once':'mon']+'</button>';}).join('')+'</div>';
++  h+='<div class="out" aria-live="polite">'+S.rec+' <b>'+fmt(net,st.cur)+'</b>';
++  if(st.freq==='mon')h+='<br>'+S.yr+': <b>'+fmt(v*12,st.cur)+'</b>';
++  var tot=netUsd*(st.freq==='mon'?12:1),items=CFG.impact.filter(function(i){return tot>=i.usd;});
++  h+='<br><span style="color:var(--ds-mut)">'+S.imp+'</span>';
++  h+=items.length?'<ul>'+items.map(function(i){var n=Math.floor(tot/i.usd);return '<li>'+n+' × '+i[L]+'</li>';}).join('')+'</ul>':'<br>'+S.no;
++  h+='</div>';
++  h+=CFG.donateUrl?'<a class="go" href="'+CFG.donateUrl+'" target="_blank" rel="noopener">💛 '+S.go+'</a>':'<span class="go off">💛 '+S.soon+'</span>';
++  h+='<small>'+S.note+'</small>';
++  el.innerHTML=h;
++  var o=document.getElementById('ds-o');
++  o.addEventListener('input',function(){st.amt=o.value;update();});
++}
++function update(){ // re-render sin perder el foco del campo
++  var f=document.activeElement&&document.activeElement.id==='ds-o',pos=f?document.activeElement.selectionStart:0;
++  render();if(f){var o=document.getElementById('ds-o');o.focus();try{o.setSelectionRange(pos,pos);}catch(e){}}
++}
++el.addEventListener('click',function(e){
++  var b=e.target.closest('button');if(!b)return;
++  if(b.dataset.a)st.amt=Number(b.dataset.a);
++  if(b.dataset.c){var old=st.cur;st.cur=b.dataset.c;if(old!==st.cur)st.amt=st.cur==='USD'?25:90;}
++  if(b.dataset.f)st.freq=b.dataset.f;
++  render();
++});
++render();
++})();
++</script>
+diff --git a/_includes/nav-en.html b/_includes/nav-en.html
+new file mode 100644
+index 0000000..4de5f7a
+--- /dev/null
++++ b/_includes/nav-en.html
+@@ -0,0 +1,10 @@
++<ul class="navbar-nav ml-auto">
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/en/">Home</a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/acercade/2021/01/05/acercade.html">About us <small>(ES)</small></a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/programas/2021/01/05/programas.html">Programs <small>(ES)</small></a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/fellowships/">Fellowships</a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/voces/2021/01/05/voces.html">Voices <small>(ES)</small></a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/en/support/">Support us</a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/contact.html">Contact</a></li>
++  <li class="nav-item"><a class="nav-link" href="{{ page.alt_url | default: '/' | prepend: site.baseurl }}" hreflang="es" lang="es" aria-label="Ver en español">ES</a></li>
++</ul>
+diff --git a/_layouts/default.html b/_layouts/default.html
+index 1f60837..8e6335c 100644
+--- a/_layouts/default.html
++++ b/_layouts/default.html
+@@ -1,8 +1,9 @@
+ <!DOCTYPE html>
+-<html lang="en">
++<html lang="{{ page.lang | default: 'es' }}">
+ <head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
++{% if page.alt_url %}<link rel="alternate" hreflang="{% if page.lang == 'en' %}es{% else %}en{% endif %}" href="{{ site.url }}{{ page.alt_url }}">{% endif %}
+ <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.jpg">    
+ <title>{{ page.title }} | {{site.name}}</title>
+ {% seo %}
+@@ -56,6 +57,7 @@
+         <div class="collapse navbar-collapse" id="navbarsWow">
+             
+             <!-- Begin Menu -->
++            {% if page.lang == 'en' %}{% include nav-en.html %}{% else %}
+             <ul class="navbar-nav ml-auto">
+                 
+                 <li class="nav-item">                
+@@ -129,9 +131,11 @@
+                 <li class="nav-item">                
+                     <a class="nav-link" href="{{ site.baseurl }}/contact.html"> Contacto</a>
+                 </li> 
+-                
++                <li class="nav-item">
++                    <a class="nav-link" href="{{ page.alt_url | default: '/en/' | prepend: site.baseurl }}" hreflang="en" lang="en" aria-label="View in English">EN</a>
++                </li>
+             </ul>
+-            <!-- End Menu -->
++            <!-- End Menu -->{% endif %}
+             
+         </div>
+     </div>
+@@ -176,7 +180,7 @@
+                 <div class="col-md-8">
+                     <h3>Trabajamos por incrementar la diversidad en la academia en economía en Latinoamérica y Caribe.</h3>
+                     <p>Si tienes ideas que quieras compartir sobre esto, no dudes en contactarte con nosotr@s.</p>
+-                    <a class="btn btn-primary btn-lg" href="#">Regresar al Inicio</a>
++                    <a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/">Regresar al Inicio</a>
+                 </div>
+                 <div class="col-md-4 text-right footersocial">
+                     <h5>Encuéntranos en nuestras redes</h5>
+diff --git a/apoya.html b/apoya.html
+new file mode 100644
+index 0000000..4dd2da7
+--- /dev/null
++++ b/apoya.html
+@@ -0,0 +1,13 @@
++---
++layout: default
++title: Apoya a EconThaki
++permalink: /apoya/
++lang: es
++alt_url: /en/support/
++---
++<div class="container" style="padding:110px 15px 60px">
++  <h1 style="text-align:center">💛 Apoya a EconThaki</h1>
++  <p style="text-align:center;max-width:640px;margin:0 auto 28px">Puedes ayudar como mentor voluntario, compartiendo nuestra convocatoria o con una donación. Cada aporte ayuda a que más jóvenes latinoamericanos lleguen a la academia.</p>
++  {% include donation-simulator.html lang="es" %}
++  <p style="text-align:center;margin-top:28px">¿Quieres ser mentor o voluntario? <a href="{{ site.baseurl }}/contact.html">Escríbenos</a>.</p>
++</div>
+diff --git a/en/index.html b/en/index.html
+new file mode 100644
+index 0000000..87ca87f
+--- /dev/null
++++ b/en/index.html
+@@ -0,0 +1,597 @@
++---
++layout: default
++title: Home
++permalink: /en/
++lang: en
++alt_url: /
++---
++ 
++<style>
++ 
++/* ================================
++   HERO
++================================ */
++.hero-section {
++  position: relative;
++  min-height: 560px;
++  display: flex;
++  align-items: center;
++  justify-content: center;
++  text-align: center;
++  overflow: hidden;
++  margin-left: -15px;
++  margin-right: -15px;
++}
++.hero-bg {
++  position: absolute;
++  inset: 0;
++  background-image: url('{{ site.baseurl }}/assets/images/Encuentro_presencial/grupal_1.JPG');
++  background-size: cover;
++  background-position: center;
++  filter: brightness(0.35);
++}
++.hero-content {
++  position: relative;
++  z-index: 2;
++  padding: 60px 24px;
++  max-width: 800px;
++}
++.hero-content h1 {
++  font-size: 2.7rem;
++  font-weight: 800;
++  color: white;
++  line-height: 1.25;
++  margin-bottom: 20px;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.hero-content p {
++  font-size: 1.15rem;
++  color: rgba(255,255,255,0.88);
++  line-height: 1.8;
++  margin-bottom: 12px;
++}
++.hero-content p.hero-subtag {
++  font-size: 0.92rem;
++  color: rgba(255,255,255,0.55);
++  margin-bottom: 36px;
++  font-style: italic;
++}
++.hero-buttons {
++  display: flex;
++  gap: 16px;
++  justify-content: center;
++  flex-wrap: wrap;
++}
++.btn-hero-primary {
++  background: #00CDC8;
++  color: #0F0F0F;
++  padding: 13px 30px;
++  border-radius: 6px;
++  text-decoration: none;
++  font-weight: 700;
++  font-size: 1rem;
++  transition: opacity 0.2s;
++}
++.btn-hero-primary:hover { opacity: 0.85; text-decoration: none; color: #0F0F0F; }
++.btn-hero-secondary {
++  background: transparent;
++  color: white;
++  padding: 13px 30px;
++  border-radius: 6px;
++  border: 2px solid white;
++  text-decoration: none;
++  font-weight: 700;
++  font-size: 1rem;
++  transition: opacity 0.2s;
++}
++.btn-hero-secondary:hover { opacity: 0.85; text-decoration: none; color: white; }
++ 
++/* ================================
++   STATS
++================================ */
++.stats-section {
++  background: #0F0F0F;
++  padding: 48px 24px;
++  text-align: center;
++  margin-left: -15px;
++  margin-right: -15px;
++}
++.stats-grid {
++  display: flex;
++  justify-content: center;
++  gap: 56px;
++  flex-wrap: wrap;
++  max-width: 900px;
++  margin: 0 auto;
++}
++.stat-item h2 {
++  font-size: 3rem;
++  font-weight: 800;
++  color: #00CDC8;
++  margin: 0;
++  line-height: 1;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.stat-item p {
++  font-size: 0.9rem;
++  color: rgba(255,255,255,0.65);
++  margin: 6px 0 0 0;
++  line-height: 1.4;
++}
++ 
++/* ================================
++   MISIÓN CON FOTO
++================================ */
++.mision-section {
++  padding: 72px 24px;
++  max-width: 1000px;
++  margin: 0 auto;
++}
++.mision-inner {
++  display: flex;
++  gap: 56px;
++  align-items: center;
++  flex-wrap: wrap;
++}
++.mision-texto {
++  flex: 1;
++  min-width: 280px;
++}
++.mision-texto h2 {
++  font-size: 1.8rem;
++  color: #0F0F0F;
++  margin-bottom: 16px;
++  font-weight: 700;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.mision-texto p {
++  font-size: 1.02rem;
++  color: #555;
++  line-height: 1.85;
++  margin-bottom: 24px;
++}
++.mision-keywords {
++  display: flex;
++  gap: 10px;
++  flex-wrap: wrap;
++}
++.mision-keyword {
++  padding: 5px 14px;
++  border-radius: 999px;
++  font-size: 0.82rem;
++  font-weight: 600;
++  letter-spacing: 0.5px;
++  border: 1.5px solid;
++}
++.mision-keyword.k-turquesa { border-color: #00CDC8; color: #00CDC8; }
++.mision-keyword.k-coral { border-color: #FF4A60; color: #FF4A60; }
++.mision-keyword.k-morado { border-color: #9F4AFF; color: #9F4AFF; }
++.mision-keyword.k-negro { border-color: #0F0F0F; color: #0F0F0F; }
++.mision-foto {
++  flex: 1;
++  min-width: 280px;
++}
++.mision-foto img {
++  width: 100%;
++  aspect-ratio: 4 / 3;
++  object-fit: cover;
++  border-radius: 10px;
++  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
++}
++ 
++/* ================================
++   FASES
++================================ */
++.fases-section {
++  background: #f7f7f7;
++  padding: 72px 24px;
++  margin-left: -15px;
++  margin-right: -15px;
++}
++.fases-section h2 {
++  text-align: center;
++  font-size: 1.8rem;
++  color: #0F0F0F;
++  margin-bottom: 8px;
++  font-weight: 700;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.fases-subtitulo {
++  text-align: center;
++  color: #888;
++  margin-bottom: 48px;
++  font-size: 1rem;
++}
++.fases-grid {
++  display: flex;
++  gap: 24px;
++  max-width: 1000px;
++  margin: 0 auto;
++  flex-wrap: wrap;
++  align-items: flex-start;
++}
++.fase-card {
++  flex: 1;
++  min-width: 240px;
++  background: white;
++  border-radius: 10px;
++  padding: 36px 28px;
++  text-align: center;
++  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
++}
++.fase-numero {
++  width: 52px;
++  height: 52px;
++  background: #00CDC8;
++  color: #0F0F0F;
++  border-radius: 50%;
++  display: flex;
++  align-items: center;
++  justify-content: center;
++  font-size: 1.4rem;
++  font-weight: 800;
++  margin: 0 auto 16px auto;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.fase-card h3 {
++  font-size: 1.2rem;
++  color: #0F0F0F;
++  margin: 0 0 12px 0;
++  font-weight: 700;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.fase-card p {
++  font-size: 0.92rem;
++  color: #666;
++  line-height: 1.7;
++  margin: 0 0 16px 0;
++}
++.fase-card a {
++  color: #00CDC8;
++  font-weight: 600;
++  font-size: 0.9rem;
++  text-decoration: none;
++}
++.fase-card a:hover { text-decoration: underline; }
++.fase-flecha {
++  font-size: 2rem;
++  color: #00CDC8;
++  align-self: center;
++}
++@media (max-width: 768px) { .fase-flecha { display: none; } }
++ 
++/* ================================
++   FOTO SEPARADOR
++================================ */
++.foto-separador {
++  position: relative;
++  height: 380px;
++  overflow: hidden;
++  margin-left: -15px;
++  margin-right: -15px;
++}
++.foto-separador img {
++  width: 100%;
++  height: 100%;
++  object-fit: cover;
++  object-position: center bottom;
++}
++.foto-separador-overlay {
++  position: absolute;
++  inset: 0;
++  background: linear-gradient(to right, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.1) 100%);
++  display: flex;
++  align-items: center;
++  padding: 0 60px;
++}
++.foto-separador-texto {
++  max-width: 500px;
++}
++.foto-separador-texto h3 {
++  font-size: 1.8rem;
++  color: white;
++  font-weight: 700;
++  font-family: 'Playfair Display', Georgia, serif;
++  line-height: 1.3;
++  margin-bottom: 12px;
++}
++.foto-separador-texto p {
++  color: rgba(255,255,255,0.8);
++  font-size: 1rem;
++  line-height: 1.7;
++}
++ 
++/* ================================
++   TESTIMONIOS
++================================ */
++.testimonios-section {
++  background: #0F0F0F;
++  padding: 72px 24px;
++  margin-left: -15px;
++  margin-right: -15px;
++}
++.testimonios-section h2 {
++  text-align: center;
++  font-size: 1.8rem;
++  color: white;
++  margin-bottom: 8px;
++  font-weight: 700;
++  font-family: 'Playfair Display', Georgia, serif;
++}
++.testimonios-subtitulo {
++  text-align: center;
++  color: rgba(255,255,255,0.5);
++  margin-bottom: 48px;
++  font-size: 1rem;
++}
++.testimonios-grid {
++  display: flex;
++  gap: 24px;
++  flex-wrap: wrap;
++  max-width: 1000px;
++  margin: 0 auto;
++}
++.testimonio-card {
++  flex: 1;
++  min-width: 240px;
++  background: #1a1a1a;
++  border-left: 4px solid #FF4A60;
++  border-radius: 6px;
++  padding: 28px 24px;
++}
++.testimonio-card p {
++  font-style: italic;
++  color: rgba(255,255,255,0.78);
++  line-height: 1.75;
++  margin-bottom: 20px;
++  font-size: 0.95rem;
++}
++.testimonio-card strong {
++  color: white;
++  font-size: 0.95rem;
++  display: block;
++}
++.testimonio-card span {
++  font-size: 0.82rem;
++  color: rgba(255,255,255,0.4);
++  margin-top: 3px;
++  display: block;
++}
++.testimonios-cta {
++  text-align: center;
++  margin-top: 36px;
++}
++.testimonios-cta a {
++  color: #00CDC8;
++  font-weight: 600;
++  font-size: 0.95rem;
++  text-decoration: none;
++}
++.testimonios-cta a:hover { text-decoration: underline; }
++ 
++/* ================================
++   CTA FINAL
++================================ */
++.cta-section {
++  position: relative;
++  padding: 80px 24px;
++  text-align: center;
++  overflow: hidden;
++  margin-left: -15px;
++  margin-right: -15px;
++}
++.cta-bg {
++  position: absolute;
++  inset: 0;
++  background-image: url('{{ site.baseurl }}/assets/images/Encuentro_presencial/grupal_2.jpg');
++  background-size: cover;
++  background-position: center;
++  filter: brightness(0.25);
++}
++.cta-content {
++  position: relative;
++  z-index: 2;
++  max-width: 680px;
++  margin: 0 auto;
++}
++.cta-content h2 {
++  font-size: 2rem;
++  font-weight: 800;
++  color: white;
++  margin-bottom: 16px;
++  font-family: 'Playfair Display', Georgia, serif;
++  line-height: 1.3;
++}
++.cta-content p {
++  font-size: 1.05rem;
++  color: rgba(255,255,255,0.8);
++  line-height: 1.8;
++  margin-bottom: 36px;
++}
++.cta-buttons {
++  display: flex;
++  gap: 16px;
++  justify-content: center;
++  flex-wrap: wrap;
++}
++.btn-cta-donar {
++  background: #FF4A60;
++  color: white;
++  padding: 14px 32px;
++  border-radius: 6px;
++  text-decoration: none;
++  font-weight: 700;
++  font-size: 1rem;
++  transition: opacity 0.2s;
++}
++.btn-cta-donar:hover { opacity: 0.85; text-decoration: none; color: white; }
++.btn-cta-programas {
++  background: transparent;
++  color: white;
++  padding: 14px 32px;
++  border-radius: 6px;
++  border: 2px solid #00CDC8;
++  text-decoration: none;
++  font-weight: 700;
++  font-size: 1rem;
++  transition: opacity 0.2s;
++  color: #00CDC8;
++}
++.btn-cta-programas:hover { opacity: 0.85; text-decoration: none; color: #00CDC8; }
++ 
++/* ================================
++   RESPONSIVE
++================================ */
++@media (max-width: 768px) {
++  .mision-inner { flex-direction: column; }
++  .foto-separador { height: 280px; }
++  .foto-separador-overlay { padding: 0 24px; }
++  .foto-separador-texto h3 { font-size: 1.4rem; }
++  .hero-content h1 { font-size: 2rem; }
++}
++ 
++</style>
++ 
++<!-- HERO -->
++<section class="hero-section">
++  <div class="hero-bg"></div>
++  <div class="hero-content">
++    <h1>More diversity in Latin American economics academia.<br>That is our path.</h1>
++    <p>We support young researchers from diverse backgrounds at every stage of their path into academia, because more voices from more backgrounds make better science.</p>
++    <p class="hero-subtag">A community driven by passionate volunteers and active researchers in economics and related fields.</p>
++    <div class="hero-buttons">
++      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html" class="btn-hero-primary">Explore our programs</a>
++      <a href="{{ site.baseurl }}/acercade/2021/01/05/acercade.html" class="btn-hero-secondary">Who we are</a>
++    </div>
++  </div>
++</section>
++ 
++<!-- STATS -->
++<section class="stats-section">
++  <div class="stats-grid">
++    <div class="stat-item">
++      <h2>110+</h2>
++      <p>Young people<br>reached</p>
++    </div>
++    <div class="stat-item">
++      <h2>8+</h2>
++      <p>Countries in<br>Latin America</p>
++    </div>
++    <div class="stat-item">
++      <h2>40+</h2>
++      <p>Volunteer<br>mentors</p>
++    </div>
++    <div class="stat-item">
++      <h2>4</h2>
++      <p>Cohorts since<br>2022</p>
++    </div>
++  </div>
++</section>
++ 
++<!-- MISIÓN CON FOTO -->
++<section class="mision-section">
++  <div class="mision-inner">
++    <div class="mision-texto">
++      <h2>What is EconThaki?</h2>
++      <p>EconThaki is a community that promotes an equitable and diverse academia in economics and related fields in Latin America and the Caribbean. We support young talent and foster diversity to strengthen research culture.</p>
++      <p>Our work is possible thanks to passionate volunteers and active researchers who believe that more voices from more backgrounds make better science.</p>
++      <div class="mision-keywords">
++        <span class="mision-keyword k-turquesa">Diversity</span>
++        <span class="mision-keyword k-coral">Impact</span>
++        <span class="mision-keyword k-morado">Academia</span>
++        <span class="mision-keyword k-negro">Youth</span>
++        <span class="mision-keyword k-negro">Research</span>
++      </div>
++    </div>
++    <div class="mision-foto">
++      <img src="{{ site.baseurl }}/assets/images/Encuentro_presencial/cd.JPG" alt="Equipo EconThaki">
++    </div>
++  </div>
++</section>
++ 
++<!-- FASES -->
++<section class="fases-section">
++  <h2>Our path</h2>
++  <p class="fases-subtitulo">Three programs to support young people at every stage of their academic development</p>
++  <div class="fases-grid">
++ 
++    <div class="fase-card">
++      <div class="fase-numero">1</div>
++      <h3>Ecomienza</h3>
++      <p>We train university students in key tools for applied economics research. It is the first step for those who want to start in academia.</p>
++      <a href="{{ site.baseurl }}/programas/2026/05/26/ecomienza26.html">See program →</a>
++    </div>
++ 
++    <div class="fase-flecha">→</div>
++ 
++    <div class="fase-card">
++      <div class="fase-numero">2</div>
++      <h3>Mentorship</h3>
++      <p>Each participant is paired with an active academic mentor to develop their own research proposal. A space to learn by doing.</p>
++      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html">See program →</a>
++    </div>
++ 
++    <div class="fase-flecha">→</div>
++ 
++    <div class="fase-card">
++      <div class="fase-numero">3</div>
++      <h3>Fellowships</h3>
++      <p>Fellows are matched with principal investigators and work as research assistants on real projects. This closes the circle: from talent to academia.</p>
++      <a href="{{ site.baseurl }}/fellowships/">See program →</a>
++    </div>
++ 
++  </div>
++</section>
++ 
++<!-- FOTO SEPARADOR -->
++<div class="foto-separador">
++  <img src="{{ site.baseurl }}/assets/images/Lima Summer School/cohorte_2024.jpeg" alt="Cohorte EconThaki Lima Summer School 2024">
++  <div class="foto-separador-overlay">
++    <div class="foto-separador-texto">
++      <h3>Four cohorts, eight countries, more than a hundred young people who have already begun their path.</h3>
++    </div>
++  </div>
++</div>
++ 
++<!-- TESTIMONIOS -->
++<section class="testimonios-section">
++  <h2>Voices from our community</h2>
++  <p class="testimonios-subtitulo">What people who have walked this path say</p>
++  <div class="testimonios-grid">
++ 
++    <div class="testimonio-card">
++      <p>"I no longer see it as something distant, but as an achievable goal that requires following certain steps and progressive preparation."</p>
++      <strong>Ashley Ccanto</strong>
++      <span>EconThaki Fellow 2025 · UNALM, Lima</span>
++    </div>
++ 
++    <div class="testimonio-card">
++      <p>"Now I truly believe I can pursue a career in economics. EconThaki was key in helping me understand that each person has their own path."</p>
++      <strong>Antony Barra</strong>
++      <span>EconThaki Fellow 2025 · UNSAAC, Cusco</span>
++    </div>
++ 
++    <div class="testimonio-card">
++      <p>"I understood that the academic path is not linear, and that with timely guidance and spaces that recognize potential, it is possible to start an academic trajectory even after facing interruptions."</p>
++      <strong>Alexis Minaya</strong>
++      <span>EconThaki Fellow 2025 · UNMSM, Lima</span>
++    </div>
++ 
++  </div>
++  <div class="testimonios-cta">
++    <a href="{{ site.baseurl }}/voces/2021/01/05/voces.html">Read more stories →</a>
++  </div>
++</section>
++ 
++<!-- CTA FINAL -->
++<section class="cta-section">
++  <div class="cta-bg"></div>
++  <div class="cta-content">
++    <h2>Want to be part of this path?</h2>
++    <p>You can support EconThaki as a volunteer mentor, by sharing our call for applications, or by donating. Every contribution helps more young Latin Americans reach academia.</p>
++    <div class="cta-buttons">
++      <a href="{{ site.baseurl }}/en/support/" class="btn-cta-donar">💛 Support EconThaki</a>
++      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html" class="btn-cta-programas">See programs →</a>
++    </div>
++  </div>
++</section>
+\ No newline at end of file
+diff --git a/en/support.html b/en/support.html
+new file mode 100644
+index 0000000..569a8ad
+--- /dev/null
++++ b/en/support.html
+@@ -0,0 +1,13 @@
++---
++layout: default
++title: Support EconThaki
++permalink: /en/support/
++lang: en
++alt_url: /apoya/
++---
++<div class="container" style="padding:110px 15px 60px">
++  <h1 style="text-align:center">💛 Support EconThaki</h1>
++  <p style="text-align:center;max-width:640px;margin:0 auto 28px">You can help as a volunteer mentor, by sharing our call for applications, or with a donation. Every contribution helps more young Latin Americans reach academia.</p>
++  {% include donation-simulator.html lang="en" %}
++  <p style="text-align:center;margin-top:28px">Want to be a mentor or volunteer? <a href="{{ site.baseurl }}/contact.html">Write to us</a>.</p>
++</div>
+diff --git a/index.html b/index.html
+index af5818c..ffe5393 100644
+--- a/index.html
++++ b/index.html
+@@ -516,7 +516,7 @@ title: Home
+       <div class="fase-numero">1</div>
+       <h3>Ecomienza</h3>
+       <p>Capacitamos a jóvenes universitarios en herramientas clave de investigación aplicada en economía. Es el primer paso para quienes quieren iniciarse en la academia.</p>
+-      <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html">Ver programa →</a>
++      <a href="{{ site.baseurl }}/programas/2026/05/26/ecomienza26.html">Ver programa →</a>
+     </div>
+  
+     <div class="fase-flecha">→</div>
+@@ -587,7 +587,7 @@ title: Home
+     <h2>¿Quieres ser parte de este camino?</h2>
+     <p>Puedes apoyar a EconThaki como mentor voluntario, compartiendo nuestra convocatoria, o contribuyendo con una donación. Cada aporte ayuda a que más jóvenes latinoamericanos lleguen a la academia.</p>
+     <div class="cta-buttons">
+-      <a href="#" class="btn-cta-donar">💛 Apoya a EconThaki</a>
++      <a href="{{ site.baseurl }}/apoya/" class="btn-cta-donar">💛 Apoya a EconThaki</a>
+       <a href="{{ site.baseurl }}/programas/2021/01/05/programas.html" class="btn-cta-programas">Ver programas →</a>
+     </div>
+   </div>
