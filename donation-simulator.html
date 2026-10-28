@@ -1,10 +1,10 @@
 <!-- Simulador de donación EconThaki. Uso: {% include donation-simulator.html lang="es" %} (o "en") -->
 <style>
-.ds{--ds-bg:#fff;--ds-fg:#0F0F0F;--ds-mut:#5f6368;--ds-line:#e3e6e8;--ds-acc:#00CDC8;--ds-accfg:#0F0F0F;--ds-soft:#f2fbfb;max-width:640px;margin:0 auto;padding:24px;border:1px solid var(--ds-line);border-radius:16px;background:var(--ds-bg);color:var(--ds-fg);font-family:'DM Sans',system-ui,sans-serif;box-sizing:border-box}
+.ds{--ds-bg:#fff;--ds-fg:#0F0F0F;--ds-mut:#5f6368;--ds-line:#e3e6e8;--ds-acc:#00CDC8;--ds-accfg:#0F0F0F;--ds-soft:#f2fbfb;max-width:640px;margin:0 auto;padding:24px;border:1px solid var(--ds-line);border-radius:16px;background:var(--ds-bg);color:var(--ds-fg);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
 @media (prefers-color-scheme:dark){.ds{--ds-bg:#161a1c;--ds-fg:#f1f3f4;--ds-mut:#a0a7ab;--ds-line:#2b3236;--ds-soft:#10282a}}
 .ds *{box-sizing:border-box}.ds h3{margin:0 0 4px;font-size:1.3rem}.ds p.m{color:var(--ds-mut);margin:0 0 16px;font-size:.92rem}
 .ds .row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
-.ds button.p,.ds button.t{flex:1 1 70px;padding:12px 8px;min-height:44px;border:1px solid var(--ds-line);border-radius:10px;background:transparent;color:inherit;font:inherit;cursor:pointer}
+.ds button.p,.ds button.t,.ds button.f{flex:1 1 70px;padding:12px 8px;min-height:44px;border:1px solid var(--ds-line);border-radius:10px;background:transparent;color:inherit;font:inherit;cursor:pointer}
 .ds button.on{background:var(--ds-acc);color:var(--ds-accfg);border-color:var(--ds-acc);font-weight:600}
 .ds input{width:100%;min-height:44px;padding:10px 12px;border:1px solid var(--ds-line);border-radius:10px;background:transparent;color:inherit;font:inherit;font-size:1rem}
 .ds label{display:block;font-size:.85rem;color:var(--ds-mut);margin:4px 0}
@@ -16,53 +16,179 @@
 <div class="ds" id="ds" data-lang="{{ include.lang | default: 'es' }}"></div>
 <script>
 (function(){
-// ===== CONFIGURACIÓN (editar aquí; confirmar valores con Finanzas) =====
-var CFG={
-  donateUrl:"",           // Pegar aquí el enlace de pago cuando Finanzas lo defina
-  feePct:5,               // Comisión estimada de la plataforma (%) — REFERENCIAL
-  penPerUsd:3.7,          // Tipo de cambio referencial — REFERENCIAL
-  presets:[5,10,25,50,100],
-  impact:[                // EJEMPLOS ilustrativos en USD — reemplazar con costos reales
-    {usd:5, es:"materiales de estudio para 1 participante", en:"study materials for 1 participant"},
-    {usd:15,es:"una sesión de mentoría (plataforma y coordinación)", en:"one mentoring session (platform and coordination)"},
-    {usd:40,es:"un cupo completo en Ecomienza", en:"a full seat in Ecomienza"}
-  ]
-};
-var T={es:{t:"Simula tu aporte",s:"Mira cómo puede ayudar tu donación. Es solo una simulación: no se cobra nada aquí.",amt:"Monto",oth:"Otro monto",once:"Una vez",mon:"Cada mes",rec:"EconThaki recibiría aprox.",yr:"Al año aportarías",imp:"Con eso se podría cubrir, por ejemplo:",no:"Aún no alcanza para un ejemplo; todo suma.",go:"Donar",soon:"Pronto: datos de la cuenta",note:"Valores referenciales: comisión y tipo de cambio pueden variar. Equivalencias ilustrativas, por confirmar.",cur:"Moneda"},
-en:{t:"Simulate your gift",s:"See how your donation can help. This is only a simulation: nothing is charged here.",amt:"Amount",oth:"Other amount",once:"One time",mon:"Monthly",rec:"EconThaki would receive approx.",yr:"Over a year you would give",imp:"That could cover, for example:",no:"Not yet enough for an example; every bit counts.",go:"Donate",soon:"Coming soon: account details",note:"Reference values: fees and exchange rate may vary. Illustrative equivalents, to be confirmed.",cur:"Currency"}};
-var el=document.getElementById('ds'),L=el.getAttribute('data-lang')==='en'?'en':'es',S=T[L];
-var st={amt:25,cur:'USD',freq:'once'};
-function fmt(n,c){return (c==='USD'?'US$ ':'S/ ')+n.toLocaleString(L==='en'?'en-US':'es-PE',{minimumFractionDigits:0,maximumFractionDigits:2});}
-function toUsd(v){return st.cur==='USD'?v:v/CFG.penPerUsd;}
-function render(){
-  var v=Math.max(0,Number(st.amt)||0),net=v*(1-CFG.feePct/100),netUsd=toUsd(net),h='';
-  h+='<h3>'+S.t+'</h3><p class="m">'+S.s+'</p>';
-  h+='<label>'+S.cur+'</label><div class="row">'+['USD','PEN'].map(function(c){return '<button class="t'+(st.cur===c?' on':'')+'" data-c="'+c+'">'+c+'</button>';}).join('')+'</div>';
-  h+='<label>'+S.amt+'</label><div class="row">'+CFG.presets.map(function(p){var a=st.cur==='USD'?p:Math.round(p*CFG.penPerUsd/5)*5;return '<button class="p'+(Number(st.amt)===a?' on':'')+'" data-a="'+a+'">'+fmt(a,st.cur)+'</button>';}).join('')+'</div>';
-  h+='<label for="ds-o">'+S.oth+'</label><input id="ds-o" type="number" min="0" inputmode="decimal" value="'+st.amt+'"><div class="row" style="margin-top:12px">'+['once','mon'].map(function(f){return '<button class="t'+(st.freq===f?' on':'')+'" data-f="'+f+'">'+S[f==='once'?'once':'mon']+'</button>';}).join('')+'</div>';
-  h+='<div class="out" aria-live="polite">'+S.rec+' <b>'+fmt(net,st.cur)+'</b>';
-  if(st.freq==='mon')h+='<br>'+S.yr+': <b>'+fmt(v*12,st.cur)+'</b>';
-  var tot=netUsd*(st.freq==='mon'?12:1),items=CFG.impact.filter(function(i){return tot>=i.usd;});
-  h+='<br><span style="color:var(--ds-mut)">'+S.imp+'</span>';
-  h+=items.length?'<ul>'+items.map(function(i){var n=Math.floor(tot/i.usd);return '<li>'+n+' × '+i[L]+'</li>';}).join('')+'</ul>':'<br>'+S.no;
-  h+='</div>';
-  h+=CFG.donateUrl?'<a class="go" href="'+CFG.donateUrl+'" target="_blank" rel="noopener">💛 '+S.go+'</a>':'<span class="go off">💛 '+S.soon+'</span>';
-  h+='<small>'+S.note+'</small>';
-  el.innerHTML=h;
-  var o=document.getElementById('ds-o');
-  o.addEventListener('input',function(){st.amt=o.value;update();});
-}
-function update(){ // re-render sin perder el foco del campo
-  var f=document.activeElement&&document.activeElement.id==='ds-o',pos=f?document.activeElement.selectionStart:0;
-  render();if(f){var o=document.getElementById('ds-o');o.focus();try{o.setSelectionRange(pos,pos);}catch(e){}}
-}
-el.addEventListener('click',function(e){
-  var b=e.target.closest('button');if(!b)return;
-  if(b.dataset.a)st.amt=Number(b.dataset.a);
-  if(b.dataset.c){var old=st.cur;st.cur=b.dataset.c;if(old!==st.cur)st.amt=st.cur==='USD'?25:90;}
-  if(b.dataset.f)st.freq=b.dataset.f;
+  var CFG={
+    donateUrl:"",
+    feePct:5,
+    penPerUsd:3.7,
+    presets:[5,10,25,50,100],
+    impact:[
+      {usd:5, es:"materiales de estudio para 1 participante", en:"study materials for 1 participant"},
+      {usd:15, es:"una sesión de mentoría (plataforma y coordinación)", en:"one mentoring session (platform and coordination)"},
+      {usd:40, es:"un cupo completo en Ecomienza", en:"a full seat in Ecomienza"}
+    ]
+  };
+
+  var T={
+    es:{
+      t:"Simula tu aporte",
+      s:"Mira cómo puede ayudar tu donación. Es solo una simulación: no se cobra nada aquí.",
+      cur:"Moneda",
+      amt:"Monto",
+      oth:"Otro monto",
+      once:"Una vez",
+      mon:"Cada mes",
+      rec:"EconThaki recibiría",
+      yr:"Al año",
+      imp:"Impacto estimado",
+      no:"Ajusta el monto para ver el impacto.",
+      go:"Hacer donación",
+      soon:"Próximamente",
+      note:"Cálculo referencial. La comisión puede variar según la plataforma."
+    },
+    en:{
+      t:"Simulate your gift",
+      s:"See how your donation can help. This is only a simulation: nothing is charged here.",
+      cur:"Currency",
+      amt:"Amount",
+      oth:"Other amount",
+      once:"One time",
+      mon:"Monthly",
+      rec:"EconThaki would receive",
+      yr:"Per year",
+      imp:"Estimated impact",
+      no:"Adjust the amount to see the impact.",
+      go:"Donate",
+      soon:"Coming soon",
+      note:"Indicative estimate. Fees may vary by platform."
+    }
+  };
+
+  var el=document.getElementById('ds');
+  if(!el) return;
+
+  var lang=el.getAttribute('data-lang')==='en'?'en':'es';
+  var S=T[lang];
+  var state={amount:25,currency:'USD',frequency:'once'};
+
+  function formatMoney(value,currency){
+    var n=Number(value)||0;
+    var locale=lang==='en'?'en-US':'es-PE';
+    var prefix=(currency==='USD'?'US$ ':'S/ ');
+    return prefix + n.toLocaleString(locale,{minimumFractionDigits:0,maximumFractionDigits:2});
+  }
+
+  function toUsd(value,currency){
+    return currency==='USD' ? value : value / CFG.penPerUsd;
+  }
+
+  function getAmount(){
+    return Math.max(0, Number(state.amount) || 0);
+  }
+
+  function getNetDonation(){
+    return getAmount() * (1 - CFG.feePct / 100);
+  }
+
+  function getAnnualGross(){
+    return state.frequency === 'mon' ? getAmount() * 12 : getAmount();
+  }
+
+  function getAnnualNet(){
+    return getNetDonation() * (state.frequency === 'mon' ? 12 : 1);
+  }
+
+  function buildImpactItems(){
+    var annualNetUsd=toUsd(getAnnualNet(), state.currency);
+    return CFG.impact
+      .filter(function(item){ return annualNetUsd >= item.usd; })
+      .map(function(item){
+        return {
+          usd:item.usd,
+          text:item[lang],
+          count: Math.max(0, Math.floor(annualNetUsd / item.usd))
+        };
+      });
+  }
+
+  function render(){
+    var amount=getAmount();
+    var annualGross=getAnnualGross();
+    var impactItems=buildImpactItems();
+    var h='';
+
+    h+='<h3>'+S.t+'</h3>';
+    h+='<p class="m">'+S.s+'</p>';
+
+    h+='<label>'+S.cur+'</label>';
+    h+='<div class="row">'+['USD','PEN'].map(function(c){
+      return '<button class="t'+(state.currency===c?' on':'')+'" data-c="'+c+'">'+c+'</button>';
+    }).join('')+'</div>';
+
+    h+='<label>'+S.amt+'</label>';
+    h+='<div class="row">'+CFG.presets.map(function(p){
+      var presetValue = state.currency === 'USD' ? p : Math.round((p * CFG.penPerUsd) / 5) * 5;
+      return '<button class="p'+(Number(state.amount)===presetValue?' on':'')+'" data-a="'+presetValue+'">'+formatMoney(presetValue,state.currency)+'</button>';
+    }).join('')+'</div>';
+
+    h+='<label for="ds-o">'+S.oth+'</label>';
+    h+='<input id="ds-o" type="number" min="0" step="any" inputmode="decimal" value="'+amount+'">';
+
+    h+='<div class="row" style="margin-top:12px">'+['once','mon'].map(function(f){
+      return '<button class="f'+(state.frequency===f?' on':'')+'" data-f="'+f+'">'+(f==='once'?S.once:S.mon)+'</button>';
+    }).join('')+'</div>';
+
+    h+='<div class="out" aria-live="polite">';
+    h+=S.rec+' <b>'+formatMoney(getNetDonation(),state.currency)+'</b>';
+    if(state.frequency==='mon'){
+      h+='<br>'+S.yr+': <b>'+formatMoney(annualGross,state.currency)+'</b>';
+    }
+    h+='<br><span style="color:var(--ds-mut)">'+S.imp+'</span>';
+    if(impactItems.length){
+      h+='<ul>'+impactItems.map(function(item){
+        return '<li>'+item.count+' × '+item.text+'</li>';
+      }).join('')+'</ul>';
+    }else{
+      h+='<br>'+S.no;
+    }
+    h+='</div>';
+
+    h+=CFG.donateUrl ? '<a class="go" href="'+CFG.donateUrl+'" target="_blank" rel="noopener">💛 '+S.go+'</a>' : '<span class="go off">💛 '+S.soon+'</span>';
+    h+='<small>'+S.note+'</small>';
+
+    el.innerHTML=h;
+
+    var input=document.getElementById('ds-o');
+    if(input){
+      input.addEventListener('input', function(){
+        state.amount=input.value;
+        render();
+      });
+    }
+  }
+
+  el.addEventListener('click', function(e){
+    var b=e.target.closest('button');
+    if(!b) return;
+
+    if(b.dataset.a){
+      state.amount=Number(b.dataset.a);
+    }
+
+    if(b.dataset.c){
+      var oldCurrency=state.currency;
+      state.currency=b.dataset.c;
+      if(oldCurrency !== state.currency){
+        state.amount = state.currency === 'USD' ? 25 : 90;
+      }
+    }
+
+    if(b.dataset.f){
+      state.frequency=b.dataset.f;
+    }
+
+    render();
+  });
+
   render();
-});
-render();
 })();
 </script>
