@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Alexis Minaya
+title: Entrevistas - Alexis Minaya
 date: "March 2026"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/fellowships/alexis.jpg
 output:
   prettydoc::html_pretty:
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a Alexis Minaya, egresado de la Universidad Nacional Mayor de San Marcos (UNMSM) en Lima y fellow de la primera cohorte del programa de Fellowships de EconThaki. Durante el fellowship, Alexis trabajó como asistente de investigación en un proyecto sobre inclusión financiera en Ecuador, bajo la mentoría de David Ontaneda y Bei Luo. Su trayectoria muestra que el camino académico no es lineal y que con orientación oportuna es posible construirlo desde cualquier punto de partida.
+En esta edición de Entrevistas, entrevistamos a Alexis Minaya, egresado de la Universidad Nacional Mayor de San Marcos (UNMSM) en Lima y fellow de la primera cohorte del programa de Fellowships de EconThaki. Durante el fellowship, Alexis trabajó como asistente de investigación en un proyecto sobre inclusión financiera en Ecuador, bajo la mentoría de David Ontaneda y Bei Luo. Su trayectoria muestra que el camino académico no es lineal y que con orientación oportuna es posible construirlo desde cualquier punto de partida.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
