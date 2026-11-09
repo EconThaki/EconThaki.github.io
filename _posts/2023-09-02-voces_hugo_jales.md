@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Hugo Jales
+title: Entrevistas - Hugo Jales
 date: "Septiembre 2023"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/hugo-jales.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/hugo-jales.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista Hugo Jales, quien es Profesor Asociado en la Universidad de Syracuse. El profesor Jales estudió el pregrado en Economía en la Universidad Federal de Minas Gerais y la Maestría en Economía en la Fundación Getulio Vargas ambas en Brasil. Seguidamente, estudió el Doctorado en Economía en la Universidad de Columbia Británica (UBC). Sus temas de interés en investigación son la Economía Laboral y la Econometría.
+En esta edición de Entrevistas, entrevistamos al economista Hugo Jales, quien es Profesor Asociado en la Universidad de Syracuse. El profesor Jales estudió el pregrado en Economía en la Universidad Federal de Minas Gerais y la Maestría en Economía en la Fundación Getulio Vargas ambas en Brasil. Seguidamente, estudió el Doctorado en Economía en la Universidad de Columbia Británica (UBC). Sus temas de interés en investigación son la Economía Laboral y la Econometría.
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
 </div>

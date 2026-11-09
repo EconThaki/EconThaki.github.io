@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Cristhian Rosales-Castillo
+title: Entrevistas - Cristhian Rosales-Castillo
 date: "October 2026"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/cristhian_rosales.jpeg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/cristhian_rosales.jpeg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -19,7 +19,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista ecuatoriano Cristhian Rosales-Castillo, quien es  estudiante de doctorado en Emory University. Cristhian estudió el pregrado en economía en la Escuela Politécnica Nacional (EPN) (doble titulación con la Universidad Jean Monnet de Francia), y la maestría en la FLACSO Ecuador. Sus temas de interés en investigación son la macroeconomía, econometría bayesiana, series temporales y machine learning, con intereses secundarios en econometría aplicada y microeconomía aplicada.
+En esta edición de Entrevistas, entrevistamos al economista ecuatoriano Cristhian Rosales-Castillo, quien es  estudiante de doctorado en Emory University. Cristhian estudió el pregrado en economía en la Escuela Politécnica Nacional (EPN) (doble titulación con la Universidad Jean Monnet de Francia), y la maestría en la FLACSO Ecuador. Sus temas de interés en investigación son la macroeconomía, econometría bayesiana, series temporales y machine learning, con intereses secundarios en econometría aplicada y microeconomía aplicada.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>

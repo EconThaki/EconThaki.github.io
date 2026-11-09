@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Muchin Bazan
+title: Entrevistas - Muchin Bazan
 date: "Mayo 2023"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/muchin_bazan.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/muchin_bazan.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista Muchin Bazan, quien se desempeña como Health Economist en los Centros para el Control y la Prevención de Enfermedades (CDC) en Atlanta, Estados Unidos. La doctora Muchin nació y creció en Piura, estudió el pregrado en Economía en la Universidad de Piura y la Maestría en Economía en la Universidad de Warwick. Seguidamente, estudió el Doctorado en Economía en Virginia Tech. Sus intereses de investigación se centran en desarrollo económico, microeconomía aplicada, economía de la salud y economía experimental.
+En esta edición de Entrevistas, entrevistamos a la economista Muchin Bazan, quien se desempeña como Health Economist en los Centros para el Control y la Prevención de Enfermedades (CDC) en Atlanta, Estados Unidos. La doctora Muchin nació y creció en Piura, estudió el pregrado en Economía en la Universidad de Piura y la Maestría en Economía en la Universidad de Warwick. Seguidamente, estudió el Doctorado en Economía en Virginia Tech. Sus intereses de investigación se centran en desarrollo económico, microeconomía aplicada, economía de la salud y economía experimental.
 
 Esperamos les guste esta entrevista y se inspiren con su historia.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Florencia Hnilo y Sebastian Bauer
+title: Entrevistas - Florencia Hnilo y Sebastian Bauer
 date: "Octubre 2021"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/FH-SB.jpg
 output:
   prettydoc::html_pretty:
@@ -22,7 +22,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de *Voces*, estamos entusiasmados de presentar a Florencia Hnilo y a Sebastian Bauer quienes nos contarán sobre su camino hacia el PhD. Florencia es estudiante del doctorado en economía en la Universidad de Stanford , y Sebastian pertenece al doctorado de economía en Stanford, GSB. 
+En esta edición de *Entrevistas*, estamos entusiasmados de presentar a Florencia Hnilo y a Sebastian Bauer quienes nos contarán sobre su camino hacia el PhD. Florencia es estudiante del doctorado en economía en la Universidad de Stanford , y Sebastian pertenece al doctorado de economía en Stanford, GSB. 
 </div>
 
 <br>
@@ -195,7 +195,7 @@ Florenciay Sebastian: Al no haber sufrido esta limitación, nuestra opinión qui
 --
 
 <div class = "teal">
-Agradecemos mucho a Florencia Hnilo y Sebastian Bauer por esta entrevista para la tercera edición de *Voces*.  Si te sentiste identificadx con la experiencia de Florencia o Sebastian y deseas contactarles, puedes hacerlo a través de:
+Agradecemos mucho a Florencia Hnilo y Sebastian Bauer por esta entrevista para la tercera edición de *Entrevistas*.  Si te sentiste identificadx con la experiencia de Florencia o Sebastian y deseas contactarles, puedes hacerlo a través de:
 
 </div>
 

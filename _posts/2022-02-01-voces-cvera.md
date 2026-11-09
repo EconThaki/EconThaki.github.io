@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Carolina Vera
+title: Entrevistas - Carolina Vera
 date: "Febrero 2022"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/carolina-vera.jpg
 output:
   prettydoc::html_pretty:
@@ -21,7 +21,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de *Voces*, estamos entusiasmadas de presentar a Carolina Vera quien actualmente estudia el doctorado en la Universidad de Arizona, Estados Unidos. Ella forma parte de la red llamada BOWEN, Bolivian Women in Economics Network, quienes se enfocan en promover la participación de las mujeres en la academia. Esperamos que esta entrevista sirva de inspiración para ustedes como lo fue para nosotras.
+En esta edición de *Entrevistas*, estamos entusiasmadas de presentar a Carolina Vera quien actualmente estudia el doctorado en la Universidad de Arizona, Estados Unidos. Ella forma parte de la red llamada BOWEN, Bolivian Women in Economics Network, quienes se enfocan en promover la participación de las mujeres en la academia. Esperamos que esta entrevista sirva de inspiración para ustedes como lo fue para nosotras.
 </div>
 <br>
 
@@ -209,7 +209,7 @@ La curiosidad es la primera condición para hacer investigación. La habilidad c
 --
 
 <div class = "teal">
-Le agradecemos mucho a Carolina Vera por esta entrevista para la sección de *Voces*. Si te sentiste identificadx con la experiencia de Carolina o deseas conocer más sobre la red BOWEN, puedes hacerlo a través de:
+Le agradecemos mucho a Carolina Vera por esta entrevista para la sección de *Entrevistas*. Si te sentiste identificadx con la experiencia de Carolina o deseas conocer más sobre la red BOWEN, puedes hacerlo a través de:
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Shirley Redroban
+title: Entrevistas - Shirley Redroban
 date: "November 2025"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/shirley_redroban.jpeg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/shirley_redroban.jpeg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista ecuatoriana Shirley Redroban, quien es candidata a Doctora en Economía en la Universidad de Maryland. Shirley estudió el pregrado en economía en la Universidad Católica del Ecuador y la Maestría Economía en la PUC Chile. Los estudios de doctorado lo realiza en la Universidad de Maryland. Sus temas de interés en investigación son la Economía Laboral, Economía de la Educación, y Políticas Públicas.
+En esta edición de Entrevistas, entrevistamos a la economista ecuatoriana Shirley Redroban, quien es candidata a Doctora en Economía en la Universidad de Maryland. Shirley estudió el pregrado en economía en la Universidad Católica del Ecuador y la Maestría Economía en la PUC Chile. Los estudios de doctorado lo realiza en la Universidad de Maryland. Sus temas de interés en investigación son la Economía Laboral, Economía de la Educación, y Políticas Públicas.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
@@ -193,7 +193,7 @@ Además, la evidencia ayuda a anticipar posibles efectos secundarios de las inte
 </div>
   Creo que uno de los grandes desafíos de la academia latinoamericana es seguir avanzando en la generación de diversidad. Si bien se han logrado avances importantes, todavía hay minorías que no están suficientemente representadas.
   
-La diversidad es fundamental porque enriquece la investigación, permite que se planteen preguntas y perspectivas que quizá para la mayoría pasan desapercibidas, pero que son igualmente relevantes. Por eso considero que la academia debería crear espacios que faciliten la inclusión de más minorías, de modo que sus voces y experiencias también estén presentes en el debate académico y en la producción de conocimiento.
+La diversidad es fundamental porque enriquece la investigación, permite que se planteen preguntas y perspectivas que quizá para la mayoría pasan desapercibidas, pero que son igualmente relevantes. Por eso considero que la academia debería crear espacios que faciliten la inclusión de más minorías, de modo que sus Entrevistas y experiencias también estén presentes en el debate académico y en la producción de conocimiento.
 
   
   <div style="text-align: right"> 

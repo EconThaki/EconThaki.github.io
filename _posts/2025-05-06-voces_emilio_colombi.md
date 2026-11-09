@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Emilio Colombi
+title: Entrevistas - Emilio Colombi
 date: "May 2025"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/emilio_colombi.JPEG
+categories: [Entrevistas]
+image: assets/images/Entrevistas/emilio_colombi.JPEG
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista argentino Emilio Colombi, quien es Doctor en Economía en la Universidad de Michigan. Emilio estudió el pregrado en economía en la Universidad de la Plata (UNLP) y la Maestría Economía en la Universidad Torcuato Di Tella (UTDT). Los estudios de doctorado lo realiza en la Universidad de Michigan. Sus temas de interés en investigación son la  Macroeconomía, Economía Internacional y Finanzas Internacionales.
+En esta edición de Entrevistas, entrevistamos al economista argentino Emilio Colombi, quien es Doctor en Economía en la Universidad de Michigan. Emilio estudió el pregrado en economía en la Universidad de la Plata (UNLP) y la Maestría Economía en la Universidad Torcuato Di Tella (UTDT). Los estudios de doctorado lo realiza en la Universidad de Michigan. Sus temas de interés en investigación son la  Macroeconomía, Economía Internacional y Finanzas Internacionales.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>

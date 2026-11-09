@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - José P. Vasquez
+title: Entrevistas - José P. Vasquez
 date: "Junio 2022"
 author: econthaki
-categories: [voces]
-image: assets/images/voces_jose_p_vasquez.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas_jose_p_vasquez.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr

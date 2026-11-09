@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Kenji Moreno
+title: Entrevistas - Kenji Moreno
 date: "August 2026"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/KenjiMoreno_hs.png
+categories: [Entrevistas]
+image: assets/images/Entrevistas/KenjiMoreno_hs.png
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -19,7 +19,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista peruano Kenji Moreno, quien es  estudiante de doctorado en Georgia State University. Kenji estudió el pregrado en economía en la Universidad Peruana de Ciencias Alicadas (UPC) y la Maestría Economía en la Universidad del Pacífico. Sus temas de interés en investigación son la política fiscal, las finanzas públicas y la economía política.
+En esta edición de Entrevistas, entrevistamos al economista peruano Kenji Moreno, quien es  estudiante de doctorado en Georgia State University. Kenji estudió el pregrado en economía en la Universidad Peruana de Ciencias Alicadas (UPC) y la Maestría Economía en la Universidad del Pacífico. Sus temas de interés en investigación son la política fiscal, las finanzas públicas y la economía política.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>

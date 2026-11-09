@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Juan David Hernández-Leal
+title: Entrevistas - Juan David Hernández-Leal
 date: "April 2024"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/juan_david.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/juan_david.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista colombiano Juan David Hernández-Leal, quien es estudiante de Doctorado en Economía en la Universidad de California, San Diego. Juan estudió el Pregrado y la Maestría Economía en la Pontificia Universidad Javeriana en Colombia. Sus temas de interés en investigación son Economía Laboral, Economía Pública y Economía Urbana.
+En esta edición de Entrevistas, entrevistamos al economista colombiano Juan David Hernández-Leal, quien es estudiante de Doctorado en Economía en la Universidad de California, San Diego. Juan estudió el Pregrado y la Maestría Economía en la Pontificia Universidad Javeriana en Colombia. Sus temas de interés en investigación son Economía Laboral, Economía Pública y Economía Urbana.
 
   Esperamos les guste esta entrevista y se inspiren con su historia.
 
