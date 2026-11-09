@@ -10,3 +10,4 @@ En esta sección, entrevistamos y resaltamos el trabajo de estudiantes de la com
 
 
 ![Entrevistas]({{site.baseurl}}/assets/images/shutterstock_1733262980.jpg)
+
