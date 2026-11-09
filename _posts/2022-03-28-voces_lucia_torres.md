@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Lucía Torres
+title: Entrevistas - Lucía Torres
 date: "Marzo 2022"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/lucia_torres.jpg
 output:
   prettydoc::html_pretty:
@@ -21,7 +21,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-Contamos con Lucía Torres para esta edición de *Voces*. Nos estusiasma presentarla, ella es estudiante del doctorado en Syracuse University. Previamente, estudió en la Universidad Nacional Mayor de San Marcos. Acompañenos a conocer un poco de su historia. ¡Esperamos que esta entrevista los inspire tanto a como nosotros!
+Contamos con Lucía Torres para esta edición de *Entrevistas*. Nos estusiasma presentarla, ella es estudiante del doctorado en Syracuse University. Previamente, estudió en la Universidad Nacional Mayor de San Marcos. Acompañenos a conocer un poco de su historia. ¡Esperamos que esta entrevista los inspire tanto a como nosotros!
 </div>
 <br>
 
@@ -184,7 +184,7 @@ Antes de postular, tenía la idea de que mis notas de pregrado o la universidad 
 --
 
 <div class = "teal">
-Le agradecemos mucho a Lucía por esta entrevista en ésta edición de *Voces*. Si te sentiste identificadx con la experiencia de Lucía o deseas contactarla, puedes hacerlo a través de:
+Le agradecemos mucho a Lucía por esta entrevista en ésta edición de *Entrevistas*. Si te sentiste identificadx con la experiencia de Lucía o deseas contactarla, puedes hacerlo a través de:
 
 </div>
 
