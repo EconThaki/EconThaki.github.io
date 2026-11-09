@@ -98,5 +98,10 @@ featured: false
       <h3>Teresa Paredes</h3>
       <p>Área de Finanzas y Alianzas</p>
     </div>
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Taciana.jpg" alt="Taciana">
+      <h3>Taciana Casanova</h3>
+      <p>Área de Comunicaciones</p>
+    </div>
   </div>
 </section>
