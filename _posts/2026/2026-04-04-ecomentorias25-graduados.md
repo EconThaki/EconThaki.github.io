@@ -110,6 +110,13 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
   </div>
 
   <div class="team-card">
+    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Taciana_Casanova.png" alt="Taciana Casanova">
+    <h3>Taciana Casanova</h3>
+    <p><em>Tema:</em> La educación y la pobreza en Cajamarca: análisis de su evolución y vínculo en el período 2000-2024</p>
+    <p><em>Universidad:</em> Universidad Nacional de Cajamarca · <em>Mentor:</em> Matilde Cerdá</p>
+  </div>
+
+  <div class="team-card">
     <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Gianella_Alejandra_Pineda_Ilazaca.jpg" alt="Gianella Pineda">
     <h3>Gianella Pineda</h3>
     <p><em>Tema:</em> Efecto causal del subsidio cruzado del Fondo de Compensación Social Eléctrica (FOSE) sobre el gasto en electricidad de los hogares peruanos</p>
@@ -137,11 +144,6 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
     <p><em>Mentor:</em> Maria Pia Locco</p>
   </div>
 
-  <div class="team-card">
-    <img src="{{ site.baseurl }}/assets/images/mentorias/fotos25/mentees/Taciana_Casanova.png" alt="Taciana Casanova">
-    <h3>Taciana Casanova</h3>
-    <p><em>Tema:</em> La educación y la pobreza en Cajamarca: un análisis de su evolución y vínculo en el período 2000-2024</p>
-    <p><em>Universidad:</em> Universidad Nacional de Cajamarca · <em>Mentor:</em> Matilde Cerdá</p>
-  </div>
+
 
 </div>
