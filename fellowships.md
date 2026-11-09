@@ -6,7 +6,7 @@ permalink: /fellowships/
 
 ## Fellowships
 
-El programa de Fellowships busca fortalecer el desarrollo de jóvenes investigadores que previamente participaron en EconMienza, donde recibieron formación en herramientas clave para la investigación aplicada en economía y políticas públicas.
+El programa de Fellowships busca fortalecer el desarrollo de jóvenes investigadores que previamente participaron en Ecomienza, donde recibieron formación en herramientas clave para la investigación aplicada en economía y políticas públicas.
 
 Gracias al apoyo de nuestros donantes, este programa permitió que los fellows continuaran su formación académica mediante su vinculación directa con investigadores principales (PIs), con quienes trabajaron como asistentes de investigación en proyectos concretos. Esta experiencia les permitió aplicar sus conocimientos en entornos reales y dar sus primeros pasos en la academia.
 
