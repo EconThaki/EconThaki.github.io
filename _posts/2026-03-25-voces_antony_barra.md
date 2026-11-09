@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Antony Ore
+title: Entrevistas - Antony Ore
 date: "March 2026"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/fellowships/antony.jpg
 output:
   prettydoc::html_pretty:
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a Antony Ore, egresado de la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC) y fellow de la primera cohorte del programa de Fellowships de EconThaki. Durante el fellowship, Antony trabajó como asistente de investigación en un proyecto de campo de gran escala en Lima, bajo la mentoría de Diego Santa María. Su historia refleja cómo EconThaki puede transformar la percepción sobre la carrera académica para jóvenes investigadores de regiones fuera de la capital.
+En esta edición de Entrevistas, entrevistamos a Antony Ore, egresado de la Universidad Nacional de San Antonio Abad del Cusco (UNSAAC) y fellow de la primera cohorte del programa de Fellowships de EconThaki. Durante el fellowship, Antony trabajó como asistente de investigación en un proyecto de campo de gran escala en Lima, bajo la mentoría de Diego Santa María. Su historia refleja cómo EconThaki puede transformar la percepción sobre la carrera académica para jóvenes investigadores de regiones fuera de la capital.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
