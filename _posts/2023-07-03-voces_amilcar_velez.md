@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Amilcar Velez
+title: Entrevistas - Amilcar Velez
 date: "Julio 2023"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/amilcar_velez.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/amilcar_velez.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista Amilcar Velez, candidato a PhD en Economía en Northwestern University. Amilcar nació y creció en Puno, estudió el pregrado en Economía en la Pontificia Universidad Católica del Perú y la Maestría en Matemáticas en el Instituto Nacional de Matemática Pura e Aplicada (IMPA) en Brasil. Sus intereses de investigación incluyen a la econometría teórica, las propiedades estadísticas del aprendizaje automático (ML) y la teoría de decisiones.
+En esta edición de Entrevistas, entrevistamos al economista Amilcar Velez, candidato a PhD en Economía en Northwestern University. Amilcar nació y creció en Puno, estudió el pregrado en Economía en la Pontificia Universidad Católica del Perú y la Maestría en Matemáticas en el Instituto Nacional de Matemática Pura e Aplicada (IMPA) en Brasil. Sus intereses de investigación incluyen a la econometría teórica, las propiedades estadísticas del aprendizaje automático (ML) y la teoría de decisiones.
 
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
