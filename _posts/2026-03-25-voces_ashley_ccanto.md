@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Ashley Ccanto
+title: Entrevistas - Ashley Ccanto
 date: "March 2026"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/fellowships/ashley.jpg
 output:
   prettydoc::html_pretty:
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a Ashley Ccanto, egresada de la Universidad Nacional Agraria La Molina (UNALM) en Lima y fellow de la primera cohorte del programa de Fellowships de EconThaki. Durante el fellowship, Ashley trabajó como asistente de investigación junto a sus mentoras, profundizando su formación en investigación aplicada y consolidando su camino hacia una carrera académica en economía.
+En esta edición de Entrevistas, entrevistamos a Ashley Ccanto, egresada de la Universidad Nacional Agraria La Molina (UNALM) en Lima y fellow de la primera cohorte del programa de Fellowships de EconThaki. Durante el fellowship, Ashley trabajó como asistente de investigación junto a sus mentoras, profundizando su formación en investigación aplicada y consolidando su camino hacia una carrera académica en economía.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
