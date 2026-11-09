@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Mayara Felix
+title: Entrevistas - Mayara Felix
 date: "Noviembre 2022"
 author: econthaki
-categories: [voces]
-image: assets/images/voces_mayara_felix.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas_mayara_felix.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
