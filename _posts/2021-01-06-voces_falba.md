@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Fabiola Alba
+title: Entrevistas - Fabiola Alba
 date: "Junio 2021"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/Fabiola-Alba.jpg
 output:
   prettydoc::html_pretty:
@@ -21,7 +21,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta primera edición de *Voces*, estamos entusiasmados de presentar a Fabiola Alba y un poco de su historia. Fabiola es una candidata doctoral en el programa de Economía de la Educación, en Columbia University, Estados Unidos. Nació y creció en Perú, su agenda de investigación se centra en la intersección entre políticas de educación y trabajo con temas de género, normas sociales y reputación. Esperamos que esta entrevista los inspire tanto a como nosotros!
+En esta primera edición de *Entrevistas*, estamos entusiasmados de presentar a Fabiola Alba y un poco de su historia. Fabiola es una candidata doctoral en el programa de Economía de la Educación, en Columbia University, Estados Unidos. Nació y creció en Perú, su agenda de investigación se centra en la intersección entre políticas de educación y trabajo con temas de género, normas sociales y reputación. Esperamos que esta entrevista los inspire tanto a como nosotros!
 </div>
 <br>
 
@@ -208,7 +208,7 @@ Hoy en día hay mucha información para aprender cosas por tu cuenta: yo aprend�
 --
 
 <div class = "teal">
-Le agradecemos mucho a Fabiola por esta entrevista para la primera edición de *Voces*. Si te sentiste identificadx con la experiencia de Fabiola o deseas contactarla, puedes hacerlo a través de:
+Le agradecemos mucho a Fabiola por esta entrevista para la primera edición de *Entrevistas*. Si te sentiste identificadx con la experiencia de Fabiola o deseas contactarla, puedes hacerlo a través de:
 
 </div>
 
