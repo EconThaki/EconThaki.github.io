@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Alex Carrasco
+title: Entrevistas - Alex Carrasco
 date: "Septiembre 2021"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/Alex-Carrasco.jpg
 output:
   prettydoc::html_pretty:
@@ -22,7 +22,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de *Voces*, estamos entusiasmados de presentar a Alex Carrasco y un poco de su historia. Alex es un estudiante del programa doctoral en Economía en el Massachusetts Institute of Technology (MIT) enfocado en macroeconomía y teoría económica. Esperamos que esta entrevista les guste tanto a como nosotros!
+En esta edición de *Entrevistas*, estamos entusiasmados de presentar a Alex Carrasco y un poco de su historia. Alex es un estudiante del programa doctoral en Economía en el Massachusetts Institute of Technology (MIT) enfocado en macroeconomía y teoría económica. Esperamos que esta entrevista les guste tanto a como nosotros!
 </div>
 
 <br>
@@ -195,7 +195,7 @@ Para los que sienten que la tienen más difícil por falta de recursos lo siguie
 --
 
 <div class = "teal">
-Le agradecemos mucho a Alex esta entrevista para la segunfa edición de *Voces*. Si te sentiste identificadx con la experiencia de Alex o deseas contactarlo, puedes hacerlo a través de:
+Le agradecemos mucho a Alex esta entrevista para la segunfa edición de *Entrevistas*. Si te sentiste identificadx con la experiencia de Alex o deseas contactarlo, puedes hacerlo a través de:
 </div>
 
 - Twitter: [@alexcarrascom](https://twitter.com/alexcarrascom)
