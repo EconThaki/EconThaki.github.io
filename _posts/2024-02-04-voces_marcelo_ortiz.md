@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Marcelo Ortiz Villavicencio
+title: Entrevistas - Marcelo Ortiz Villavicencio
 date: "February 2024"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/marcelo_ortiz.jpg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/marcelo_ortiz.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista ecuatoriano Marcelo Ortiz, quien es estudiante de doctorado en Emory University. Marcelo estudió el Pregrado y la Maestría Economía en la Escuela Superior Politécnica del Litoral (ESPOL) en Ecuador. Sus temas de interés en investigación son Econometría, Inferencia Causal, Aprendizaje Automático, y Microeconomía Aplicada.
+En esta edición de Entrevistas, entrevistamos al economista ecuatoriano Marcelo Ortiz, quien es estudiante de doctorado en Emory University. Marcelo estudió el Pregrado y la Maestría Economía en la Escuela Superior Politécnica del Litoral (ESPOL) en Ecuador. Sus temas de interés en investigación son Econometría, Inferencia Causal, Aprendizaje Automático, y Microeconomía Aplicada.
 
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
