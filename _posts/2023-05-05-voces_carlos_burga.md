@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Carlos Burga
+title: Entrevistas - Carlos Burga
 date: "Mayo 2023"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/Carlos_Burga.png
+categories: [Entrevistas]
+image: assets/images/Entrevistas/Carlos_Burga.png
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos al economista Carlos Burga, quien se desempeña como Profesor Asistente en la Pontificia Universidad Católica de Chile (PUC-Chile). Carlos estudió el pregrado en Economía en la Universidad Nacional Mayor de San Marcos y la maestría en Economía en la Pontificia Universidad Católica de Rio de Janeiro (PUC-Rio). Seguidamente, estudió su doctorado en Economía en la Universidad de Princeton. Sus intereses de investigación se centran en finanzas, desarrollo, macroeconomía, y comercio internacional. Durante su último año de doctorado también fue mentor en el programa de Econthaki llamado Ecomienza.
+En esta edición de Entrevistas, entrevistamos al economista Carlos Burga, quien se desempeña como Profesor Asistente en la Pontificia Universidad Católica de Chile (PUC-Chile). Carlos estudió el pregrado en Economía en la Universidad Nacional Mayor de San Marcos y la maestría en Economía en la Pontificia Universidad Católica de Rio de Janeiro (PUC-Rio). Seguidamente, estudió su doctorado en Economía en la Universidad de Princeton. Sus intereses de investigación se centran en finanzas, desarrollo, macroeconomía, y comercio internacional. Durante su último año de doctorado también fue mentor en el programa de Econthaki llamado Ecomienza.
 Esperamos les guste esta entrevista y se inspiren con su historia.
 
 ¡Bienvenido Carlos, y muchas gracias por tu apoyo!
