@@ -1,13 +1,17 @@
 ---
-layout: page
-title: Entrevistas
-permalink: /entrevistas/
+layout: post
+title: "Entrevistas"
+comments: true
+author: econthaki
+categories: [Entrevistas]
+image: assets/images/shutterstock_1733262980.jpg
 ---
 
-**Entrevistas**
+Entrevistas a miembros de la comunidad académica en América Latina y el Caribe.
 
-En esta sección, entrevistamos y resaltamos el trabajo de estudiantes de la comunidad latina estudiando el Doctorado o recién egresados de él. 
+## Entrevistas
 
+En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembros de la comunidad latina que cursan --o han terminado-- el Doctorado en Economía o ramas afines. Cada mes, habrá una entrevista nueva en esta sección.
 
 <div class="team-grid" style="margin-top:30px;">
 
@@ -190,7 +194,3 @@ En esta sección, entrevistamos y resaltamos el trabajo de estudiantes de la com
   </div>
 
 </div>
-
-
-![Entrevistas]({{site.baseurl}}/assets/images/shutterstock_1733262980.jpg)
-
