@@ -9,5 +9,188 @@ permalink: /entrevistas/
 En esta sección, entrevistamos y resaltamos el trabajo de estudiantes de la comunidad latina estudiando el Doctorado o recién egresados de él. 
 
 
+<div class="team-grid" style="margin-top:30px;">
+
+<div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2026/10/01/Entrevistas_cristhian_rosales.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/cristhian_rosales.jpeg" alt="Cristhian Rosales">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2026/10/01/Entrevistas_cristhian_rosales.html" style="color:inherit; text-decoration:none;">Cristhian Rosales-Castillo</a></h3>
+    <p>Estudiante de doctorado · Emory University</p>
+  </div>
+
+<div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2026/08/01/Entrevistas_kenji_moreno.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/KenjiMoreno_hs.png" alt="Kenji Moreno">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2026/08/01/Entrevistas_kenji_moreno.html" style="color:inherit; text-decoration:none;">Kenji Moreno</a></h3>
+    <p>Estudiante de doctorado · Georgia State University</p>
+  </div>
+
+
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2026/02/01/Entrevistas_diego_ascarza.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/diego_ascarza.jpg" alt="Diego Ascarza">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2026/02/01/Entrevistas_diego_ascarza.html" style="color:inherit; text-decoration:none;">Diego Ascarza</a></h3>
+    <p>Research Professor · Tecnológico de Monterrey</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2025/11/01/Entrevistas_shirley_redroban.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/shirley_redroban.jpeg" alt="Shirley Redroban">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2025/11/01/Entrevistas_shirley_redroban.html" style="color:inherit; text-decoration:none;">Shirley Redroban</a></h3>
+    <p>Candidata a Doctora · Universidad de Maryland</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2025/05/01/Entrevistas_emilio_colombi.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/emilio_colombi.JPEG" alt="Emilio Colombi">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2025/05/01/Entrevistas_emilio_colombi.html" style="color:inherit; text-decoration:none;">Emilio Colombi</a></h3>
+    <p>Candidato a Doctor · Universidad de Michigan</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2025/04/01/Entrevistas_carolina_concha_arriagada.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/carolina_concha_arriagada.png" alt="Carolina Concha-Arriagada">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2025/04/01/Entrevistas_carolina_concha_arriagada.html" style="color:inherit; text-decoration:none;">Carolina Concha-Arriagada</a></h3>
+    <p>Profesora Asistente · Universidad de Columbia</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2024/09/01/Entrevistas_agostina_brinatti.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/agostina_brinatti.jpeg" alt="Agostina Brinatti">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2024/09/01/Entrevistas_agostina_brinatti.html" style="color:inherit; text-decoration:none;">Agostina Brinatti</a></h3>
+    <p>Investigadora Posdoctoral · Universidad de Yale</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2024/07/01/Entrevistas_rony_rodriguez.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/rony.jpeg" alt="Rony Rodriguez">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2024/07/01/Entrevistas_rony_rodriguez.html" style="color:inherit; text-decoration:none;">Rony Rodriguez</a></h3>
+    <p>Estudiante de Doctorado · Universidad de Harvard</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2024/04/01/Entrevistas_juan_david.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/juan_david.jpg" alt="Juan David Hernandez">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2024/04/01/Entrevistas_juan_david.html" style="color:inherit; text-decoration:none;">Juan David Hernandez</a></h3>
+    <p>Estudiante de Doctorado · UC San Diego</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2024/02/01/Entrevistas_marcelo_ortiz.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/marcelo_ortiz.jpg" alt="Marcelo Ortiz">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2024/02/01/Entrevistas_marcelo_ortiz.html" style="color:inherit; text-decoration:none;">Marcelo Ortiz</a></h3>
+    <p>Estudiante de Doctorado · Universidad de Emory</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2023/09/01/Entrevistas_hugo_jales.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/hugo-jales.jpg" alt="Hugo Jales">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2023/09/01/Entrevistas_hugo_jales.html" style="color:inherit; text-decoration:none;">Hugo Jales</a></h3>
+    <p>Profesor Asociado · Universidad de Syracuse</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2023/07/01/Entrevistas_amilcar_velez.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/amilcar_velez.jpg" alt="Amilcar Velez">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2023/07/01/Entrevistas_amilcar_velez.html" style="color:inherit; text-decoration:none;">Amilcar Velez</a></h3>
+    <p>Candidato a Doctor · Universidad de Northwestern</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_muchin_bazan.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/muchin_bazan.jpg" alt="Muchin Bazan">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_muchin_bazan.html" style="color:inherit; text-decoration:none;">Muchin Bazan</a></h3>
+    <p>Posdoc · CDC Atlanta</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_carlos_burga.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas/Carlos_Burga.png" alt="Carlos Burga">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_carlos_burga.html" style="color:inherit; text-decoration:none;">Carlos Burga</a></h3>
+    <p>Profesor Asistente · PUC Chile</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2023/02/01/Entrevistas_maria_caridad_araujo.html">
+      <img src="{{site.baseurl}}/assets/images/ma_caridad_araujo.JPG" alt="María Caridad Araujo">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2023/02/01/Entrevistas_maria_caridad_araujo.html" style="color:inherit; text-decoration:none;">María Caridad Araujo</a></h3>
+    <p>Jefa División Género y Diversidad · BID</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2022/11/01/Entrevistas_mayara_felix.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas_mayara_felix.jpg" alt="Mayara Felix">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2022/11/01/Entrevistas_mayara_felix.html" style="color:inherit; text-decoration:none;">Mayara Felix</a></h3>
+    <p>Posdoctoral Fellow · Universidad de Princeton</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2022/06/01/Entrevistas_jose_p_vasquez.html">
+      <img src="{{site.baseurl}}/assets/images/Entrevistas_jose_p_vasquez.jpg" alt="Jose P. Vasquez">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2022/06/01/Entrevistas_jose_p_vasquez.html" style="color:inherit; text-decoration:none;">Jose P. Vasquez</a></h3>
+    <p>Profesor Asistente · LSE</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2022/03/01/Entrevistas_lucia_torres.html">
+      <img src="{{site.baseurl}}/assets/images/lucia_torres.jpg" alt="Lucía Torres Frasele">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2022/03/01/Entrevistas_lucia_torres.html" style="color:inherit; text-decoration:none;">Lucía Torres Frasele</a></h3>
+    <p>Estudiante de Doctorado · Universidad de Syracuse</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2022/02/01/Entrevistas-cvera.html">
+      <img src="{{site.baseurl}}/assets/images/carolina-vera.jpg" alt="Carolina Vera">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2022/02/01/Entrevistas-cvera.html" style="color:inherit; text-decoration:none;">Carolina Vera</a></h3>
+    <p>Estudiante de Doctorado · Universidad de Arizona</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2021/10/01/Entrevistas_fhnilo_sbauer.html">
+      <img src="{{site.baseurl}}/assets/images/FH-SB.jpg" alt="Florencia Hnilo y Sebastian Bauer">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2021/10/01/Entrevistas_fhnilo_sbauer.html" style="color:inherit; text-decoration:none;">Florencia Hnilo y Sebastian Bauer</a></h3>
+    <p>Estudiantes de Doctorado · Stanford</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2021/06/01/Entrevistas_falba.html">
+      <img src="{{site.baseurl}}/assets/images/Fabiola-Alba.jpg" alt="Fabiola Alba">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2021/06/01/Entrevistas_falba.html" style="color:inherit; text-decoration:none;">Fabiola Alba</a></h3>
+    <p>Estudiante de Doctorado · Universidad de Columbia</p>
+  </div>
+
+  <div class="team-card">
+    <a href="https://econthaki.github.io/Entrevistas/2021/09/01/Entrevistas_acarrasco.html">
+      <img src="{{site.baseurl}}/assets/images/Alex-Carrasco.jpg" alt="Alex Carrasco">
+    </a>
+    <h3><a href="https://econthaki.github.io/Entrevistas/2021/09/01/Entrevistas_acarrasco.html" style="color:inherit; text-decoration:none;">Alex Carrasco</a></h3>
+    <p>Estudiante de Doctorado · MIT</p>
+  </div>
+
+</div>
+
+
 ![Entrevistas]({{site.baseurl}}/assets/images/shutterstock_1733262980.jpg)
 
