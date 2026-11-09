@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - Carolina Vera
+title: Entrevistas - Carolina Vera
 date: "Febrero 2022"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/carolina-vera.jpg
 output:
   prettydoc::html_pretty:
@@ -21,7 +21,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de *Voces*, estamos entusiasmados de presentar a ..
+En esta edición de *Entrevistas*, estamos entusiasmados de presentar a ..
 </div>
 <br>
 
@@ -59,7 +59,7 @@ Respuesta 2
 --
 
 <div class = "teal">
-Le agradecemos mucho a ... por esta entrevista para la primera edición de *Voces*. Si te sentiste identificadx con la experiencia de .... o deseas contactarla, puedes hacerlo a través de:
+Le agradecemos mucho a ... por esta entrevista para la primera edición de *Entrevistas*. Si te sentiste identificadx con la experiencia de .... o deseas contactarla, puedes hacerlo a través de:
 
 </div>
 
