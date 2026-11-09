@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Voces - María Caridad Araujo
+title: Entrevistas - María Caridad Araujo
 date: "Febrero 2023"
 author: econthaki
-categories: [voces]
+categories: [Entrevistas]
 image: assets/images/ma_caridad_araujo.JPG
 output:
   prettydoc::html_pretty:
@@ -21,7 +21,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, contamos con la primera entrevista de EconThaki a una economista ecuatoriana. Es un gusto presentarles a María Caridad Araujo, Jefa de la División de Género y Diversidad del Banco Interamericano de Desarrollo (BID). En la actualidad, sus intereses y esfuerzos investigativos se centran en mujeres, pueblos indígenas, afrodescendientes, personas con discapacidad y personas LGBTQ+. María Caridad lidera las iniciativas que permiten mejorar el acceso a servicios de calidad y oportunidades económicas, así como fortalecer la representación de dichos grupos. Previamente, en su rol de Economista Principal de la División de Salud y Protección Social dentro del BID, se enfocó en programas de reducción de pobreza y desarrollo infantil.
+En esta edición de Entrevistas, contamos con la primera entrevista de EconThaki a una economista ecuatoriana. Es un gusto presentarles a María Caridad Araujo, Jefa de la División de Género y Diversidad del Banco Interamericano de Desarrollo (BID). En la actualidad, sus intereses y esfuerzos investigativos se centran en mujeres, pueblos indígenas, afrodescendientes, personas con discapacidad y personas LGBTQ+. María Caridad lidera las iniciativas que permiten mejorar el acceso a servicios de calidad y oportunidades económicas, así como fortalecer la representación de dichos grupos. Previamente, en su rol de Economista Principal de la División de Salud y Protección Social dentro del BID, se enfocó en programas de reducción de pobreza y desarrollo infantil.
 La Dra. Araujo cursó su pregrado en economía en la Pontificia Universidad Católica del Ecuador (PUCE) y, posteriormente, obtuvo un doctorado en Economía Agrícola y de Recursos Naturales de la Universidad de California, Berkeley.
 Les invitamos a leer esta entrevista.
 
