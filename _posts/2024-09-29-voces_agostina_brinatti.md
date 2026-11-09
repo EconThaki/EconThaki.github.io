@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voces - Agostina Brinatti
+title: Entrevistas - Agostina Brinatti
 date: "September 2024"
 author: econthaki
-categories: [voces]
-image: assets/images/voces/agostina_brinatti.jpeg
+categories: [Entrevistas]
+image: assets/images/Entrevistas/agostina_brinatti.jpeg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -20,7 +20,7 @@ div.teal { background-color:#93d9d8; border-radius: 5px; padding: 20px;}
 </style>
 
 <div class = "teal">
-En esta edición de Voces, entrevistamos a la economista argentina Agostina Brinatti, quien realiza un posdoctorado en la Universidad de Yale. Agostina estudió el Pregrado en Economía en la Universidad Nacional del Córdoba, en Argetina. Seguidamente, estudió la maestría en Economía en el Centro de Centro de Estudios Monetarios y Financieros (CEMFI). Sus temas de interés en investigación son el Comercio Internacional, Migración y Macroeconomía.
+En esta edición de Entrevistas, entrevistamos a la economista argentina Agostina Brinatti, quien realiza un posdoctorado en la Universidad de Yale. Agostina estudió el Pregrado en Economía en la Universidad Nacional del Córdoba, en Argetina. Seguidamente, estudió la maestría en Economía en el Centro de Centro de Estudios Monetarios y Financieros (CEMFI). Sus temas de interés en investigación son el Comercio Internacional, Migración y Macroeconomía.
 </div>
 Esperamos les guste esta entrevista y se inspiren con su historia.
 <br>
