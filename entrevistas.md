@@ -16,12 +16,16 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <div class="team-grid" style="margin-top:30px;">
 
 <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2026/10/01/Entrevistas_cristhian_rosales.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/cristhian_rosales.jpeg" alt="Cristhian Rosales">
+  <a href="{{ site.baseurl }}/entrevistas/cristhian-rosales/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/cristhian_rosales.jpeg" alt="Cristhian Rosales">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/cristhian-rosales/" style="color:inherit; text-decoration:none;">
+      Cristhian Rosales-Castillo
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2026/10/01/Entrevistas_cristhian_rosales.html" style="color:inherit; text-decoration:none;">Cristhian Rosales-Castillo</a></h3>
-    <p>Estudiante de doctorado · Emory University</p>
-  </div>
+  </h3>
+  <p>Estudiante de doctorado · Emory University</p>
+</div>
 
 <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2026/08/01/Entrevistas_kenji_moreno.html">
