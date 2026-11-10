@@ -23,7 +23,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
     </a>
   </h3>
   <p>Estudiante de doctorado · Emory University</p>
-</div>
+</div> 
 
 <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2026/08/01/Entrevistas_kenji_moreno.html">
