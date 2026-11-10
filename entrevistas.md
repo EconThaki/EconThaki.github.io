@@ -11,7 +11,7 @@ Entrevistas a miembros de la comunidad académica en América Latina y el Caribe
 
 ## Entrevistas
 
-En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembros de la comunidad latina que cursan --o han terminado-- el Doctorado en Economía o ramas afines. 
+En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembros de la comunidad latina que cursan o han terminado el Doctorado en Economía o ramas afines. 
 
 <div class="team-grid" style="margin-top:30px;">
 
