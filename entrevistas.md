@@ -37,8 +37,6 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de doctorado · Georgia State University</p>
 </div>
 
-
-
   <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/">
     <img src="{{ site.baseurl }}/assets/images/Entrevistas/Diego_Ascarza.jpeg" alt="Diego Ascarza">
