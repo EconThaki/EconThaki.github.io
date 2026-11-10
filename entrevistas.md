@@ -61,7 +61,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de doctorado</p>
 </div>
 
-  <div class="team-card">
+<div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/">
     <img src="{{ site.baseurl }}/assets/images/Entrevistas/Emilio_Gutierrez.jpeg" alt="Emilio Gutiérrez">
   </a>
