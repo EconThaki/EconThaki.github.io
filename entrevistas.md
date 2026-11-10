@@ -49,21 +49,29 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Research Professor · Tecnológico de Monterrey</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2025/11/01/Entrevistas_shirley_redroban.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/shirley_redroban.jpeg" alt="Shirley Redroban">
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/shirley-cordova/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Shirley_Cordova.jpeg" alt="Shirley Córdova">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/shirley-cordova/" style="color:inherit; text-decoration:none;">
+      Shirley Córdova
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2025/11/01/Entrevistas_shirley_redroban.html" style="color:inherit; text-decoration:none;">Shirley Redroban</a></h3>
-    <p>Candidata a Doctora · Universidad de Maryland</p>
-  </div>
+  </h3>
+  <p>Estudiante de doctorado</p>
+</div>
 
   <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2025/05/01/Entrevistas_emilio_colombi.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/emilio_colombi.JPEG" alt="Emilio Colombi">
+  <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Emilio_Gutierrez.jpeg" alt="Emilio Gutiérrez">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/" style="color:inherit; text-decoration:none;">
+      Emilio Gutiérrez
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2025/05/01/Entrevistas_emilio_colombi.html" style="color:inherit; text-decoration:none;">Emilio Colombi</a></h3>
-    <p>Candidato a Doctor · Universidad de Michigan</p>
-  </div>
+  </h3>
+  <p>Profesor / Investigador</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2025/04/01/Entrevistas_carolina_concha_arriagada.html">
