@@ -26,22 +26,30 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 </div> 
 
 <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2026/08/01/Entrevistas_kenji_moreno.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/KenjiMoreno_hs.png" alt="Kenji Moreno">
+  <a href="{{ site.baseurl }}/entrevistas/kenji-moreno/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Kenji_Moreno.jpeg" alt="Kenji Moreno">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/kenji-moreno/" style="color:inherit; text-decoration:none;">
+      Kenji Moreno
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2026/08/01/Entrevistas_kenji_moreno.html" style="color:inherit; text-decoration:none;">Kenji Moreno</a></h3>
-    <p>Estudiante de doctorado · Georgia State University</p>
-  </div>
+  </h3>
+  <p>Estudiante de doctorado · Georgia State University</p>
+</div>
 
 
 
   <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2026/02/01/Entrevistas_diego_ascarza.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/diego_ascarza.jpg" alt="Diego Ascarza">
+  <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Diego_Ascarza.jpeg" alt="Diego Ascarza">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/" style="color:inherit; text-decoration:none;">
+      Diego Ascarza
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2026/02/01/Entrevistas_diego_ascarza.html" style="color:inherit; text-decoration:none;">Diego Ascarza</a></h3>
-    <p>Research Professor · Tecnológico de Monterrey</p>
-  </div>
+  </h3>
+  <p>Research Professor · Tecnológico de Monterrey</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2025/11/01/Entrevistas_shirley_redroban.html">
