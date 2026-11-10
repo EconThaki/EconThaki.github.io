@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Entrevistas - Cristhian Rosales-Castillo
-date: "October 2026"
+title: "Entrevistas - Cristhian Rosales-Castillo"
+date: 2026-10-01
+permalink: /entrevistas/cristhian-rosales/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/cristhian_rosales.jpeg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
+
 Entrevista a Cristhian Rosales-Castillo, estudiante de doctorado de Emory University.
 
 <style>
