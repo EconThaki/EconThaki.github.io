@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Entrevistas"
-comments: true
-author: econthaki
-categories: [Entrevistas]
+permalink: /entrevistas/
 image: assets/images/shutterstock_1733262980.jpg
 ---
 
