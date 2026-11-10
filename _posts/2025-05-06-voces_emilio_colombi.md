@@ -1,16 +1,7 @@
 ---
 layout: post
-title: Entrevistas - Emilio Colombi
-date: "May 2025"
-author: econthaki
-categories: [Entrevistas]
-image: assets/images/Entrevistas/emilio_colombi.JPEG
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+title: "Entrevistas - Emilio Gutiérrez"
+permalink: /entrevistas/emilio-gutierrez/
 ---
 
 Entrevista a Emilio Colombi, Doctor en Economía en la Universidad de Michigan.
