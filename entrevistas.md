@@ -202,10 +202,9 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Jefa División Género y Diversidad · BID</p>
 </div>
 
-<!-- Mayara Felix -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/mayara-felix/">
-    <img src="{{ site.baseurl }}/assets/voces_mayara_felix.jpg" alt="Mayara Felix">
+    <img src="{{ site.baseurl }}/assets/images/voces_mayara_felix.jpg" alt="Mayara Felix">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/mayara-felix/" style="color:inherit; text-decoration:none;">
@@ -215,10 +214,9 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Posdoctoral Fellow · Universidad de Princeton</p>
 </div>
 
-<!-- Jose P. Vasquez -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/jose-p-vasquez/">
-    <img src="{{ site.baseurl }}/assets/voces_jose_p_vasquez.jpg" alt="Jose P. Vasquez">
+    <img src="{{ site.baseurl }}/assets/images/voces_jose_p_vasquez.jpg" alt="Jose P. Vasquez">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/jose-p-vasquez/" style="color:inherit; text-decoration:none;">
