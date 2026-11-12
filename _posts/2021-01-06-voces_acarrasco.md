@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Alex Carrasco
-date: "Septiembre 2021"
+title: "Entrevistas - Alex Carrasco"
+date: 2021-09-01
+permalink: /entrevistas/alex-carrasco/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Alex-Carrasco.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Alex Carrasco, estudiante del PhD en MIT
