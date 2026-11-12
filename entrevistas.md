@@ -205,7 +205,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- Mayara Felix -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/mayara-felix/">
-    <img src="{{ site.baseurl }}/assets/images/Mayara_Felix.jpg" alt="Mayara Felix">
+    <img src="{{ site.baseurl }}/assets/voces_mayara_felix.jpg" alt="Mayara Felix">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/mayara-felix/" style="color:inherit; text-decoration:none;">
