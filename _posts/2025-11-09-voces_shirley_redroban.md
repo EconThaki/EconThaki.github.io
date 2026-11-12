@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Entrevistas - Shirley Córdova"
+title: "Entrevistas - Shirley Redrobán"
 date: 2021-03-01
-permalink: /entrevistas/shirley-cordova/
+permalink: /entrevistas/shirley-redroban/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/Entrevistas/Shirley_Cordova.jpeg
+image: assets/images/Entrevistas/shirley_redroban.jpeg
 ---
 
 Entrevista a Shirley Redroban, candidata a Doctora en Economía en la Universidad de Maryland.
