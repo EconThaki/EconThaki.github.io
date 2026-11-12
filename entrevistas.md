@@ -124,29 +124,44 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de Doctorado · UC San Diego</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2024/02/01/Entrevistas_marcelo_ortiz.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/marcelo_ortiz.jpg" alt="Marcelo Ortiz">
+ <!-- Marcelo Ortiz -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/marcelo-ortiz/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/marcelo_ortiz.jpg" alt="Marcelo Ortiz">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/marcelo-ortiz/" style="color:inherit; text-decoration:none;">
+      Marcelo Ortiz
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2024/02/01/Entrevistas_marcelo_ortiz.html" style="color:inherit; text-decoration:none;">Marcelo Ortiz</a></h3>
-    <p>Estudiante de Doctorado · Universidad de Emory</p>
-  </div>
+  </h3>
+  <p>Estudiante de Doctorado · Universidad de Emory</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2023/09/01/Entrevistas_hugo_jales.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/hugo-jales.jpg" alt="Hugo Jales">
+<!-- Hugo Jales -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/hugo-jales/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/hugo-jales.jpg" alt="Hugo Jales">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/hugo-jales/" style="color:inherit; text-decoration:none;">
+      Hugo Jales
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2023/09/01/Entrevistas_hugo_jales.html" style="color:inherit; text-decoration:none;">Hugo Jales</a></h3>
-    <p>Profesor Asociado · Universidad de Syracuse</p>
-  </div>
+  </h3>
+  <p>Profesor Asociado · Universidad de Syracuse</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2023/07/01/Entrevistas_amilcar_velez.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/amilcar_velez.jpg" alt="Amilcar Velez">
+<!-- Amílcar Vélez -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/amilcar-velez/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/amilcar_velez.jpg" alt="Amílcar Vélez">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/amilcar-velez/" style="color:inherit; text-decoration:none;">
+      Amílcar Vélez
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2023/07/01/Entrevistas_amilcar_velez.html" style="color:inherit; text-decoration:none;">Amilcar Velez</a></h3>
-    <p>Candidato a Doctor · Universidad de Northwestern</p>
-  </div>
+  </h3>
+  <p>Candidato a Doctor · Universidad de Northwestern</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_muchin_bazan.html">
