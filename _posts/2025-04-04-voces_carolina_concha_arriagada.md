@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Carolina Concha-Arriagada
-date: "April 2025"
+title: "Entrevistas - Carolina Concha Arriagada"
+date: 2025-04-01
+permalink: /entrevistas/carolina-concha-arriagada/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/carolina_concha_arriagada.png
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Carolina Concha-Arriagada, Profesora Asistente en la Universidad de Columbia.
