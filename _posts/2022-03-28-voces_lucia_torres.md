@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Lucía Torres
-date: "Marzo 2022"
+title: "Entrevistas - Lucía Torres Frasele"
+date: 2022-04-01
+permalink: /entrevistas/lucia-torres-frasele/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/lucia_torres.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+image: assets/images/RUTA_QUE_YA_FUNCIONA_DE_LUCIA
 ---
 
 Entrevista a Lucía Torres Frasele, estudiante del doctorado en economía en Syracuse University
