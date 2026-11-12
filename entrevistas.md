@@ -76,13 +76,17 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Profesor / Investigador</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2025/04/01/Entrevistas_carolina_concha_arriagada.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/carolina_concha_arriagada.png" alt="Carolina Concha-Arriagada">
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/carolina-concha-arriagada/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/carolina_concha_arriagada.png" alt="Carolina Concha Arriagada">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/carolina-concha-arriagada/" style="color:inherit; text-decoration:none;">
+      Carolina Concha Arriagada
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2025/04/01/Entrevistas_carolina_concha_arriagada.html" style="color:inherit; text-decoration:none;">Carolina Concha-Arriagada</a></h3>
-    <p>Profesora Asistente · Universidad de Columbia</p>
-  </div>
+  </h3>
+  <p>Estudiante de doctorado / Investigadora</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2024/09/01/Entrevistas_agostina_brinatti.html">
