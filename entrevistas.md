@@ -39,7 +39,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 
   <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Diego_Ascarza.jpeg" alt="Diego Ascarza">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/DiegoAscarza_hs.png" alt="Diego Ascarza">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/" style="color:inherit; text-decoration:none;">
@@ -51,7 +51,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/shirley-cordova/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Shirley_Cordova.jpeg" alt="Shirley Córdova">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/ShirleyCordova_hs.png" alt="Shirley Córdova">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/shirley-cordova/" style="color:inherit; text-decoration:none;">
@@ -63,7 +63,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Emilio_Gutierrez.jpeg" alt="Emilio Gutiérrez">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/EmilioGutierrez_hs.png" alt="Emilio Gutiérrez">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/" style="color:inherit; text-decoration:none;">
