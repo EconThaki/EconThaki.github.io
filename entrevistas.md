@@ -244,7 +244,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- Carolina Vera -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/carolina-vera/">
-    <!-- Conserva aquí tu etiqueta <img> actual que ya funciona -->
+    <img src="{{ site.baseurl }}/assets/images/carolina-vera.jpg" alt="Carolina Vera">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/carolina-vera/" style="color:inherit; text-decoration:none;">
@@ -257,7 +257,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- Florencia Hnilo y Sebastian Bauer -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/florencia-hnilo-y-sebastian-bauer/">
-    <!-- Conserva aquí tu etiqueta <img> actual (ej. FH-SB.jpg) -->
+    <img src="{{ site.baseurl }}/assets/images/FH-SB.jpg" alt="Florencia Hnilo y Sebastian Bauer">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/florencia-hnilo-y-sebastian-bauer/" style="color:inherit; text-decoration:none;">
@@ -270,7 +270,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- Fabiola Alba -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/fabiola-alba/">
-    <!-- Conserva aquí tu etiqueta <img> actual (ej. Fabiola-Alba.jpg) -->
+    <img src="{{ site.baseurl }}/assets/images/Fabiola-Alba.jpg" alt="Fabiola Alba">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/fabiola-alba/" style="color:inherit; text-decoration:none;">
