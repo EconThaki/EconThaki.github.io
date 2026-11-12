@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Entrevistas - Kenji Moreno
-date: "August 2026"
+title: "Entrevistas - Kenji Moreno"
+date: 2021-08-01
+permalink: /entrevistas/kenji-moreno/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/Entrevistas/KenjiMoreno_hs.png
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+image: assets/images/Entrevistas/Kenji_Moreno.jpeg
 ---
+
 Entrevista a Kenji Moreno, estudiante de doctorado de Georgia State University.
 
 <style>
