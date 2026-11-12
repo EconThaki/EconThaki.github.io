@@ -163,29 +163,44 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Candidato a Doctor · Universidad de Northwestern</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_muchin_bazan.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/muchin_bazan.jpg" alt="Muchin Bazan">
+<!-- Muchin Bazán -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/muchin-bazan/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/muchin_bazan.jpg" alt="Muchin Bazan">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/muchin-bazan/" style="color:inherit; text-decoration:none;">
+      Muchin Bazan
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_muchin_bazan.html" style="color:inherit; text-decoration:none;">Muchin Bazan</a></h3>
-    <p>Posdoc · CDC Atlanta</p>
-  </div>
+  </h3>
+  <p>Posdoc · CDC Atlanta</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_carlos_burga.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/Carlos_Burga.png" alt="Carlos Burga">
+<!-- Carlos Burga -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/carlos-burga/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Carlos_Burga.png" alt="Carlos Burga">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/carlos-burga/" style="color:inherit; text-decoration:none;">
+      Carlos Burga
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2023/05/01/Entrevistas_carlos_burga.html" style="color:inherit; text-decoration:none;">Carlos Burga</a></h3>
-    <p>Profesor Asistente · PUC Chile</p>
-  </div>
+  </h3>
+  <p>Profesor Asistente · PUC Chile</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2023/02/01/Entrevistas_maria_caridad_araujo.html">
-      <img src="{{site.baseurl}}/assets/images/ma_caridad_araujo.JPG" alt="María Caridad Araujo">
+<!-- María Caridad Araujo -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/maria-caridad-araujo/">
+    <img src="{{ site.baseurl }}/assets/images/Maria_Caridad_Araujo.jpg" alt="María Caridad Araujo">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/maria-caridad-araujo/" style="color:inherit; text-decoration:none;">
+      María Caridad Araujo
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2023/02/01/Entrevistas_maria_caridad_araujo.html" style="color:inherit; text-decoration:none;">María Caridad Araujo</a></h3>
-    <p>Jefa División Género y Diversidad · BID</p>
-  </div>
+  </h3>
+  <p>Jefa División Género y Diversidad · BID</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2022/11/01/Entrevistas_mayara_felix.html">
