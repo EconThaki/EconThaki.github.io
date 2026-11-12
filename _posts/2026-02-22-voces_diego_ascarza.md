@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Diego Ascarza
-date: "February 2026"
+title: "Entrevistas - Diego Ascarza"
+date: 2021-07-01
+permalink: /entrevistas/diego-ascarza/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/Entrevistas/diego_ascarza.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+image: assets/images/Entrevistas/Diego_Ascarza.jpeg
 ---
 
 Entrevista a Diego Ascarza-Mendoza, Research Professor en el Tecnológico de Monterrey.
