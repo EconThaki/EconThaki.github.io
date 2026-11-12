@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - María Caridad Araujo
-date: "Febrero 2023"
+title: "Entrevistas - María Caridad Araujo"
+date: 2022-01-01
+permalink: /entrevistas/maria-caridad-araujo/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/ma_caridad_araujo.JPG
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+image: assets/images/Maria_Caridad_Araujo.jpg
 ---
 
 Entrevista a María Caridad Araujo, Jefa de la División de Género y Diversidad del Banco Interamericano de Desarrollo (BID).
