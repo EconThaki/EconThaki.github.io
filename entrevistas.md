@@ -88,21 +88,29 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de doctorado / Investigadora</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2024/09/01/Entrevistas_agostina_brinatti.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/agostina_brinatti.jpeg" alt="Agostina Brinatti">
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/agostina-brinatti/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/agostina_brinatti.jpeg" alt="Agostina Brinatti">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/agostina-brinatti/" style="color:inherit; text-decoration:none;">
+      Agostina Brinatti
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2024/09/01/Entrevistas_agostina_brinatti.html" style="color:inherit; text-decoration:none;">Agostina Brinatti</a></h3>
-    <p>Investigadora Posdoctoral · Universidad de Yale</p>
-  </div>
+  </h3>
+  <p>Profesora / Investigadora</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2024/07/01/Entrevistas_rony_rodriguez.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/rony.jpeg" alt="Rony Rodriguez">
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/rony-rodriguez/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/rony.jpeg" alt="Rony Rodríguez">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/rony-rodriguez/" style="color:inherit; text-decoration:none;">
+      Rony Rodríguez
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2024/07/01/Entrevistas_rony_rodriguez.html" style="color:inherit; text-decoration:none;">Rony Rodriguez</a></h3>
-    <p>Estudiante de Doctorado · Universidad de Harvard</p>
-  </div>
+  </h3>
+  <p>Cargo / Institución</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2024/04/01/Entrevistas_juan_david.html">
