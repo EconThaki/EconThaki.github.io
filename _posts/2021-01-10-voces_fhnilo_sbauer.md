@@ -5,8 +5,8 @@ date: 2022-06-01
 permalink: /entrevistas/florencia-hnilo-y-sebastian-bauer/
 author: econthaki
 categories: [Entrevistas]
+image: assets/images/FH-SB.jpg
 ---
-
 En esta oportunidad entrevistaremos a Florencia Hnilo (Stanford Econ) y Sebastian Bauer (Stanford GSB), ambos de Argentina
 
 
