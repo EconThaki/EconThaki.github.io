@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Juan David Hernández-Leal
-date: "April 2024"
+title: "Entrevistas - Juan David Hernández"
+date: 2021-07-01
+permalink: /entrevistas/juan-david-hernandez/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/juan_david.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Juan David Hernández-Leal, Estudiante del Doctorado en Economía en la Universidad de California, San Diego.
