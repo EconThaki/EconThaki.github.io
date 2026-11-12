@@ -1,18 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Fabiola Alba
-date: "Junio 2021"
+title: "Entrevistas - Fabiola Alba"
+date: 2022-07-01
+permalink: /entrevistas/fabiola-alba/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/Fabiola-Alba.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
-
 Entrevista a Fabiola Alba, candidata PhD en Columbia University
 
 <style>
