@@ -277,11 +277,11 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de Doctorado · Universidad de Columbia</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2021/09/01/Entrevistas_acarrasco.html">
-      <img src="{{site.baseurl}}/assets/images/Alex-Carrasco.jpg" alt="Alex Carrasco">
+<div class="team-card">
+    <a href="{{ site.baseurl }}/entrevistas/alex-carrasco/">
+      <img src="{{ site.baseurl }}/assets/images/Alex-Carrasco.jpg" alt="Alex Carrasco">
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2021/09/01/Entrevistas_acarrasco.html" style="color:inherit; text-decoration:none;">Alex Carrasco</a></h3>
+    <h3><a href="{{ site.baseurl }}/entrevistas/alex-carrasco/" style="color:inherit; text-decoration:none;">Alex Carrasco</a></h3>
     <p>Estudiante de Doctorado · MIT</p>
   </div>
 
