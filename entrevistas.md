@@ -192,7 +192,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- María Caridad Araujo -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/maria-caridad-araujo/">
-    <img src="{{ site.baseurl }}/assets/images/Maria_Caridad_Araujo.jpg" alt="María Caridad Araujo">
+    <img src="{{ site.baseurl }}/assets/images/ma_caridad_araujo.JPG" alt="María Caridad Araujo">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/maria-caridad-araujo/" style="color:inherit; text-decoration:none;">
