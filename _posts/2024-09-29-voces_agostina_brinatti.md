@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Agostina Brinatti
-date: "September 2024"
+title: "Entrevistas - Agostina Brinatti"
+date: 2021-06-01
+permalink: /entrevistas/agostina-brinatti/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/agostina_brinatti.jpeg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Agostina Brinatti, investigadora posdoctoral en la Universidad de Yale.
