@@ -37,9 +37,10 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de doctorado · Georgia State University</p>
 </div>
 
-  <div class="team-card">
+  <!-- Diego Ascarza -->
+<div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/DiegoAscarza_hs.png" alt="Diego Ascarza">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/diego_ascarza.jpg" alt="Diego Ascarza">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/diego-ascarza/" style="color:inherit; text-decoration:none;">
@@ -49,25 +50,27 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Research Professor · Tecnológico de Monterrey</p>
 </div>
 
+<!-- Shirley Redrobán -->
 <div class="team-card">
-  <a href="{{ site.baseurl }}/entrevistas/shirley-cordova/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/ShirleyCordova_hs.png" alt="Shirley Córdova">
+  <a href="{{ site.baseurl }}/entrevistas/shirley-redroban/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/shirley_redroban.jpeg" alt="Shirley Redrobán">
   </a>
   <h3>
-    <a href="{{ site.baseurl }}/entrevistas/shirley-cordova/" style="color:inherit; text-decoration:none;">
-      Shirley Córdova
+    <a href="{{ site.baseurl }}/entrevistas/shirley-redroban/" style="color:inherit; text-decoration:none;">
+      Shirley Redrobán
     </a>
   </h3>
   <p>Estudiante de doctorado</p>
 </div>
 
+<!-- Emilio Colombi -->
 <div class="team-card">
-  <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/EmilioGutierrez_hs.png" alt="Emilio Gutiérrez">
+  <a href="{{ site.baseurl }}/entrevistas/emilio-colombi/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/emilio_colombi.JPEG" alt="Emilio Colombi">
   </a>
   <h3>
-    <a href="{{ site.baseurl }}/entrevistas/emilio-gutierrez/" style="color:inherit; text-decoration:none;">
-      Emilio Gutiérrez
+    <a href="{{ site.baseurl }}/entrevistas/emilio-colombi/" style="color:inherit; text-decoration:none;">
+      Emilio Colombi
     </a>
   </h3>
   <p>Profesor / Investigador</p>
