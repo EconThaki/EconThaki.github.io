@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Carlos Burga
-date: "Mayo 2023"
+title: "Entrevistas - Carlos Burga"
+date: 2021-12-01
+permalink: /entrevistas/carlos-burga/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/Carlos_Burga.png
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Carlos Burga, Profesor Asistente en la Pontificia Universidad Católica de Chile (PUC-Chile).
