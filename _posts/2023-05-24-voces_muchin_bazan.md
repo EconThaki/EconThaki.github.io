@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Muchin Bazan
-date: "Mayo 2023"
+title: "Entrevistas - Muchin Bazan"
+date: 2021-11-01
+permalink: /entrevistas/muchin-bazan/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/muchin_bazan.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Muchin Bazan, Posdoc en los Centros para el Control y la Prevención de Enfermedades (CDC) en Atlanta.
