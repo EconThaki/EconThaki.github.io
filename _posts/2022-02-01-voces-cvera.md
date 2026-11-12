@@ -5,6 +5,7 @@ date: 2022-05-01
 permalink: /entrevistas/carolina-vera/
 author: econthaki
 categories: [Entrevistas]
+image: assets/images/carolina-vera.jpg
 ---
 
 Entrevista a Carolina Vera, estudiante del PhD  en la Univerdad de Arizona
