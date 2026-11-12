@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Amilcar Velez
-date: "Julio 2023"
+title: "Entrevistas - Amílcar Vélez"
+date: 2021-10-01
+permalink: /entrevistas/amilcar-velez/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/amilcar_velez.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Amilcar Velez, candidato a doctor en economía en la Universidad de Northwestern.
