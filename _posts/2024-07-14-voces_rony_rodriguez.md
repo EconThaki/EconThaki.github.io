@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Rony Rodrigo Maximiliano Rodriguez Ramirez
-date: "July 2024"
+title: "Entrevistas - Rony Rodríguez"
+date: 2021-06-01
+permalink: /entrevistas/rony-rodriguez/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/rony.jpeg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Rony Rodrigo Maximiliano Rodriguez Ramirez, Estudiante del Doctorado en Evaluación de Políticas y Programas Educativos en la Universidad de Harvard.
