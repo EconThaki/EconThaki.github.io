@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Entrevistas - Emilio Gutiérrez"
+date: 2021-04-01
 permalink: /entrevistas/emilio-gutierrez/
+author: econthaki
+categories: [Entrevistas]
+image: assets/images/Entrevistas/Emilio_Gutierrez.jpeg
 ---
-
 Entrevista a Emilio Colombi, Doctor en Economía en la Universidad de Michigan.
 
 <style>
