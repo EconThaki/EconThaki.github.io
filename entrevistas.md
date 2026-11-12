@@ -231,7 +231,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- Lucía Torres Frasele -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/lucia-torres-frasele/">
-    <img src="{{ site.baseurl }}/assets/images/Lucia_Torres.jpg" alt="Lucía Torres Frasele">
+    <img src="{{ site.baseurl }}/assets/lucia_torres.jpg" alt="Lucía Torres Frasele">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/lucia-torres-frasele/" style="color:inherit; text-decoration:none;">
