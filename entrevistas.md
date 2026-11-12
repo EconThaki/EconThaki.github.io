@@ -109,16 +109,20 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
       Rony Rodríguez
     </a>
   </h3>
-  <p>Cargo / Institución</p>
+  <p>Estudiante de Doctorado · Harvard</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2024/04/01/Entrevistas_juan_david.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas/juan_david.jpg" alt="Juan David Hernandez">
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/juan-david-hernandez/">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/juan_david.jpg" alt="Juan David Hernández">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/juan-david-hernandez/" style="color:inherit; text-decoration:none;">
+      Juan David Hernández
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2024/04/01/Entrevistas_juan_david.html" style="color:inherit; text-decoration:none;">Juan David Hernandez</a></h3>
-    <p>Estudiante de Doctorado · UC San Diego</p>
-  </div>
+  </h3>
+  <p>Estudiante de Doctorado · UC San Diego</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2024/02/01/Entrevistas_marcelo_ortiz.html">
