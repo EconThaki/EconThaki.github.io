@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Hugo Jales
-date: "Septiembre 2023"
+title: "Entrevistas - Hugo Jales"
+date: 2021-09-01
+permalink: /entrevistas/hugo-jales/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/hugo-jales.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Hugo Jales, Profesor Asociado en la Universidad de Syracuse.
