@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - José P. Vasquez
-date: "Junio 2022"
+title: "Entrevistas - Jose P. Vasquez"
+date: 2022-03-01
+permalink: /entrevistas/jose-p-vasquez/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/Entrevistas_jose_p_vasquez.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+image: assets/images/NOMBRE_EXACTO_JOSE
 ---
 
 Entrevista a José P. Vásquez, Profesor Asistente en el Departamento de Administración de London School of Economics en Inglaterra.
