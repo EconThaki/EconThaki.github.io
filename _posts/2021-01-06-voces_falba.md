@@ -5,6 +5,7 @@ date: 2022-07-01
 permalink: /entrevistas/fabiola-alba/
 author: econthaki
 categories: [Entrevistas]
+image: assets/images/Fabiola-Alba.jpg
 ---
 Entrevista a Fabiola Alba, candidata PhD en Columbia University
 
