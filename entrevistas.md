@@ -241,29 +241,44 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Estudiante de Doctorado · Universidad de Syracuse</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2022/02/01/Entrevistas-cvera.html">
-      <img src="{{site.baseurl}}/assets/images/carolina-vera.jpg" alt="Carolina Vera">
+<!-- Carolina Vera -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/carolina-vera/">
+    <!-- Conserva aquí tu etiqueta <img> actual que ya funciona -->
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/carolina-vera/" style="color:inherit; text-decoration:none;">
+      Carolina Vera
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2022/02/01/Entrevistas-cvera.html" style="color:inherit; text-decoration:none;">Carolina Vera</a></h3>
-    <p>Estudiante de Doctorado · Universidad de Arizona</p>
-  </div>
+  </h3>
+  <p>Estudiante de Doctorado · Universidad de Arizona</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2021/10/01/Entrevistas_fhnilo_sbauer.html">
-      <img src="{{site.baseurl}}/assets/images/FH-SB.jpg" alt="Florencia Hnilo y Sebastian Bauer">
+<!-- Florencia Hnilo y Sebastian Bauer -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/florencia-hnilo-y-sebastian-bauer/">
+    <!-- Conserva aquí tu etiqueta <img> actual (ej. FH-SB.jpg) -->
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/florencia-hnilo-y-sebastian-bauer/" style="color:inherit; text-decoration:none;">
+      Florencia Hnilo y Sebastian Bauer
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2021/10/01/Entrevistas_fhnilo_sbauer.html" style="color:inherit; text-decoration:none;">Florencia Hnilo y Sebastian Bauer</a></h3>
-    <p>Estudiantes de Doctorado · Stanford</p>
-  </div>
+  </h3>
+  <p>Estudiantes de Doctorado · Stanford</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2021/06/01/Entrevistas_falba.html">
-      <img src="{{site.baseurl}}/assets/images/Fabiola-Alba.jpg" alt="Fabiola Alba">
+<!-- Fabiola Alba -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/fabiola-alba/">
+    <!-- Conserva aquí tu etiqueta <img> actual (ej. Fabiola-Alba.jpg) -->
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/fabiola-alba/" style="color:inherit; text-decoration:none;">
+      Fabiola Alba
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2021/06/01/Entrevistas_falba.html" style="color:inherit; text-decoration:none;">Fabiola Alba</a></h3>
-    <p>Estudiante de Doctorado · Universidad de Columbia</p>
-  </div>
+  </h3>
+  <p>Estudiante de Doctorado · Universidad de Columbia</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2021/09/01/Entrevistas_acarrasco.html">
