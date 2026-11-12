@@ -27,7 +27,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/kenji-moreno/">
-    <img src="{{ site.baseurl }}/assets/images/Entrevistas/Kenji_Moreno.jpeg" alt="Kenji Moreno">
+    <img src="{{ site.baseurl }}/assets/images/Entrevistas/KenjiMoreno_hs.png" alt="Kenji Moreno">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/kenji-moreno/" style="color:inherit; text-decoration:none;">
