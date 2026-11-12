@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Mayara Felix
-date: "Noviembre 2022"
+title: "Entrevistas - Mayara Felix"
+date: 2022-02-01
+permalink: /entrevistas/mayara-felix/
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/Entrevistas_mayara_felix.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
+image: assets/images/NOMBRE_EXACTO_MAYARA
 ---
 
 Entrevista a Mayara Felix, Posdoctoral Fellow en la International Economics Section en la Universidad de Princeton.
