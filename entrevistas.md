@@ -218,7 +218,7 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
 <!-- Jose P. Vasquez -->
 <div class="team-card">
   <a href="{{ site.baseurl }}/entrevistas/jose-p-vasquez/">
-    <img src="{{ site.baseurl }}/assets/images/Jose_Vasquez.jpg" alt="Jose P. Vasquez">
+    <img src="{{ site.baseurl }}/assets/voces_jose_p_vasquez.jpg" alt="Jose P. Vasquez">
   </a>
   <h3>
     <a href="{{ site.baseurl }}/entrevistas/jose-p-vasquez/" style="color:inherit; text-decoration:none;">
