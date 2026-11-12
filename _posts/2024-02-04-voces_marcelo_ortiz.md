@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Entrevistas - Marcelo Ortiz Villavicencio
-date: "February 2024"
+title: "Entrevistas - Marcelo Ortiz"
+date: 2021-08-01
+permalink: /entrevistas/marcelo-ortiz/
 author: econthaki
 categories: [Entrevistas]
 image: assets/images/Entrevistas/marcelo_ortiz.jpg
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
-    highlight: github
-    keep_md: true
-    
 ---
 
 Entrevista a Marcelo Ortiz Villavicencio, Estudiante del Doctorado en Economía en la Universidad de Emory.
