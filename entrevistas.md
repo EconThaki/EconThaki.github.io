@@ -202,29 +202,44 @@ En esta sección, entrevistamos y resaltamos el trabajo y trayectoria de miembro
   <p>Jefa División Género y Diversidad · BID</p>
 </div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2022/11/01/Entrevistas_mayara_felix.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas_mayara_felix.jpg" alt="Mayara Felix">
+<!-- Mayara Felix -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/mayara-felix/">
+    <img src="{{ site.baseurl }}/assets/images/Mayara_Felix.jpg" alt="Mayara Felix">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/mayara-felix/" style="color:inherit; text-decoration:none;">
+      Mayara Felix
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2022/11/01/Entrevistas_mayara_felix.html" style="color:inherit; text-decoration:none;">Mayara Felix</a></h3>
-    <p>Posdoctoral Fellow · Universidad de Princeton</p>
-  </div>
+  </h3>
+  <p>Posdoctoral Fellow · Universidad de Princeton</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2022/06/01/Entrevistas_jose_p_vasquez.html">
-      <img src="{{site.baseurl}}/assets/images/Entrevistas_jose_p_vasquez.jpg" alt="Jose P. Vasquez">
+<!-- Jose P. Vasquez -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/jose-p-vasquez/">
+    <img src="{{ site.baseurl }}/assets/images/Jose_Vasquez.jpg" alt="Jose P. Vasquez">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/jose-p-vasquez/" style="color:inherit; text-decoration:none;">
+      Jose P. Vasquez
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2022/06/01/Entrevistas_jose_p_vasquez.html" style="color:inherit; text-decoration:none;">Jose P. Vasquez</a></h3>
-    <p>Profesor Asistente · LSE</p>
-  </div>
+  </h3>
+  <p>Profesor Asistente · LSE</p>
+</div>
 
-  <div class="team-card">
-    <a href="https://econthaki.github.io/Entrevistas/2022/03/01/Entrevistas_lucia_torres.html">
-      <img src="{{site.baseurl}}/assets/images/lucia_torres.jpg" alt="Lucía Torres Frasele">
+<!-- Lucía Torres Frasele -->
+<div class="team-card">
+  <a href="{{ site.baseurl }}/entrevistas/lucia-torres-frasele/">
+    <img src="{{ site.baseurl }}/assets/images/Lucia_Torres.jpg" alt="Lucía Torres Frasele">
+  </a>
+  <h3>
+    <a href="{{ site.baseurl }}/entrevistas/lucia-torres-frasele/" style="color:inherit; text-decoration:none;">
+      Lucía Torres Frasele
     </a>
-    <h3><a href="https://econthaki.github.io/Entrevistas/2022/03/01/Entrevistas_lucia_torres.html" style="color:inherit; text-decoration:none;">Lucía Torres Frasele</a></h3>
-    <p>Estudiante de Doctorado · Universidad de Syracuse</p>
-  </div>
+  </h3>
+  <p>Estudiante de Doctorado · Universidad de Syracuse</p>
+</div>
 
   <div class="team-card">
     <a href="https://econthaki.github.io/Entrevistas/2022/02/01/Entrevistas-cvera.html">
