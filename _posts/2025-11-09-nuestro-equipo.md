@@ -103,5 +103,10 @@ featured: false
       <h3>Taciana Casanova</h3>
       <p>Área de Comunicaciones</p>
     </div>
+<div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/voolunteer_manuela.jpg" alt="Manuela">
+      <h3>Manuela Correa</h3>
+      <p>Área de Finanzas</p>
+    </div>
   </div>
 </section>
