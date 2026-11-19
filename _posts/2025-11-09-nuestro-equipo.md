@@ -79,6 +79,11 @@ featured: false
       <h3>Vanina Vivas</h3>
       <p>Directora Académica</p>
     </div>
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_LuisQuichca.jpg" alt="Luis Quichca">
+      <h3>Luis Quichca</h3>
+      <p>Director de Programas</p>
+    </div>
   </div>
 
   <h2 class="team-section-title">Voluntarios/as</h2>
@@ -130,6 +135,11 @@ featured: false
       <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Manuela.jpg" alt="Manuela">
       <h3>Manuela Correa</h3>
       <p>Área de Finanzas</p>
+    </div>
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Marilusby.jpeg" alt="Marilusby">
+      <h3>Marilusby More</h3>
+      <p>Área de Comunicaciones</p>
     </div>
   </div>
 </section>
