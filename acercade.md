@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: ¿Quiénes Somos?
+author: econthaki
+categories: [ acercade ]
+image: assets/images/cd.jpg
 ---
 
-![Equipo EconThaki]({{ site.baseurl }}/assets/images/cd.jpg)
 
 **Acerca de nosotros**
 
