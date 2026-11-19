@@ -32,16 +32,6 @@ featured: false
       <p> Directora General</p>
     </div>
     <div class="team-card">
-      <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Brian.png" alt="Brian">
-      <h3>Brian Daza</h3>
-      <p>Director Académico</p>
-    </div>
-    <div class="team-card">
-      <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Mari.jpg" alt="Mari">
-      <h3>María Luisa Zeta</h3>
-      <p>Directora Académica</p>
-    </div>
-    <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Paola.jpg" alt="Paola">
       <h3>Paola Villa</h3>
       <p>Directora Académica</p>
