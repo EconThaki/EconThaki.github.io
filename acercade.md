@@ -3,6 +3,8 @@ layout: page
 title: ¿Quiénes Somos?
 ---
 
+![Equipo EconThaki]({{ site.baseurl }}/assets/images/cd.jpg)
+
 **Acerca de nosotros**
 
 EconThaki es una organización que tiene como objetivo incrementar la diversidad en la academia en economía en Latinoamérica y el Caribe. Nos llamamos &quot;EconThaki&quot; uniendo Econ- por economía y -Thaki por sendero o camino en aymara. Nuestro logo está inspirado en el colibrí cola de espátula, una especie endémica en vías de extinción que vive únicamente en la cuenca del río Utcubamba. Su existencia sirve de recordatorio de que hay valor en la diversidad, y que la diversidad usualmente requiere de atención y esfuerzos para cuidarse, valorarse, y preservarse. Creemos que incentivar la diversidad en economía es necesario. No solamente por una cuestión de equidad, sino también para aumentar la calidad y el alcance de la disciplina. Tenemos la seguridad de que la inclusión de personas de diferentes orígenes, perspectivas y habilidades significarán avances en las áreas que es capaz de cubrir la profesión y en la calidad de herramientas que tendrá para hacerlo.
