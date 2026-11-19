@@ -7,6 +7,23 @@ featured: false
 ---
 
 <section class="team-section">
+<h2 class="team-section-title">Consejo Consultivo</h2>
+  <p style="text-align: center; max-width: 750px; margin: 0 auto 2rem auto; color: #555;">
+    Aporta experiencia y orientación estratégica para fortalecer nuestros programas, desarrollar alianzas y ampliar el impacto de EconThaki.
+  </p>
+  <div class="team-grid">
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Brian.png" alt="Brian">
+      <h3>Brian Daza</h3>
+      <p>Director Académico</p>
+    </div>
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Mari.jpg" alt="Mari">
+      <h3>María Luisa Zeta</h3>
+      <p>Directora Académica</p>
+    </div>
+  </div>
+
   <h2 class="team-section-title">Consejo Directivo</h2>
   <div class="team-grid">
     <div class="team-card">
