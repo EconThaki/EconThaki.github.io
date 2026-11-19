@@ -104,7 +104,7 @@ featured: false
       <p>Área de Comunicaciones</p>
     </div>
 <div class="team-card">
-      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/voolunteer_manuela.jpg" alt="Manuela">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Manuela.jpg" alt="Manuela">
       <h3>Manuela Correa</h3>
       <p>Área de Finanzas</p>
     </div>
