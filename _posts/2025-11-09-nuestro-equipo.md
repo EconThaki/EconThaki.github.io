@@ -25,12 +25,14 @@ featured: false
   </div>
 
   <h2 class="team-section-title">Consejo Directivo</h2>
-  Define las prioridades de EconThaki y dirige su gestión, coordinando al equipo, los programas y los recursos para cumplir nuestra misión.
+  <p style="text-align: center; max-width: 750px; margin: 0 auto 2rem auto; color: #555;">
+    Define las prioridades de EconThaki y dirige su gestión, coordinando al equipo, los programas y los recursos para cumplir nuestra misión.
+  </p>
   <div class="team-grid">
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Selene.jpg" alt="Selene">
       <h3>Selene Cueva</h3>
-      <p> Directora General</p>
+      <p>Directora General</p>
     </div>
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Paola.jpg" alt="Paola">
@@ -62,14 +64,27 @@ featured: false
       <h3>Brayan Condori</h3>
       <p>Director de Programas</p>
     </div>
-      <div class="team-card">
+    <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Ronny.jpeg" alt="Ronny">
       <h3>Ronny Condor</h3>
       <p>Director de Alianzas</p>
     </div>
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Lorely.jpg" alt="Lorely">
+      <h3>Lorely Muñoz</h3>
+      <p>Directora de Finanzas</p>
+    </div>
+    <div class="team-card">
+      <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Vanina.jpg" alt="Vanina">
+      <h3>Vanina Vivas</h3>
+      <p>Directora Académica</p>
+    </div>
   </div>
 
   <h2 class="team-section-title">Voluntarios/as</h2>
+  <p style="text-align: center; max-width: 750px; margin: 0 auto 2rem auto; color: #555;">
+    Hace posible el trabajo de EconThaki apoyando la organización de programas, la formación y mentoría de participantes, la creación de contenidos y la difusión de oportunidades en economía y políticas públicas.
+  </p>
   <div class="team-grid">
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/Voluntarios/Volunteer_Alejandra.jpg" alt="Alejandra">
