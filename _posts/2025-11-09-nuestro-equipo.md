@@ -25,6 +25,7 @@ featured: false
   </div>
 
   <h2 class="team-section-title">Consejo Directivo</h2>
+  Define las prioridades de EconThaki y dirige su gestión, coordinando al equipo, los programas y los recursos para cumplir nuestra misión.
   <div class="team-grid">
     <div class="team-card">
       <img src="{{ site.baseurl }}/assets/images/team/CD/cd_Selene.jpg" alt="Selene">
