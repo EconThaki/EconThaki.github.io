@@ -4,7 +4,7 @@ title: Entrevistas - Alexis Minaya
 date: "March 2026"
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/fellowships/alexis.jpg
+image: assets/images/fellowships/Alex.jpg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -27,7 +27,7 @@ Esperamos les guste esta entrevista y se inspiren con su historia.
 
 <div class = "teal">
   <strong>
-  1. ¿De qué universidad egresaste y en qué región del país realizaste tus estudios en el pregrado?
+1. ¿De qué universidad egresaste y en qué región del país realizaste tus estudios en el pregrado?
   </strong>
 </div>
 
@@ -37,7 +37,7 @@ Realicé mis estudios en pregrado en Economía en la Universidad Nacional Mayor 
 
 <div class = "teal">
   <strong>
-  2. ¿En qué programa(s) de EconThaki participaste previamente y qué fue lo más importante que te aportó para tu formación en economía o investigación?
+2. ¿En qué programa(s) de EconThaki participaste previamente y qué fue lo más importante que te aportó para tu formación en economía o investigación?
   </strong>
 </div>
 
@@ -51,7 +51,7 @@ Además, el acompañamiento constante y la retroalimentación del equipo de Econ
 
 <div class = "teal">
   <strong>
-  3. Antes de EconThaki, ¿cómo veías la posibilidad de seguir una carrera académica en economía? ¿Cambió esa percepción después del programa y el fellowship?
+3. Antes de EconThaki, ¿cómo veías la posibilidad de seguir una carrera académica en economía? ¿Cambió esa percepción después del programa y el fellowship?
   </strong>
 </div>
 
@@ -68,7 +68,7 @@ Participar en el programa de mentorías y luego en el fellowship cambió mi pers
 
 <div class = "teal">
   <strong>
-  4. ¿Qué tipo de tareas realizaste como fellow y qué aprendiste sobre cómo funciona la investigación académica en la práctica?
+4. ¿Qué tipo de tareas realizaste como fellow y qué aprendiste sobre cómo funciona la investigación académica en la práctica?
   </strong>
 </div>
 
@@ -82,7 +82,7 @@ A través de este trabajo, aprendí que la investigación en la práctica es un 
 
 <div class = "teal">
   <strong>
-  5. ¿Cuál dirías que fue la principal habilidad técnica o profesional que desarrollaste durante el fellowship?
+5. ¿Cuál dirías que fue la principal habilidad técnica o profesional que desarrollaste durante el fellowship?
   </strong>
 </div>
 
@@ -94,7 +94,7 @@ Más importante aún, fortalecí mi capacidad para interpretar críticamente los
 
 <div class = "teal">
   <strong>
-  6. ¿Cómo fue tu interacción con tus mentores y de qué manera influyeron en tu desarrollo académico o profesional?
+6. ¿Cómo fue tu interacción con tus mentores y de qué manera influyeron en tu desarrollo académico o profesional?
   </strong>
 </div>
 
@@ -113,7 +113,7 @@ Esta experiencia influyó profundamente en mi desarrollo, no solo por las habili
 
 <div class = "teal">
   <strong>
-  7. ¿Qué aspectos valiosos encuentras en desarrollar una trayectoria académica en economía en el Perú, y qué te motiva a continuar en ella?
+7. ¿Qué aspectos valiosos encuentras en desarrollar una trayectoria académica en economía en el Perú, y qué te motiva a continuar en ella?
   </strong>
 </div>
 
@@ -125,7 +125,7 @@ Mi motivación es profundamente personal. Durante la interrupción de mis estudi
 
 <div class = "teal">
   <strong>
-  8. ¿Cuáles son tus objetivos académicos o profesionales a corto y mediano plazo y cómo este fellowship te acerca a ellos?
+8. ¿Cuáles son tus objetivos académicos o profesionales a corto y mediano plazo y cómo este fellowship te acerca a ellos?
   </strong>
 </div>
 
@@ -137,7 +137,7 @@ El fellowship fue clave para acercarme a estos objetivos: desarrollé habilidade
 
 <br>
 
---
+---
 
 <div class = "teal">
 
