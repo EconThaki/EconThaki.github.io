@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -117,6 +117,11 @@
                 </li>
                 <li class="nav-item" style="margin-left: 10px;">
                     <a class="nav-link" href="{{ site.baseurl }}/sumate/" style="background-color: #00CDC8; color: #0F0F0F !important; font-weight: 700; padding: 7px 18px; border-radius: 6px; letter-spacing: 0.4px;">Súmate</a>
+                </li>
+                <li class="nav-item notranslate" style="margin-left: 8px;">
+                    <button id="btn-lang-toggle" type="button" onclick="toggleLanguage()" style="background: transparent; border: 1.5px solid #0F0F0F; color: #0F0F0F; font-weight: 700; padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 0.85rem; line-height: 1.2;">
+                        🌐 EN
+                    </button>
                 </li>
                 
             </ul>
@@ -284,6 +289,50 @@ $(document).ready(function(){
   });
 });
 </script>
+
+<!-- Traducción automática ES / EN -->
+<div id="google_translate_element" style="display:none;"></div>
+
+<style>
+  .goog-te-banner-frame.skiptranslate, .goog-te-gadget-icon, #goog-gt-tt, .goog-te-balloon-frame { display: none !important; }
+  body { top: 0px !important; }
+  .skiptranslate iframe { visibility: hidden !important; height: 0 !important; }
+  .goog-text-highlight { background: none !important; box-shadow: none !important; }
+</style>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'es',
+    includedLanguages: 'en,es',
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+
+function toggleLanguage() {
+  var btn = document.getElementById('btn-lang-toggle');
+  var isEnglish = document.cookie.indexOf('googtrans=/es/en') !== -1;
+
+  if (!isEnglish) {
+    document.cookie = "googtrans=/es/en; path=/";
+    document.cookie = "googtrans=/es/en; path=/; domain=" + window.location.hostname;
+    btn.innerText = "🌐 ES";
+  } else {
+    document.cookie = "googtrans=/es/es; path=/";
+    document.cookie = "googtrans=/es/es; path=/; domain=" + window.location.hostname;
+    btn.innerText = "🌐 EN";
+  }
+  window.location.reload();
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  var btn = document.getElementById('btn-lang-toggle');
+  if (btn && document.cookie.indexOf('googtrans=/es/en') !== -1) {
+    btn.innerText = "🌐 ES";
+  }
+});
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 </body>
     
