@@ -45,7 +45,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <div>
       <strong>— Ashley Ccanto</strong>
       <span style="font-size:0.9em; color:#555; display:block; margin-bottom:10px;">UNALM, Lima</span>
-      <a href="/entrevistas/2026/03/25/voces_ashley_ccanto.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
+      <a href="/entrevistas/2026/03/01/voces_ashley_ccanto.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
     </div>
   </div>
 
@@ -57,7 +57,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <div>
       <strong>— Antony Ore</strong>
       <span style="font-size:0.9em; color:#555; display:block; margin-bottom:10px;">UNSAAC, Cusco</span>
-      <a href="/entrevistas/2026/03/25/voces_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
+      <a href="/entrevistas/2026/03/01/voces_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
     </div>
   </div>
 
@@ -69,7 +69,7 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
     <div>
       <strong>— Alexis Minaya</strong>
       <span style="font-size:0.9em; color:#555; display:block; margin-bottom:10px;">UNMSM, Lima</span>
-      <a href="/entrevistas/2026/03/25/voces_alexis_minaya.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
+      <a href="/entrevistas/2026/03/01/voces_alexis_minaya.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
     </div>
   </div>
 
