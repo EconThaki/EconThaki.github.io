@@ -4,7 +4,7 @@ title: Entrevistas - Antony Ore
 date: "March 2026"
 author: econthaki
 categories: [Entrevistas]
-image: assets/images/fellowships/antony.jpg
+image: assets/images/fellowships/Antony.jpeg
 output:
   prettydoc::html_pretty:
     theme: hpstr
@@ -27,7 +27,7 @@ Esperamos les guste esta entrevista y se inspiren con su historia.
 
 <div class = "teal">
   <strong>
-  1. ¿De qué universidad egresaste y en qué región del país realizaste tus estudios en el pregrado?
+1. ¿De qué universidad egresaste y en qué región del país realizaste tus estudios en el pregrado?
   </strong>
 </div>
 
@@ -37,7 +37,7 @@ Soy egresado de la Universidad Nacional de San Antonio Abad del Cusco, en Perú.
 
 <div class = "teal">
   <strong>
-  2. ¿En qué programa(s) de EconThaki participaste previamente y qué fue lo más importante que te aportó para tu formación en economía o investigación?
+2. ¿En qué programa(s) de EconThaki participaste previamente y qué fue lo más importante que te aportó para tu formación en economía o investigación?
   </strong>
 </div>
 
@@ -47,7 +47,7 @@ Mi primer programa en EconThaki fue el club de lectura, ahí me acerqué más a 
 
 <div class = "teal">
   <strong>
-  3. Antes de EconThaki, ¿cómo veías la posibilidad de seguir una carrera académica en economía? ¿Cambió esa percepción después del programa y el fellowship?
+3. Antes de EconThaki, ¿cómo veías la posibilidad de seguir una carrera académica en economía? ¿Cambió esa percepción después del programa y el fellowship?
   </strong>
 </div>
 
@@ -62,7 +62,7 @@ Lo veía bastante lejano. Considero que conocí la carrera académica bastante t
 
 <div class = "teal">
   <strong>
-  4. ¿Qué tipo de tareas realizaste como fellow y qué aprendiste sobre cómo funciona la investigación académica en la práctica?
+4. ¿Qué tipo de tareas realizaste como fellow y qué aprendiste sobre cómo funciona la investigación académica en la práctica?
   </strong>
 </div>
 
@@ -74,7 +74,7 @@ También me tocó limpiar los datos de manera más exhaustiva y entendí mucho l
 
 <div class = "teal">
   <strong>
-  5. ¿Cuál dirías que fue la principal habilidad técnica o profesional que desarrollaste durante el fellowship?
+5. ¿Cuál dirías que fue la principal habilidad técnica o profesional que desarrollaste durante el fellowship?
   </strong>
 </div>
 
@@ -84,7 +84,7 @@ Aprendí bastante sobre software estadísticos, realmente por todo lo que logré
 
 <div class = "teal">
   <strong>
-  6. ¿Cómo fue tu interacción con tu mentor y de qué manera influyó en tu desarrollo académico o profesional?
+6. ¿Cómo fue tu interacción con tu mentor y de qué manera influyó en tu desarrollo académico o profesional?
   </strong>
 </div>
 
@@ -96,7 +96,7 @@ También fue una persona que me ha ayudado a resolver dudas sobre el doctorado y
 
 <div class = "teal">
   <strong>
-  7. ¿Qué aspectos valiosos encuentras en desarrollar una trayectoria académica en economía en el Perú, y qué te motiva a continuar en ella?
+7. ¿Qué aspectos valiosos encuentras en desarrollar una trayectoria académica en economía en el Perú, y qué te motiva a continuar en ella?
   </strong>
 </div>
 
@@ -111,7 +111,7 @@ Considero que es parte de tener un objetivo más grande. Como alguien que encuen
 
 <div class = "teal">
   <strong>
-  8. ¿Cuáles son tus objetivos académicos o profesionales a corto y mediano plazo y cómo este fellowship te acerca a ellos?
+8. ¿Cuáles son tus objetivos académicos o profesionales a corto y mediano plazo y cómo este fellowship te acerca a ellos?
   </strong>
 </div>
 
@@ -119,7 +119,7 @@ A mediano plazo tengo como objetivo empezar la maestría en economía. El fellow
 
 <br>
 
---
+---
 
 <div class = "teal">
 
