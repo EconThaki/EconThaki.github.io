@@ -37,28 +37,40 @@ Durante el fellowship, los participantes contribuyeron activamente al desarrollo
 
 <div style="display:flex; gap:32px; flex-wrap:wrap; margin-top:24px;">
 
-  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
-    <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Cómo ves ahora la posibilidad de seguir una carrera académica?</p>
-    <p style="font-style:italic; margin:0 0 12px 0;">"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
-    <strong>— Ashley Ccanto</strong>
-    <span style="font-size:0.9em; color:#555;">UNALM, Lima</span>
-    <a href="/entrevistas/2026/03/01/Entrevistas_ashley_ccanto.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
+  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px; display:flex; flex-direction:column; justify-content:space-between;">
+    <div>
+      <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Cómo ves ahora la posibilidad de seguir una carrera académica?</p>
+      <p style="font-style:italic; margin:0 0 12px 0;">"Ya no la percibo como algo lejano, sino como una meta alcanzable, para la cual es necesario seguir ciertos pasos y una preparación progresiva."</p>
+    </div>
+    <div>
+      <strong>— Ashley Ccanto</strong>
+      <span style="font-size:0.9em; color:#555; display:block; margin-bottom:10px;">UNALM, Lima</span>
+      <a href="/entrevistas/2026/03/25/voces_ashley_ccanto.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
+    </div>
   </div>
 
-  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
-    <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Qué te motiva a continuar en la trayectoria académica?</p>
-    <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
-    <strong>— Antony Ore</strong>
-    <span style="font-size:0.9em; color:#555;">UNSAAC, Cusco</span>
-    <a href="/entrevistas/2026/03/01/Entrevistas_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
+  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px; display:flex; flex-direction:column; justify-content:space-between;">
+    <div>
+      <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Qué te motiva a continuar en la trayectoria académica?</p>
+      <p style="font-style:italic; margin:0 0 12px 0;">"Me gustaría usar esta experiencia para resolver y plantear respuestas a preguntas y situaciones que desde chico he vivido y presenciado, y sentir que con ello puedo ayudar a hacer mejor el lugar donde vivo."</p>
+    </div>
+    <div>
+      <strong>— Antony Ore</strong>
+      <span style="font-size:0.9em; color:#555; display:block; margin-bottom:10px;">UNSAAC, Cusco</span>
+      <a href="/entrevistas/2026/03/25/voces_antony_barra.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
+    </div>
   </div>
 
-  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px;">
-    <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Cómo cambió tu percepción sobre la carrera académica?</p>
-    <p style="font-style:italic; margin:0 0 12px 0;">"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
-    <strong>— Alexis Minaya</strong>
-    <span style="font-size:0.9em; color:#555;">UNMSM, Lima</span>
-    <a href="/entrevistas/2026/03/01/Entrevistas_alexis_minaya.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; font-size:0.85em;">Leer entrevista →</a>
+  <div style="flex:1; min-width:220px; background:#f9f9f9; border-left:4px solid #2C7A7B; padding:16px; border-radius:4px; display:flex; flex-direction:column; justify-content:space-between;">
+    <div>
+      <p style="font-size:0.8em; font-weight:bold; color:#2C7A7B; margin:0 0 8px 0;">¿Cómo cambió tu percepción sobre la carrera académica?</p>
+      <p style="font-style:italic; margin:0 0 12px 0;">"Comprendí que el camino académico no es lineal, y que con orientación oportuna y espacios que reconozcan el potencial, es posible emprender una trayectoria académica incluso después de haber enfrentado interrupciones."</p>
+    </div>
+    <div>
+      <strong>— Alexis Minaya</strong>
+      <span style="font-size:0.9em; color:#555; display:block; margin-bottom:10px;">UNMSM, Lima</span>
+      <a href="/entrevistas/2026/03/25/voces_alexis_minaya.html" style="display:inline-block; background:#2C7A7B; color:white; padding:8px 16px; border-radius:4px; text-decoration:none; border-bottom:none; font-size:0.85em;">Leer entrevista →</a>
+    </div>
   </div>
 
 </div>
