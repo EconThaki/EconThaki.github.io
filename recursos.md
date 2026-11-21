@@ -29,28 +29,26 @@ En esta sección encontrarás recursos que pueden servirte en el camino hacia la
 
 Si quieres que te listemos aquí, contáctanos (línk sección contacto)
 
-Preguntas frecuentes
+**Preguntas frecuentes**
 
-¿Cuándo saldrán los resultados de la Encuesta de RAs en Economía en Lationamérica?
+**¿EconThaki es una organización sin fines de lucro?**
 
-La encuesta está siendo difundida entre mayo a junio, el análisis se realizará durante julio. Así que esperamos presentar los resultados para agosto.
+EconThaki es una iniciativa sin fines de lucro dedicada a impulsar la diversidad y el acceso a la investigación en economía y políticas públicas en América Latina y el Caribe. Todos nuestros programas son completamente gratuitos para quienes participan y se sostienen gracias al trabajo voluntario de nuestra red y al apoyo de donantes y aliados. Si deseas contribuir con nuestra causa o explorar alianzas, visita nuestra sección [Súmate]({{ site.baseurl }}/sumate/).
 
-¿EconThaki es una ONG?
+**¿Quiénes pueden participar en los programas que ofrecen?**
 
-Estamos en proceso de convertirnos en ONG a partir del 2022 y contar con la posibilidad de recibir donaciones. Comunicaremos nuestra conversión de manera oportuna a través de nuestras redes sociales. Si te interesa donar a nuestra causa, te recomendamos contactarte con nosotros aquí (link a contacto)
+Nuestros programas están dirigidos a estudiantes de los últimos años de pregrado o recién egresados/as de Economía y carreras afines (políticas públicas, ingeniería económica, estadística, ciencias sociales, entre otras) de América Latina y el Caribe, con interés en la academia y la investigación aplicada, y con poca o nula exposición previa a entornos de investigación.
 
-¿Puedo participar de los programas que dan?
+Alentamos especialmente la postulación de personas pertenecientes a grupos subrepresentados en la disciplina: estudiantes de universidades públicas, de regiones fuera de las capitales, mujeres, personas indígenas y afrodescendientes, población LGTBIQ+, personas con discapacidad y personas en situación de vulnerabilidad socioeconómica. Los requisitos específicos de cada edición se detallan en cada convocatoria abierta.
 
-Si eres estudiante de pregrado de economía o carreras afines (políticas públicas, ingeniería económica, estadística, etc.), tienes nacionalidad peruana, estás al menos a dos años de egresar del pregrado o egresaste a lo más hace 2 años, tienes interés o curiosidad por la academia y cómo hacer investigación en temas de economía y afines, tienes poca o nula exposición al mundo de la investigación cumples con los requisitos para ser parte de los programas que ofrecemos. Sobre todo, alentamos a participapar población subrepresentada en la academia actualmente: estudiantes de universidades públicas, mujeres, de regiones, población indígena y afroperuana, LGTBIQ, personas con discapacidad y víctimas de conflicto armado interno.
+**¿En qué países tienen alcance sus programas?**
 
-¿Por qué solo tienen operaciones en Perú?
+Aunque EconThaki nació en Perú, hoy nuestros programas, talleres y redes de mentoría tienen alcance regional y están abiertos a participantes, mentores y aliados de toda América Latina y el Caribe.
 
-Sabemos que las realidades de los distintos países de América Latina y el Caribe son heterogéneas. Comenzaremos operaciones en Perú porque el contenido de los talleres y estrategias para postular al posgrado está acotado para Perú. Esto será para el primer año de la organización, 2021, pero buscaremos expandirnos para los siguientes.
+**¿Cómo puedo participar como mentor o mentora?**
 
-¿Cómo hago para participar como mentor del programa?
+Abrimos convocatorias periódicas para sumar mentores y mentoras a nuestros distintos programas (como *Ecomienza* y *Mentorías*), las cuales difundimos a través de nuestras redes sociales y página web. Buscamos asistentes de investigación (*pre-docs*), estudiantes de maestría o doctorado y jóvenes investigadores/as en economía o disciplinas afines con disposición para acompañar, orientar y brindar retroalimentación académica a nuevas generaciones.
 
-A partir de junio, abriremos convocatoria para participar como mentores. Los requisitos para ser mentor junior son: Ser asistente de investigación con al menos 3 años de experiencia o ya haber pasado por un proceso de aplicación al doctorado o ser estudiante de doctorados de economía o afines en los primeros años | Para ser mentor senior: ser estudiante del doctorado en Economía o afines con proyectos de investigación propios o recién graduados de programas doctorales en el exterior.
+**¿Cómo puedo formar parte del equipo de EconThaki?**
 
-¿Cómo hago para participar del equipo de EconThaki?
-
-En los próximos meses, abriremos distintas convocatorias para ser parte del equipo. Vamos a necesitar muchas manos. De todas maneras, si te interesa colaborar con tiempo para la organización, puedes contactarte con nosotros aquí (link a contacto)
+EconThaki funciona gracias a un equipo multidisciplinario de voluntarios y voluntarias en áreas como Académica, Programas, Entrevistas, Comunicaciones, Finanzas y Alianzas. Publicamos convocatorias abiertas de voluntariado de forma periódica en nuestras redes sociales. Si te interesa colaborar con tu tiempo, talento o propuesta de alianza, escríbenos a **econthaki.latam@gmail.com** o revisa las formas de colaborar en [Súmate]({{ site.baseurl }}/sumate/).
