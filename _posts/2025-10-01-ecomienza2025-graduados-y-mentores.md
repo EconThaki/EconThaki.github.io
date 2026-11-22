@@ -62,8 +62,8 @@ Los mentores fueron las personas encargadas de orientar a cada estudiante en el 
     <th colspan="3">Mentores</th> 
   </tr>  
   <tr>
-    <td align="center">Sharon Espinoza <br /><img src="{{ site.baseurl }}/assets/imágenes/equipo/CD/cd_Sharon.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
-    <td align="center">Brayan Condori <br /><img src="{{ site.baseurl }}/assets/imágenes/equipo/CD/cd_Brayan.jpg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
-    <td align="center">Ronny Condor <br /><img src="{{ site.baseurl }}/assets/imágenes/equipo/CD/cd_Ronny.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
+    <td align="center">Sharon Espinoza <br /><img src="{{ site.baseurl }}/assets/im%C3%A1genes/equipo/CD/cd_Sharon.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
+    <td align="center">Brayan Condori <br /><img src="{{ site.baseurl }}/assets/im%C3%A1genes/equipo/CD/cd_Brayan.jpg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
+    <td align="center">Ronny Condor <br /><img src="{{ site.baseurl }}/assets/im%C3%A1genes/equipo/CD/cd_Ronny.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
   </tr>
 </table>
