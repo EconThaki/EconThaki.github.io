@@ -56,14 +56,13 @@ Durante todo este proceso, cada alumno fue asignado a un tutor, quienes fueron v
 
 Los mentores fueron las personas encargadas de orientar a cada estudiante en el desarrollo de una propuesta de investigación a través de un sistema de "horas de oficina". Todos los mentores son actuales estudiantes de programas doctorales en economía o carreras relacionadas interesados en incrementar la diversidad en la academia.
 
-
 <table border="0" bordercolor="gray" align="center" style="width:100%">
   <tr>
     <th colspan="3">Mentores</th> 
   </tr>  
   <tr>
-    <td align="center">Sharon Espinoza <br /><img src="{{ site.baseurl }}/assets/im%C3%A1genes/equipo/CD/cd_Sharon.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
-    <td align="center">Brayan Condori <br /><img src="{{ site.baseurl }}/assets/im%C3%A1genes/equipo/CD/cd_Brayan.jpg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
-    <td align="center">Ronny Condor <br /><img src="{{ site.baseurl }}/assets/im%C3%A1genes/equipo/CD/cd_Ronny.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
+    <td align="center">Sharon Espinoza <br /><img src="{{ site.baseurl }}/assets/images/team/CD/cd_Sharon.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
+    <td align="center">Brayan Condori <br /><img src="{{ site.baseurl }}/assets/images/team/CD/cd_Brayan.jpg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
+    <td align="center">Ronny Condor <br /><img src="{{ site.baseurl }}/assets/images/team/CD/cd_Ronny.jpeg" border="1" height="100" width="100" style="object-fit: cover;"><br/></td>
   </tr>
 </table>
